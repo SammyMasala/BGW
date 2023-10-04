@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h98f492d8g393bg48adg9c7fgced38b9416c3" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fce7c35c-b4e1-47bd-aa50-9ef9a39ed932" />
+					<attribute id="Name" type="LSString" value="SMDA_DominateNecklace" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
+					<attribute id="Stats" type="FixedString" value="SMDA_DominateNecklace" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>	
+				<node id="GameObjects"> Witcher's Silver Longsword
+					<attribute id="Description" type="TranslatedString" handle="h88756d94g5cfbg42f2g9851g627b64419034" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1995f182g101cg4a74g9cddgdbf037d09f79" version="3" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bc6f16b5-e0f4-4dbe-822f-5e2deba9d105" />
+					<attribute id="Name" type="LSString" value="SMDA_WitchersSilverSword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats" type="FixedString" value="SMDA_WitchersSilverSword" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
+					<children>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_GITHYANKI_PSYCHIC_DAMAGE" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_PLANE_SHIFTER_SLAYER_BLESS" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="MAG_RADIANT_RADIANCE_WEAPON" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

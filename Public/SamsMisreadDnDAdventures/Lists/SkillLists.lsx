@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="21"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList"> Class Skills
+                    <attribute id="Skills" type="LSString" value="Athletics, Arcana, Investigation, Perception, Medicine, Nature"/>
+                    <attribute id="UUID" type="guid" value="206750fd-bbc6-4082-bf13-a6fa30a435b5"/>
+                </node>
+                <node id="SkillList"> Class Skills
+                    <attribute id="Skills" type="LSString" value="Intimidation"/>
+                    <attribute id="UUID" type="guid" value="40ba5d15-b88e-4be5-9b20-3144b4841f9b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

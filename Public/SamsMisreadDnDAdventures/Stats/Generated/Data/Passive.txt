@@ -1,0 +1,5 @@
+new entry "Quen"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(10,Lightning)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,10, Lightning,Magical)"

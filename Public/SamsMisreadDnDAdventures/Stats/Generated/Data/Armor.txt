@@ -1,0 +1,6 @@
+new entry "SMDA_DominateNecklace"
+type "Armor"
+using "_Amulet_Magic"
+data "RootTemplate" "fce7c35c-b4e1-47bd-aa50-9ef9a39ed932"
+data "Slot" "Amulet"
+data "Boosts" "UnlockSpell(Target_SMDA_DominateNecklace_Dominate_Person)
