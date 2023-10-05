@@ -1,4 +1,4 @@
-new entry "Shout_Quen"
+new entry "Shout_SMDA_Quen"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_ArmorOfAgathys"

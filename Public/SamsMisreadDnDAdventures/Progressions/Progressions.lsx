@@ -4,24 +4,34 @@
     <region id="Progressions">
         <node id="root">
             <children>
-                                <node id="Progression">
+                    <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(Longswords);Proficiency(Rapiers);Proficiency(Shortswords);Proficiency(HandCrossbows)"/>
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(6a4f8598-3a17-42d1-beac-d7ced582bafa,2);AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(206750fd-bbc6-4082-bf13-a6fa30a435b5,2)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Lethal_Precision;Toxic_Tolerance"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="dfb2fd83-9849-4c2d-be84-adedb81a867a"/>
+                    <attribute id="UUID" type="guid" value="ed7b629c-01e1-488d-88db-61851c63da27"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(cce1533f-201b-4dd5-af28-1dea1db32d5b)"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="aafbbc41-16e8-4296-a283-a2c5fdd0625b"/>
+                    <attribute id="UUID" type="guid" value="2c44cc2b-d52f-4363-a057-c9ae19825d29"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Witcher"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2e72df1d-4f1c-47f3-9a15-0fee8fbab3d5)"/>
+                    <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
+                    <attribute id="UUID" type="guid" value="b8199e53-49b4-4c17-9405-2403094151d5"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
@@ -29,7 +39,7 @@
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="05f6a6ef-a574-4317-b9e4-e710975e07b4"/>
+                    <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5"/>
@@ -37,28 +47,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="3b20daaa-91e3-45ec-ad66-69763bc5ab2d"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Fighter"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(6a4f8598-3a17-42d1-beac-d7ced582bafa,2);AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
-                    <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="dfb2fd83-9849-4c2d-be84-adedb81a867a"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
-                    <attribute id="IsMulticlass" type="bool" value="true"/>
-                    <attribute id="Level" type="uint8" value="1"/>
-                    <attribute id="Name" type="LSString" value="Fighter"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(9e32fc2b-ce4f-47aa-b113-25cbdc025123);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle)"/>
-                    <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="b29977d4-b81a-4794-9f4f-badd7cc23f6b"/>
+                    <attribute id="UUID" type="guid" value="468b5fc1-f396-42e4-892f-94a158caf05f"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
@@ -66,14 +55,14 @@
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="3265e108-9c70-4714-b13b-4603e40d2f07"/>
+                    <attribute id="UUID" type="guid" value="ff571104-dc05-477e-8aca-d04cb46e09c5"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="063562cd-a30d-40f9-a992-5a15c186a483"/>
+                    <attribute id="UUID" type="guid" value="4b678bb9-d737-4f68-9b3c-55c2b0374718"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
@@ -81,7 +70,7 @@
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="f6fbe4d4-ec8b-4b88-9851-d9aa398efb7f"/>
+                    <attribute id="UUID" type="guid" value="47b454ba-6ade-4cc9-ac8e-d8641b909aad"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
@@ -89,14 +78,14 @@
                     <attribute id="PassivesAdded" type="LSString" value="Indomitable"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="5f69e04b-1d97-481c-995f-a069dfb9f555"/>
+                    <attribute id="UUID" type="guid" value="0ade7def-b395-4e1b-b29c-8710a58b6363"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="7535f41a-d360-4adc-8166-9d2e29660b1d"/>
+                    <attribute id="UUID" type="guid" value="583e9731-c4d0-4f96-a094-ca8bbd721c62"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
@@ -105,7 +94,7 @@
                     <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="fbf8b5f0-eb19-4da9-b89a-f8c743f684d1"/>
+                    <attribute id="UUID" type="guid" value="9b753c7f-8b02-4538-8b50-70b2acd9d3e6"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
@@ -113,7 +102,7 @@
                     <attribute id="Name" type="LSString" value="Fighter"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="ddf55c97-9032-4aa1-af76-4ae669a6b53b"/>
+                    <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e"/>
                 </node>
             </children>
         </node>
