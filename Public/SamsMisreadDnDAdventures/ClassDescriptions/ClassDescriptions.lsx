@@ -7,8 +7,8 @@
                 <node id="ClassDescription">
                     <attribute id="BaseHp" type="int32" value="10"/>
                     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
-                    <attribute id="Description" type="TranslatedString" handle="77523fb3deaa14de1766304e0911fbc49ae77" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="66523fb3deaa14de1766304e0911fbc49ae66" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h7165401ag0611g462ag8e13g94bf728bdd89" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1"/>
                     <attribute id="HpPerLevel" type="int32" value="6"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Witcher"/>
@@ -22,10 +22,10 @@
                     <attribute id="UUID" type="guid" value="d4a398b6-0145-41d3-8dd2-caabe4ae335c"/>
 					<children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="6959630e-056e-4be4-a4bd-7001d4b878da"/> Dialogue tag WIZARD (TODO?)
+                            <attribute id="Object" type="guid" value="6959630e-056e-4be4-a4bd-7001d4b878da"/> 
                         </node>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="64e66d2d-624b-40ac-83ca-e49df54e0272"/> Tag ARTIFICER
+                            <attribute id="Object" type="guid" value="64e66d2d-624b-40ac-83ca-e49df54e0272"/> 
                         </node>
                     </children>
                 </node>

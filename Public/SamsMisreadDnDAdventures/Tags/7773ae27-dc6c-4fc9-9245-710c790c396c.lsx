@@ -4,8 +4,8 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Born of mutation and martial training, witchers are mysterious master hunters of beasts, spoken oft in fearful tones by the common folk." />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="77523fb3deaa14de1766304e0911fbc49ae77" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="66523fb3deaa14de1766304e0911fbc49ae66" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h7165401ag0611g462ag8e13g94bf728bdd89" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="WITCHER" />
 			<attribute id="UUID" type="guid" value="ae4071aa-d711-4047-a01e-27fc0adb7900" />
