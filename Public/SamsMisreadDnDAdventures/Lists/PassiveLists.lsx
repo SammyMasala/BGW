@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="SMDA_MutantEnhancement_IntimidatingPresence,SMDA_MutantEnhancement_EnhancedReflexes,ExperimentalAlchemy,SMDA_MutantEnhancement_EnhancedMovement"/>
+                    <attribute id="UUID" type="guid" value="db928125-746e-48ac-b6b3-d75aa9a35278"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="SMDA_MutantEnhancement_IntimidatingPresence,SMDA_MutantEnhancement_EnhancedReflexes,ExperimentalAlchemy,SMDA_MutantEnhancement_EnhancedMovement,ColossusSlayer,SMDA_MutantEnhancement_IronFlesh,SMDA_MutantEnhancement_UnbreakableMind,SMDA_MutantEnhancement_MurderousSurge"/>
+                    <attribute id="UUID" type="guid" value="34a04908-5ee9-41b1-b460-b9d968ef25f1"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

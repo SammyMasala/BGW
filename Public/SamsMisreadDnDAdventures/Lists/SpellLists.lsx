@@ -4,30 +4,20 @@
     <region id="SpellLists">
         <node id="root">
             <children>
-                <node id="SpellList"> SIGNS
+                <node id="SpellList"> SIGNS 3
                     <attribute id="Comment" type="LSString" value="Witcher Signs List"/>
-                    <attribute id="Spells" type="LSString" value="Shout_SMDA_Quen;Shout_SMDA_Yrden;Target_SMDA_Axii;Zone_SMDA_Igni;Zone_SMDA_Aard"/>
-                    <attribute id="UUID" type="guid" value="cce1533f-201b-4dd5-af28-1dea1db32d5b"/>
-                </node>
-                <node id="SpellList"> ALT SIGNS
-                    <attribute id="Comment" type="LSString" value="Witcher Alt Signs List"/>
-                    <attribute id="Spells" type="LSString" value="Target_SMDA_AxiiAlt;Zone_SMDA_IgniAlt;Zone_SMDA_AardAlt"/>
-                    <attribute id="UUID" type="guid" value="2e72df1d-4f1c-47f3-9a15-0fee8fbab3d5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_SMDA_Quen_3;Shout_SMDA_QuenAlt_3;Shout_SMDA_Yrden_3;Shout_SMDA_YrdenAlt_3;Target_SMDA_Axii_3;Target_SMDA_AxiiAlt_3;Zone_SMDA_Igni_3;Zone_SMDA_IgniAlt_3;Zone_SMDA_Aard_3;Zone_SMDA_AardAlt_3"/>
+                    <attribute id="UUID" type="guid" value="e9c04dba-2ca0-41c5-93d1-b1fc68074fcd"/>
                 </node>
                 <node id="SpellList"> HELIO
                     <attribute id="Comment" type="LSString" value="Witcher Heliotrope"/>
-                    <attribute id="Spells" type="LSString" value="Shout_SMDA_Quen;Shout_SMDA_Yrden;Target_SMDA_Axii;Target_SMDA_AxiiAlt;Zone_SMDA_Igni;Zone_SMDA_IgniAlt;Zone_SMDA_Aard;Zone_SMDA_AardAlt"/>
+                    <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="b80fa434-fbea-4ce8-bdf9-e39cc38a2da9"/>
                 </node>
                 <node id="SpellList"> ALT HELIO
                     <attribute id="Comment" type="LSString" value="Witcher Improved Heliotrope"/>
-                    <attribute id="Spells" type="LSString" value="Shout_SMDA_Quen;Shout_SMDA_Yrden;Target_SMDA_Axii;Target_SMDA_AxiiAlt;Zone_SMDA_Igni;Zone_SMDA_IgniAlt;Zone_SMDA_Aard;Zone_SMDA_AardAlt"/>
+                    <attribute id="Spells" type="LSString" value=""/>
                     <attribute id="UUID" type="guid" value="824b5d35-6227-4783-831b-33b86b5bde68"/>
-                </node>
-                <node id="SpellList"> ALL WITCHER SPELLS
-                    <attribute id="Comment" type="LSString" value="Witcher Signs List"/>
-                    <attribute id="Spells" type="LSString" value="Shout_SMDA_Quen;Shout_SMDA_Yrden;Target_SMDA_Axii;Target_SMDA_AxiiAlt;Zone_SMDA_Igni;Zone_SMDA_IgniAlt;Zone_SMDA_Aard;Zone_SMDA_AardAlt"/>
-                    <attribute id="UUID" type="guid" value="1d38bb8e-07ce-475d-ba8e-a3198f2d2bb1"/>
                 </node>
 			</children>
         </node>

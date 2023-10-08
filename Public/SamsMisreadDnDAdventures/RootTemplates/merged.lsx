@@ -56,6 +56,28 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects"> Monster Slayer Longsword
+					<attribute id="Description" type="TranslatedString" handle="h7df25785g34f5g4076gbfccg9ab50ba4d8de" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ed1f7f31-7cd8-4ace-8f7c-2d7e664027dc" />
+					<attribute id="Name" type="LSString" value="SMDA_MonsterSlayerLongsword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d4cb8410-096a-480e-88fb-7224c6b654f6" />
+					<attribute id="Stats" type="FixedString" value="SMDA_MonsterSlayerLongsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
+				</node>
+				<node id="GameObjects"> Cunning Hand Crossbow
+					<attribute id="Description" type="TranslatedString" handle="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fde7684a-3a46-482f-be17-4b12e85c657d"/>
+					<attribute id="Name" type="LSString" value="SMDA_Cunning_HandCrossbow_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
+					<attribute id="Stats" type="FixedString" value="SMDA_Cunning_HandCrossbow_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="79e935b4-9dca-7fdc-bc55-ba7e846909f9" />
+				</node>
 			</children>
 		</node>
 	</region>

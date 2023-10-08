@@ -10,12 +10,6 @@
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="77e3a25c-1707-41a9-8809-471f4a6d746c"/>
                 </node>
-                <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Intimidation;Arcana"/>
-                    <attribute id="Level" type="int32" value="6"/>
-                    <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="7763a25c-1707-41a9-8809-471f4a6d746c"/>
-                </node>
             </children>
         </node>
     </region>

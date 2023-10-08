@@ -12,13 +12,12 @@
                     <attribute id="HpPerLevel" type="int32" value="6"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Witcher"/>
-                    <attribute id="MulticlassSpellcasterModifier" type="double" value="0.5"/>
+                    <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
                     <attribute id="Name" type="FixedString" value="Witcher"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-                    <attribute id="SpellList" type="guid" value="af3aa11f-cc98-412f-a85e-7fae4561a4d4"/>
                     <attribute id="UUID" type="guid" value="d4a398b6-0145-41d3-8dd2-caabe4ae335c"/>
 					<children>
                         <node id="Tags">
