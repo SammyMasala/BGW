@@ -8,10 +8,10 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
 c                    <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(HeavyArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
-                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(206750fd-bbc6-4082-bf13-a6fa30a435b5,2)"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SMDA_Lethal_Precision;SMDA_Toxic_Tolerance"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(206750fd-bbc6-4082-bf13-a6fa30a435b5,2);"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SMDA_ToxicTolerance"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="ed7b629c-01e1-488d-88db-61851c63da27"/>
                 </node>
@@ -29,7 +29,7 @@ c                    <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(db928125-746e-48ac-b6b3-d75aa9a35278,1,MutantEnhancement)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(88203595-b613-4ee4-bb1e-57e69c6ad032,1,ElixirBonus)"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="b8199e53-49b4-4c17-9405-2403094151d5"/>
                 </node>
@@ -43,9 +43,11 @@ c                    <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(db928125-746e-48ac-b6b3-d75aa9a35278,2,MutantEnhancement)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="468b5fc1-f396-42e4-892f-94a158caf05f"/>
@@ -64,25 +66,24 @@ c                    <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(db928125-746e-48ac-b6b3-d75aa9a35278,1,MutantEnhancement)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(34a04908-5ee9-41b1-b460-b9d968ef25f1,2,MutantEnhancement)"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="4b678bb9-d737-4f68-9b3c-55c2b0374718"/>
+                    <attribute id="UUID" type="guid" value="4b678bb9-d737-4f68-9b3c-55c2b0  374718"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="SMDA_HelioUnlock_1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SMDA_HelioUnlock_2"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="47b454ba-6ade-4cc9-ac8e-d8641b909aad"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(34a04908-5ee9-41b1-b460-b9d968ef25f1,1,MutantEnhancement)"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="SMDA_WitcherSignsUnlock_2"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SMDA_WitcherSignsUnlock_3"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="0ade7def-b395-4e1b-b29c-8710a58b6363"/>
                 </node>
@@ -90,18 +91,17 @@ c                    <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="SMDA_WitcherSignsUnlock_2"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SMDA_WitcherSignsUnlock_3"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="SMDA_HelioUnlock_1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SMDA_HelioUnlock_2"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="583e9731-c4d0-4f96-a094-ca8bbd721c62"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2"/>
                     <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(34a04908-5ee9-41b1-b460-b9d968ef25f1,1,MutantEnhancement)"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="9b753c7f-8b02-4538-8b50-70b2acd9d3e6"/>
                 </node>

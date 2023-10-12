@@ -18,9 +18,24 @@
   <content contentuid="hc7ca3767gae03g4c6agb8b9gdc676bfb7713" version="1">Mutant Enhancements</content> 
   <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The Trials have enhanced your capabilities:</content>
   <content contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
-  <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance.</content>
-  <content contentuid="h8d49b524g87cfg47c3g8f0bg6e69e550a868" version="1">Lethal Precision</content> 
-  <content contentuid="h57bdf6c3g96a2g4926g834egede79eadf106" version="1">Doubles Proficiency Bonus for Attack Rolls with Proficient weapons.</content>
+  <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance and Advantage on Saving Throws against being Poisoned.</content>
+  <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
+  <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain one of the following additional effects while under the influence of an Elixir.</content>
+  <content contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 
+  <content contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with Proficient weapons.</content>
+  <content contentuid="hdadb4cb8g1db1g4e32gb3c7g51baf5a9adc8" version="1">Sign Intensity</content> 
+  <content contentuid="h6aa39bf5g51feg478bgaba9ga37665b4993a" version="1">+2 to Spell Save DC.</content>
+  <content contentuid="h9b120b98g6bc6g4f34ga45ag2373ed5fdeec" version="1">Aggravating Wounds</content> 
+  <content contentuid="ha3bda703gfbe3g440ega5d6gd43c0c1bb076" version="1">Deal 1d8 additional damage to Bleeding and Poisoned targets.</content>
+  <content contentuid="he82887bdg2a6bg4c04gb76fg750556784fb9" version="1">Sunder Armor</content> 
+  <content contentuid="hbf70b199gc305g4073ga272gce93a848d635" version="1">Your weapon attacks apply Sunder Armor for 2 turns.</content>
+  <content contentuid="hee62585fg70cdg4309g9fd7gd7e0be22e34f" version="1">AC reduced by 1.</content>
+  <content contentuid="h9d7c7777g6f14g49c7gafafged9f3734fd70" version="1">Persuasive Presence</content> 
+  <content contentuid="h0a49a7eegec8cg4b5ega794g64ea88a686d9" version="1">Learn the Charm Person spell.</content>
+  <content contentuid="h2049a99cg617cg4a41ga345geb65c09e01b2" version="1">Intimidating Presence</content> 
+  <content contentuid="hcd301082g5c66g41acgbd19g2ac8d58fd4b5" version="1">Learn the Thaumaturgy spell.</content>
+  <content contentuid="h49fed922gb767g4b63g945ag04bc49424621" version="1">Maiming Strike</content> 
+  <content contentuid="h857f534ege331g40bega55agc334d0032cab" version="1">Your ranged weapon attacks have a high chance to apply Crippled.</content>
   <content contentuid="h6216895bgcfd3g4777g9366gd65ef6c25f26" version="1">Melt Armor</content> 
   <content contentuid="h9a2ea0d2gbbd5g44f8g8210gb84abb04afa7" version="1">Enhanced Movement</content> 
   <content contentuid="h8e795467ga99bg4f26gaf8dg5570dc77808f" version="1">+3m movement speed</content> 
@@ -64,6 +79,7 @@
   <content contentuid="had0ae984g55cdg4999g9ee6gdf5aa75782b7" version="1">Creates a ward on the ground before you that slowing enemies that wander in its proximity</content>
   <content contentuid="hacbe188fgcf5cg4f2fg880eg493df4337c85" version="1">Yrden Aura</content> 
   <content contentuid="hda40bb61g0c19g4101gb306gceaf213c582f" version="1">Enemies within the aura are Slowed and Revealed</content>
+  <content contentuid="hda40bb61g0c19g4101gb306gceaf213c582f" version="1">Slowed and Revealed</content>
   <content contentuid="h70c6a837g93a1g490bgba88g26c19b35f3e8" version="1">Yrden:Alt</content> 
   <content contentuid="hc9c43271gf9dbg4c12ga67ege85467bf39ae" version="1">Alternate:Creates a damaging ward on the that deals Lightning damage to enemies in the area</content>
   <content contentuid="hacca9127gbbb9g42e1g8bd9g4109ee2e2557" version="1">Yrden:Alt Aura</content> 
