@@ -9,9 +9,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h98f492d8g393bg48adg9c7fgced38b9416c3" version="2" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="fce7c35c-b4e1-47bd-aa50-9ef9a39ed932" />
-					<attribute id="Name" type="LSString" value="SMDA_DominateNecklace" />
+					<attribute id="Name" type="LSString" value="BGW_DominateNecklace" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
-					<attribute id="Stats" type="FixedString" value="SMDA_DominateNecklace" />
+					<attribute id="Stats" type="FixedString" value="BGW_DominateNecklace" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<children>
 						<node id="Tags">
@@ -28,9 +28,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h1995f182g101cg4a74g9cddgdbf037d09f79" version="3" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="bc6f16b5-e0f4-4dbe-822f-5e2deba9d105" />
-					<attribute id="Name" type="LSString" value="SMDA_WitchersSilverSword" />
+					<attribute id="Name" type="LSString" value="BGW_WitchersSilverSword" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
-					<attribute id="Stats" type="FixedString" value="SMDA_WitchersSilverSword" />
+					<attribute id="Stats" type="FixedString" value="BGW_WitchersSilverSword" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
 					<children>
@@ -61,9 +61,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ed1f7f31-7cd8-4ace-8f7c-2d7e664027dc" />
-					<attribute id="Name" type="LSString" value="SMDA_MonsterSlayerLongsword" />
+					<attribute id="Name" type="LSString" value="BGW_MonsterSlayerLongsword" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d4cb8410-096a-480e-88fb-7224c6b654f6" />
-					<attribute id="Stats" type="FixedString" value="SMDA_MonsterSlayerLongsword" />
+					<attribute id="Stats" type="FixedString" value="BGW_MonsterSlayerLongsword" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
 				</node>
@@ -72,9 +72,9 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="fde7684a-3a46-482f-be17-4b12e85c657d"/>
-					<attribute id="Name" type="LSString" value="SMDA_Cunning_HandCrossbow_1" />
+					<attribute id="Name" type="LSString" value="BGW_Cunning_HandCrossbow_1" />
 					<attribute id="ParentTemplateId" type="FixedString" value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
-					<attribute id="Stats" type="FixedString" value="SMDA_Cunning_HandCrossbow_1" />
+					<attribute id="Stats" type="FixedString" value="BGW_Cunning_HandCrossbow_1" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="79e935b4-9dca-7fdc-bc55-ba7e846909f9" />
 				</node>
