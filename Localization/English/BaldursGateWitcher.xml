@@ -10,8 +10,6 @@
   <content contentuid="h7df25785g34f5g4076gbfccg9ab50ba4d8de" version="1">The blade reverberates with the muted cries of beasts that fell to its edge.</content>
   <content contentuid="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1">Cunning Hand Crossbow</content> 
   <content contentuid="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1">Restored from oblivion, the bow sings with eagerness to leap into battle.</content>
-  <content contentuid="hd71570f8g8b66g4c47g9983gf07e8fc6e63b" version="1">Witcher Expertise</content> 
-  <content contentuid="h16d6d37cge75cg40b4g9695g86bbecf9108f" version="1">Grants Mastery of Arcana and Investigation.</content>
 
   -- WITCHER CLASS -- 
 
@@ -21,12 +19,25 @@
   <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The Trials have enhanced your capabilities:</content>
   <content contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
   <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance.</content>
+  // Elixir Bonus
   <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
   <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain one of the following additional effects while under the influence of an Elixir.</content>
   <content contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 
   <content contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with Proficient weapons.</content>
   <content contentuid="hdadb4cb8g1db1g4e32gb3c7g51baf5a9adc8" version="1">Sign Intensity</content> 
   <content contentuid="h6aa39bf5g51feg478bgaba9ga37665b4993a" version="1">+2 to Spell Save DC.</content>
+  //Witcher Expertise
+  <content contentuid="hd71570f8g8b66g4c47g9983gf07e8fc6e63b" version="1">Witcher Expertise</content> 
+  <content contentuid="h16d6d37cge75cg40b4g9695g86bbecf9108f" version="1">Gain Expertise and Proficiency in two of the following Skills.</content>
+  <content contentuid="h062748e7g6ae1g40b0ga842g215a9154e517" version="1">Witcher Expertise: Arcana</content> 
+  <content contentuid="h1d227bdcg2bbag4e44gbe9fgb1a6aae0d8fd" version="1">Proficiency and Expertise in Arcana.</content>
+  <content contentuid="h71a4a6f5g2547g4c9dg8c7fgec017127b738" version="1">Witcher Expertise: Investigation</content> 
+  <content contentuid="h80d2aa2agdd46g4399g98d6gb37e1208ebff" version="1">Proficiency and Expertise in Investigation.</content>
+  <content contentuid="h0db1edfbg5b14g4ba5gb657g045087d12890" version="1">Witcher Expertise: Nature</content> 
+  <content contentuid="h099b5310gf994g4ec8gaac4gdc4626b4dee2" version="1">Proficiency and Expertise in Nature.</content>
+  <content contentuid="h07431404g31c1g49e3gbb02ga5a313f15508" version="1">Witcher Expertise: Medicine</content> 
+  <content contentuid="h2f031d46g1cb9g41deg8aa2g638ef03c66e1" version="1">Proficiency and Expertise in Medicine.</content>
+  //Mutant Enhancements
   <content contentuid="h9b120b98g6bc6g4f34ga45ag2373ed5fdeec" version="1">Aggravating Wounds</content> 
   <content contentuid="ha3bda703gfbe3g440ega5d6gd43c0c1bb076" version="1">Deal 1d8 additional damage to Bleeding and Poisoned targets.</content>
   <content contentuid="he82887bdg2a6bg4c04gb76fg750556784fb9" version="1">Sunder Armor</content> 
@@ -52,15 +63,15 @@
   <content contentuid="hbff5d6d4gc89dg41f0g8c2eg99b4ab6bc59f" version="1">Murderous Surge</content> 
   <content contentuid="h27d5916fg4305g40a8g8eb3g7fea4df0ead7" version="1">Once per turn, recover 6m movement speed on kills.</content>
   <content contentuid="h48f3283fg93f1g44b7gace4g4d549f9c8aba" version="1">+6m movement speed.</content>
+
+  -- SIGNS --
+
   <content contentuid="h61435b3egf9fbg4251g8eafg24b94b5406f9" version="1">Witcher Signs I</content> 
   <content contentuid="h443ff662g423cg4436gb1e3gbc37874f8111" version="1">Unlocks the basic form of Witcher signs</content>
   <content contentuid="h4f19322cg4232g47dfga70fge828647d9b41" version="1">Witcher Signs II</content> 
   <content contentuid="hc99f78e6g0349g4a26gb006g3d799ba4fa99" version="1">Unlocks the improved form of Witcher signs</content>
   <content contentuid="h83d427d2g282bg448bga7d2gf057813a706e" version="1">Witcher Signs III</content> 
   <content contentuid="h3c4ab1d9ga001g4f40g9615g71c6297eefd3" version="1">Unlocks the final form of Witcher signs</content>
-
-  -- SIGNS --
-
   <content contentuid="h38223a72g2cdfg45c2ga952g8eb3d216ed57" version="1">Aard</content> 
   <content contentuid="hc917f757ge2d3g4236g8f5bg14aefa140abc" version="1">A cone of concussive force explodes from your palm, throwing opponents back.</content>
   <content contentuid="hdd9f7ea3gd1e5g4467g9152gf0274feffdbe" version="1">Aard:Alt</content> 

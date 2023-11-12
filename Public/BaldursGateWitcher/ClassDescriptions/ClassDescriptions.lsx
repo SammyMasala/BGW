@@ -19,12 +19,9 @@
                     <attribute id="SoundClassType" type="FixedString" value="Fighter"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="5"/>
                     <attribute id="UUID" type="guid" value="d4a398b6-0145-41d3-8dd2-caabe4ae335c"/>
-					<children>
+                    <children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="6959630e-056e-4be4-a4bd-7001d4b878da"/> 
-                        </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="64e66d2d-624b-40ac-83ca-e49df54e0272"/> 
+                            <attribute id="Object" type="guid" value="bfaccaca-e512-43ea-89cc-372b5d1925ee"/>
                         </node>
                     </children>
                 </node>
