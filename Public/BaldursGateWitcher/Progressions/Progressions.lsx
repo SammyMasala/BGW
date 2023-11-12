@@ -46,7 +46,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
-                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;BGW_WitcherExpertise"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(db928125-746e-48ac-b6b3-d75aa9a35278,2,MutantEnhancement)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>

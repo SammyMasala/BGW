@@ -183,5 +183,12 @@ data "StatsFunctorContext" "OnDamage"
 data "Conditions" "Enemy(context.Target) and IsKillingBlow()"
 data "StatsFunctors" "ApplyStatus(SELF,STATUS_BGW_MURDEROUSSURGE,100,1)"
 
+new entry "BGW_WitcherExpertise"
+type "PassiveData"
+using "Actor"
+data "DisplayName" "hd71570f8g8b66g4c47g9983gf07e8fc6e63b;1"
+data "Description" "h16d6d37cge75cg40b4g9695g86bbecf9108f;1"
+data "Boosts" "ProficiencyBonus(Skill,Arcana);ExpertiseBonus(Arcana);ProficiencyBonus(Skill,Investigation);ExpertiseBonus(Investigation);"
+
 
 
