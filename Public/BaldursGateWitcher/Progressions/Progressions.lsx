@@ -114,14 +114,14 @@
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e"/>
                 </node>
-                <node id="Progression">
+                <!-- <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e"/>
-                </node>
+                </node> -->
             </children>
         </node>
     </region>

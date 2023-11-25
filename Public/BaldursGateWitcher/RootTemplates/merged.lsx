@@ -78,6 +78,17 @@
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="79e935b4-9dca-7fdc-bc55-ba7e846909f9" />
 				</node>
+				<node id="GameObjects"> Dimeritium Longsword
+					<attribute id="Description" type="TranslatedString" handle="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="58ee0165-91ef-45d7-a495-a53e4daf7dfd" />
+					<attribute id="Name" type="LSString" value="BGW_Dimeritium_Longsword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats" type="FixedString" value="BGW_MonsterSlayerLongsword" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
+				</node>
 			</children>
 		</node>
 	</region>
