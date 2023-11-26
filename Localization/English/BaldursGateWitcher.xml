@@ -21,6 +21,9 @@
   <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The Trials have enhanced your capabilities:</content>
   <content contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
   <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance.</content>
+  <content contentuid="h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c" version="1">Prone Execution</content> 
+  <content contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
+
   // Elixir Bonus
   <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
   <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain one of the following additional effects while under the influence of an Elixir.</content>
