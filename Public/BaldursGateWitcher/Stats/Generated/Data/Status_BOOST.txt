@@ -75,7 +75,7 @@ data "OnApplyConditions" "not Item(context.Source)"
 data "StackId" "MELTARMOR"
 data "StackType" "Override" 
 data "TickType" "StartTurn"
-data "Boosts" "AC(-2)"
+data "Boosts" "AC(-2);Resistance(Fire, Vulnerable)"
 data "StatusGroups" ""
 data "StatusEffect" "2156dd48-f83b-4060-9a4e-cab994da8857"
 
@@ -225,4 +225,15 @@ data "Boosts" "AC(-1)"
 data "StatusGroups" ""
 data "ApplyEffect" "bbb8cf3b-f8b7-4fe0-bee7-24cc4bca9cd4"
 data "StatusEffect" "4c078077-fbce-460f-ace2-fa96972838c8"
+
+new entry "STATUS_BGW_EXECUTED"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "TadpoleSuperPower_CullTheWeak"
+data "DisplayName" "h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c;1"
+data "SoundStart" "Spell_Passive_Impact_Tadpole_CullTheWeak_L1to3"
+data "OnApplyFunctors" "Kill()"
+data "ApplyEffect" "7e5f93b6-515a-4525-a1b5-4439d0f0229c"
+
+
 

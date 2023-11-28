@@ -20,7 +20,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BGW_WitcherSignsUnlock_1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BGW_WitcherSignsUnlock_1;BGW_ProneExecution"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(8af44475-f01b-40fc-86fd-6559d4f30a90,2,WitcherExpertise)"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="2c44cc2b-d52f-4363-a057-c9ae19825d29"/>
@@ -114,14 +114,14 @@
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
                     <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e"/>
                 </node>
-                <!-- <node id="Progression">
+                <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="13"/>
                     <attribute id="Name" type="LSString" value="Witcher"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="5bea0634-9e49-409b-8597-e47bd46514a0"/>
-                    <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e"/>
-                </node> -->
+                    <attribute id="UUID" type="guid" value="4742c13c-661b-47a1-95f2-2594e53a574f"/>
+                </node>
             </children>
         </node>
     </region>

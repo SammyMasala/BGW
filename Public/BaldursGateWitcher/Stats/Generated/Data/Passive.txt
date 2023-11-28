@@ -215,5 +215,13 @@ data "Description" "h2f031d46g1cb9g41deg8aa2g638ef03c66e1;1"
 data "Icon" "Spell_Evocation_MassCureWounds"
 data "Boosts" "IF(not HasProficiencyBonus(Skill,Medicine)):ProficiencyBonus(Skill,Medicine);ExpertiseBonus(Medicine);"
 
+new entry "BGW_ProneExecution"
+type "PassiveData"
+using "TAD_CullTheWeak"
+data "DisplayName" "h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c;1"
+data "Description" "h9eca98c1ga661g48e4gb340ge5af7bd40a0b;1"
+data "Conditions" "(IsWeaponAttack() or IsUnarmedAttack()) and not IsKillingBlow() and (HasStatus('PRONE') or HasStatus('PRONE_THUNDEROUS_SMITE') or HasStatus('SHOCKWAVE') or HasStatus('COMMAND_GROVEL') or HasStatus('UNCONSCIOUS') or HasStatus('KNOCKED_DOWN') or HasStatus('PRONE_FALLEN') or HasStatus('PRONE_ICE') or HasStatus('PRONE_SEWER') or HasStatus('PRONE_GREASE')) and TotalAttackDamageDoneGreaterThan(0) and Enemy()
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC()-8)):ApplyStatus(STATUS_BGW_EXECUTED,100,1)"
+
 
 

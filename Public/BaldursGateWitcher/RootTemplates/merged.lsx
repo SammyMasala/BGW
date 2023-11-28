@@ -85,9 +85,9 @@
 					<attribute id="MapKey" type="FixedString" value="58ee0165-91ef-45d7-a495-a53e4daf7dfd" />
 					<attribute id="Name" type="LSString" value="BGW_Dimeritium_Longsword" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
-					<attribute id="Stats" type="FixedString" value="BGW_MonsterSlayerLongsword" />
+					<attribute id="Stats" type="FixedString" value="BGW_Dimeritium_Longsword" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
+					<attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
 				</node>
 			</children>
 		</node>

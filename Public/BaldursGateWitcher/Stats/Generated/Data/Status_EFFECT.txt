@@ -1,0 +1,6 @@
+new entry "STATUS_BGW_EXECUTED"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "PASSIVE_CULL_THE_WEAK"
+data "Icon" "TadpoleSuperPower_CullTheWeak"
+data "DisplayName" "h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c;1"
