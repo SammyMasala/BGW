@@ -223,5 +223,37 @@ data "Description" "h9eca98c1ga661g48e4gb340ge5af7bd40a0b;1"
 data "Conditions" "(IsWeaponAttack() or IsUnarmedAttack()) and not IsKillingBlow() and (HasStatus('PRONE') or HasStatus('PRONE_THUNDEROUS_SMITE') or HasStatus('SHOCKWAVE') or HasStatus('COMMAND_GROVEL') or HasStatus('UNCONSCIOUS') or HasStatus('KNOCKED_DOWN') or HasStatus('PRONE_FALLEN') or HasStatus('PRONE_ICE') or HasStatus('PRONE_SEWER') or HasStatus('PRONE_GREASE')) and TotalAttackDamageDoneGreaterThan(0) and Enemy()
 data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC()-8)):ApplyStatus(STATUS_BGW_EXECUTED,100,1)"
 
+new entry "BGW_CripplingStrikes"
+type "PassiveData"
+using "TAD_CullTheWeak"
+data "DisplayName" "hd7de5597g744bg4a9bg8f33g992389177ab9;1"
+data "Description" "h0fcc9a98ga99cg41efg868bg912dd578093f;1"
+data "Icon" "Status_Bleeding"
+data "TooltipStatusApply" "ApplyStatus(BLEEDING,100,2)"
+data "Conditions" "(IsWeaponAttack() or IsUnarmedAttack()) and not IsKillingBlow() and TotalAttackDamageDoneGreaterThan(0) and Enemy()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC())):ApplyStatus(BLEEDING,100,2)"
+
+new entry "BGW_Rend"
+type "PassiveData"
+data "Icon" "PassiveFeature_Generic_Death"
+data "DisplayName" "h382cc05fg3a59g45efgbd4ag9177bb738d37;1"
+data "Description" "h669c4a2cgdf3dg4e1bg9171gb76ea9557a68;1"
+data "Properties" "IsToggled;ToggledDefaultOff;Highlighted"
+data "EnabledConditions" "HasStatus('STATUS_BGW_FOCUS', context.Source)"
+data "ToggleOnFunctors" "ApplyStatus(SELF, STATUS_BGW_REND, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(SELF, STATUS_BGW_REND)"
+
+new entry "BGW_SeluneAvatar"
+type: "PassiveData"
+data "Icon" "PassiveFeature_PurityOfBody"
+data "DisplayName" "h382cc05fg3a59g45efgbd4ag9177bb738d37;1"
+data "Description" "h669c4a2cgdf3dg4e1bg9171gb76ea9557a68;1"
+data "Properties" "Highlighted"
+data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SG_Poisoned);Resistance(Poison, Immune);Resistance(Radiant, Immune)"
+data "Conditions" "(IsWeaponAttack() or IsUnarmedAttack()) and TotalAttackDamageDoneGreaterThan(0)"
+data "StatsFunctors" "DealDamage(1d8,Radiant);ApplyStatus(BLINDED,100,2)"
+
+
+
 
 

@@ -12,6 +12,8 @@
   <content contentuid="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1">Restored from oblivion, the bow sings with eagerness to leap into battle.</content>
   <content contentuid="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1">Dimeritium Longsword</content> 
   <content contentuid="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1">Terranova cried out, struggled, bent over and retched and Geralt realised what the handcuffs were made of. It was an alloy of iron and dimeritium, a rare metal characterised by its inhibition of magical powers.</content>
+  <content contentuid="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1">Witcher's Hand Crossbow</content> 
+  <content contentuid="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1">Well then, I seem to recall a rather pleasant little restaurant not far from here. Care to see if it's still standing?.</content>
 
   -- WITCHER CLASS -- 
 
@@ -23,6 +25,12 @@
   <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance.</content>
   <content contentuid="h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c" version="1">Prone Execution</content> 
   <content contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
+  <content contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Focus</content> 
+  <content contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Enter a state of utter focus. Able to parry incoming attacks and deal felling blows.</content> 
+  <content contentuid="hd7de5597g744bg4a9bg8f33g992389177ab9" version="1">Crippling Strikes</content> 
+  <content contentuid="h0fcc9a98ga99cg41efg868bg912dd578093f" version="1">Attacks have a High Chance to apply Bleed on targets.</content> 
+  <content contentuid="ha7144b83g52d6g4ae2gafaag3ff7d0432084" version="1">Rend</content> 
+  <content contentuid="h051efc4dg344cg41c9ga16cgdc08bfed00e1" version="1">A concentrated strike that consumes all charges of Focus to deal monstrous damage.</content> 
 
   // Elixir Bonus
   <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
@@ -104,6 +112,10 @@
   <content contentuid="h5fc1afa6g9d10g4589g8d33g2df56622582f" version="1">Take Lightning damage at the start of every turn</content>
   <content contentuid="h04f56fa6g7a77g4bb7gba9eg7a066d39bdc4" version="1">Heliotrope</content> 
   <content contentuid="hbff30102ge075g4751gbf1dg7d9cf23faaf3" version="1">Gain an Action and Bonus Action.</content>
+  <content contentuid="hf22859abg3ca6g44a2g9ff0g1ab0c70fb0ba" version="1">BALANCED Heliotrope</content> 
+  <content contentuid="h3236b7d5g077bg42e3g994agfe03a7ea2cad" version="1">Gain an Action and Bonus Action. Enemies are fucked</content>
+  <content contentuid="h8574d051g4a17g4c9cga6c1gd56351cd6a20" version="1">BALANCED Heliotrope Aura</content> 
+  <content contentuid="h601ae09cgac07g4540g9e8bg3c426c424245" version="1">Make the save or get fucked</content>
   <content contentuid="h4cefac30g2a61g43e3g8655g7d0877deb1c3" version="1">Quen:Shield</content> 
   <content contentuid="h32374a92gd34dg4e3agb9e6g890a1ae23ed7" version="1">Gain Temporary HP. Enemy attacks release a retaliating blast that deals Force damage</content>
   <content contentuid="hc64ae53eg99deg41a2gb8ebge08234d23be7" version="1">Quen:Alt Enhanced Shield</content> 

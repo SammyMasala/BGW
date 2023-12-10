@@ -89,6 +89,26 @@
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
 				</node>
+				<node id="GameObjects"> Witcher's Hand Crossbow
+					<attribute id="Description" type="TranslatedString" handle="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="480bf864-0ee7-41a4-885a-8b8de5f40b67" />
+					<attribute id="Name" type="LSString" value="BGW_WitchersHandCrossbow" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
+					<attribute id="Stats" type="FixedString" value="BGW_WitchersHandCrossbow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="bdff6721-7995-98d1-5b61-0152387e6d2f" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
