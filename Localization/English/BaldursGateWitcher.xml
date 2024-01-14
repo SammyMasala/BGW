@@ -1,9 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
-  -- WEAPONS --
+  -- MISC --
 
   <content contentuid="h98f492d8g393bg48adg9c7fgced38b9416c3" version="1">Sam's Misread Charm Necklace</content> 
   <content contentuid="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1">When the Dungeon Master didn't know what the "Charm Person" spell did....</content>
+  <content contentuid="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1">Helm of Selûne</content> 
+  <content contentuid="h884099fag346fg4b08ga0cbg62bf9b62929a" version="1">And they smote the enemies of the faith with a righteous fury, for they knew they were doing Her work.</content>
+  <content contentuid="hae827209gfe8bg48c0g94dagfe4dc2bbb8c7" version="1">Radiant Dive</content> 
+  <content contentuid="ha0bdcae1g8b12g498eg8541g0588ade98a3f" version="1">Selûne's Wrath</content>
+  <content contentuid="h9095feacg1e6fg4a0agb910g5a62322fa48c" version="1">Selûne's fury is as great as her mercy. Become an aspect of Selûne, strengthening all abilities.</content>
+  <content contentuid="h35d15d21g4561g437fga568gc574395eac24" version="1">Gith Champion's WardPlate</content>
+  <content contentuid="h62a85c9cge2e1g4ebbgbad6gb15829f2a158" version="1">An artisan chestpiece for the chosen champion of Gith. Offers unparalleled protection aginst foes of the regime.</content>
+  <content contentuid="h44a1f059g6110g4669gb36dgc95293740a0b" version="1">Reactive Ward</content>
+  <content contentuid="hab3252feg8de0g4faegb7abg2fbf5fd4bf28" version="1">Blurs the wearer upon receiving an attack.</content>
+  <content contentuid="h02bf92a9gd736g4cbcga907gb4924152fb5b" version="1">Gith Step</content>
+  <content contentuid="hce6c2b0cg6dc5g45fag9119gbe94f4b24597" version="1">Gith's chosen are akin to a tempest: The only mark of their presence are the shattered remains they leave behind.</content>
+  <content contentuid="hb0a3666age87eg4bfcgacbcg2e21ae506127" version="1">Karlach's REAL Clothes</content>
+  <content contentuid="ha3a045e2g7331g4e9dgaa77gc2939bf34fd7" version="1">This girl doesn't have a fuck to give to you.</content>
+  <content contentuid="h33d86e83g0517g4eacgb01fgbdc3d7e95029" version="1">Rage of Avernus</content>
+  <content contentuid="hd5dd37bbgc5dbg4b62g83deg5a74a2745771" version="1">Karlach unleases her infernal might. Let's party!</content>
+  <content contentuid="h45058278g39b3g4ef6gb53dg8c4629ee23d9" version="1">Power of Avernus</content>
+  <content contentuid="h68538eb1g37ffg4071gaa63g328d457371a0" version="1">+1d4 Attack Roll, +1d6 Fire damage to melee weapons. What's not to like?</content>
+  <content contentuid="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1">Astral Plate of the True Heir</content>
+  <content contentuid="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1">A plate of astral silver, fit for the chosen warrior of the Comet, to aid in his or her liberation of Gith's children.</content>
+  <content contentuid="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1">Legacy of the True Heir</content>
+  <content contentuid="hefbb1ec7g1756g4534gb993gd3a0e4a07a0a" version="1">Ancient illithid blood still stains these battered silver bracers, from the time the children of Gith rose up against the Illithid Empire.</content>
+  <content contentuid="hffb29410g6436g4f32gb3bdg129565cdfe5b" version="1">Greaves of the True Heir</content>
+  <content contentuid="h183fdb3bg5d9dg4c52g92dfg6bcdaed63e2c" version="1">Psionic enchantments allow the wearer of these boots to take to the skies as their Illithid masters once did, allowing them to chase their quarry.</content>
+  <content contentuid="h77cd5d16g8822g4cfbga56dgd1b5aced4b5a" version="1">Pursuit</content>
+  <content contentuid="h5656bad1g1cb6g4febg920bg52eb34e8bf2d" version="1">No Escape</content>
+  <content contentuid="h43fe44abg6824g40efga3a3g8ca117428071" version="1">While affected by Fly, deal additional 1d6 psychic damage.</content>
+  <content contentuid="h085c549egc260g4b8cg9b1cg3fb7f3c7370f" version="1">You Dare</content>
+  <content contentuid="he2bf3139g5a4eg4bf2g812ag1e167860013b" version="1">Missed attacks deal 1d6 Psychic damage to the attacker.</content>
+  <content contentuid="h5291e989g4038g4f10g9b25ge5db3b3a2928" version="1">Circlet of the True Heir</content>
+  <content contentuid="h66a8dfd6g5b9cg472agb43cg37632c56035d" version="1">A gift from the Prince of the Comet, bestowing the gifts of Mother Gith upon her children, and her wrath upon her enemies.</content>
+  <content contentuid="h043e0215g30b4g464fgb702g9d658afa79e3" version="1">Rise/Kneel</content>
+  <content contentuid="h61113b00g0966g4157g92feg87f2ca62ec71" version="1">Gith's will manifestes as a periodic pulse of energy, damaging enemies and healing allies.</content>
+  <content contentuid="h942d53adg635cg47b9gaf1bge6367c1aaeb4" version="1">Avernus Champion's Plate</content>
+  <content contentuid="h7fe4c65ag3722g47a8g82c2g68432ed839c1" version="1">The archdevil Zariel commissioned this piece herself. Forged with infernal iron and tempered in hellfire, the perfect armor for her favoured champion.</content>
+  <content contentuid="h43847d94g5544g4369gafe9gcfc5cf356ce0" version="1">Infernal Knuckle Dusters</content>
+  <content contentuid="hd3372316g919dg485bg86c4g6319b53f26b2" version="1">A set of chipped dusters, roughly hewn from infernal essense. Letters are inscribed onto each knuckle, spelling aloud: NGRY BTCH.</content>
+  <content contentuid="h852b1844g415fg4d9cga322g0e81d2b35e84" version="1">Flameward Boots</content>
+  <content contentuid="h4f484bc5gf312g4816g932cg799733bd1fe5" version="1">These infernal boots project the flames of hell about the wearer. Its thick demon hide soles also protect the feet on the many long marches to war.</content>
+  <content contentuid="h04cc1e9eg3941g4c68g981cg23ea7d4235a6" version="1">Barlgura Sneakers</content>
+  <content contentuid="hf8ad97c2g43f4g407cgbdadgc7e65618620e" version="1">One unfortunate tanar'ri was to catch Avernus' champion on a bad day...</content>
+  <content contentuid="hfbfa6e03g5bd2g4a58g8051g2e45bb6b887f" version="1">Sneaky Ape</content>
+  <content contentuid="h4af18548g11fag4286g8eb9gfbac65a958eb" version="1">While raging, gain Invisibility at the start of your turn...</content>
+  <content contentuid="hd36569a3g80d1g4b11ga760gf5bc5d8ec15d" version="1">Jump Boost</content>
+  <content contentuid="hf2d57f2fgf03ag4c41ga18dga841aa192189" version="1">+4.5m Jump Distance...Ooo Ooo Aaa Aaa!</content>
+  <content contentuid="hecff1cd0gc68bg444eg9580g7c7632d2b0e6" version="1">Flame Ward</content>
+  <content contentuid="hbf2e89f6ge06eg47a2gbdfagfcb6f5ab718f" version="1">REQUIRES RAGE OF AVERNUS! When Raging, receive the effects of Fire Shield (Warm)</content>
+  <content contentuid="hfc3a2cc9gb828g4157g89a3gca303c48dd02" version="1">Bloodied Birthright</content>
+  <content contentuid="hc0ea27adg9a24g412dgba7agef52622baaeb" version="1">A gift from your father, use it to reap the world...</content>
+  <content contentuid="he283851fg7fceg474bg8e4dge9d1aae21604" version="1">Robes of the Murderer</content>
+  <content contentuid="hd37da82bge6dbg4a40g8d48g158226a7bb9e" version="1">These bloodied robes tell the tale of a seasoned killer, making his way through the world...</content>
+  <content contentuid="h181d67d7gb0c9g4136g969egb1cbde6f4483" version="1">Blood Regeneration</content>
+  <content contentuid="ha8aa4f71g76a3g4463g8354gace83f7c786c" version="1">Starting your turn on a Blood surface causes you to regain 1d4 hitpoints.</content>
+  <content contentuid="h2c88f7f7gdc3fg4c1dg8521g6b37ea1c3236" version="1">Magnificent Slayer</content>
+  <content contentuid="h49d2562bg4dd4g4f30g8092g41af5ae0906c" version="1">Weapon attacks deal additional Piercing damage equal to double your Proficiency Bonus.</content>
+  <content contentuid="hc11558fagb09fg45dbg8796g5fe2101902fe" version="1">Manhunter's Pendant</content>
+  <content contentuid="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1">A token worn by those of unquestionable loyalty to the Lord of Murder, to herald the coming of an unspeakable and inevitable fate for their victims.</content>
+  -- WEAPONS --
+
   <content contentuid="h1995f182g101cg4a74g9cddgdbf037d09f79" version="1">Witcher's Silver Longsword</content> 
   <content contentuid="h88756d94g5cfbg42f2g9851g627b64419034" version="1">Forged with silver from a falling star, a silver blade is an indispensable part of a witcher's monster slaying arsenal.</content>
   <content contentuid="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1">Monster Slayer Longsword</content> 
@@ -14,7 +72,12 @@
   <content contentuid="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1">Terranova cried out, struggled, bent over and retched and Geralt realised what the handcuffs were made of. It was an alloy of iron and dimeritium, a rare metal characterised by its inhibition of magical powers.</content>
   <content contentuid="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1">Witcher's Hand Crossbow</content> 
   <content contentuid="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1">Well then, I seem to recall a rather pleasant little restaurant not far from here. Care to see if it's still standing?.</content>
-
+  <content contentuid="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1">Zariel's Tithe</content>
+  <content contentuid="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65" version="1">Taken from the archdevil's own personal stash, this weapon was gift from Zariel after her champion completed her first skirmish in Avernus.</content>
+  <content contentuid="h9c206503gb682g4041gafecgc5e5552ea902" version="1">1/4 Scale Replica Scythe of Myrkul</content>
+  <content contentuid="h6ba06087gd49fg409fgb9fcg0354d6b9ae55" version="1">D:"Are you sure about this, Karlach?" K:"Dead sure. What's there not to be sure about? 'Sides, it's cool." D:"If you say so..."</content>
+  <content contentuid="h90598ed9g044fg4a95g8f1fgb9495fab7881" version="1">Infernal Slash</content>
+  <content contentuid="hf6238717g9b04g4b36g869ege1ef1278b2ba" version="1">Massive roundhouse swing. Duck!</content>
   -- WITCHER CLASS -- 
 
   <content contentuid="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1">Witcher</content> 
@@ -22,7 +85,7 @@
   <content contentuid="hc7ca3767gae03g4c6agb8b9gdc676bfb7713" version="1">Mutant Enhancements</content> 
   <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The Trials have enhanced your capabilities:</content>
   <content contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
-  <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance.</content>
+  <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance and Immunity to various debilitating potion effects (Poisoned, Lethargy).</content>
   <content contentuid="h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c" version="1">Prone Execution</content> 
   <content contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
   <content contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Focus</content> 
@@ -113,9 +176,9 @@
   <content contentuid="h04f56fa6g7a77g4bb7gba9eg7a066d39bdc4" version="1">Heliotrope</content> 
   <content contentuid="hbff30102ge075g4751gbf1dg7d9cf23faaf3" version="1">Gain an Action and Bonus Action.</content>
   <content contentuid="hf22859abg3ca6g44a2g9ff0g1ab0c70fb0ba" version="1">BALANCED Heliotrope</content> 
-  <content contentuid="h3236b7d5g077bg42e3g994agfe03a7ea2cad" version="1">Gain an Action and Bonus Action. Enemies are fucked</content>
+  <content contentuid="h3236b7d5g077bg42e3g994agfe03a7ea2cad" version="1">Gain an Action and Bonus Action. Enemies are fucked.</content>
   <content contentuid="h8574d051g4a17g4c9cga6c1gd56351cd6a20" version="1">BALANCED Heliotrope Aura</content> 
-  <content contentuid="h601ae09cgac07g4540g9e8bg3c426c424245" version="1">Make the save or get fucked</content>
+  <content contentuid="h601ae09cgac07g4540g9e8bg3c426c424245" version="1">You're fucked.</content>
   <content contentuid="h4cefac30g2a61g43e3g8655g7d0877deb1c3" version="1">Quen:Shield</content> 
   <content contentuid="h32374a92gd34dg4e3agb9e6g890a1ae23ed7" version="1">Gain Temporary HP. Enemy attacks release a retaliating blast that deals Force damage</content>
   <content contentuid="hc64ae53eg99deg41a2gb8ebge08234d23be7" version="1">Quen:Alt Enhanced Shield</content> 
