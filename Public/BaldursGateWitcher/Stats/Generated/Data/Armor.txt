@@ -127,7 +127,24 @@ data "PassivesOnEquip" "BGW_HellJumpBoost;BGW_GithPlateWard"
 data "Rarity" "Legendary"
 data "Unique" "1"
 
+new entry "BGW_DeathbringerGauntlets"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "31f93393-9a46-44f8-a0a0-6a4fff28ce15"
+data "Boosts" "AC(1);RollBonus(SavingThrow, 1, Strength)"
+data "PassivesOnEquip" "BGW_DeathbringerCharge"
+data "Rarity" "Legendary"
+data "Unique" "1"
 
-
+new entry "BGW_AvatarPlate"
+type "Armor"
+data "RootTemplate" "124a0862-6fae-48d7-a1e8-232c02a785a6"
+using "ARM_HalfPlate_Body"
+data "Boosts" "UnlockSpell(Zone_BGW_NullLance)"
+data "PassivesOnEquip" ""
+data "StatusOnEquip" ""
+data "ArmorClass" "16"
+data "Rarity" "Legendary"
+data "Unique" "1"
 
 

@@ -345,5 +345,13 @@ data "DisplayName" "h181d67d7gb0c9g4136g969egb1cbde6f4483;1"
 data "Description" "ha8aa4f71g76a3g4463g8354gace83f7c786c;1"
 data "TickFunctors" "IF(not Dead() and InSurface('SurfaceBloodFrozen') or InSurface('SurfaceBlood')):RegainHitPoints(1d4)"
 
+new entry "STATUS_BGW_DEATHBRINGER"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "PassiveFeature_Generic_Death"
+data "DisplayName" "h54bc3691g2019g45b1gb026gf5ccfe750528;1"
+data "Description" "h7efe4ec1g54f4g45d2gbb8fg6f764e560fa8;1"
+data "Boosts" "UnlockSpell(Target_BGW_Deathbringer)"
+
 
 

@@ -101,6 +101,22 @@ data "PassivesMainHand" ""
 data "PassivesOffHand" ""
 data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical);"
 
+new entry "BGW_DevaMorningstar"
+type "Weapon"
+using "WPN_Mace"
+data "RootTemplate" "a434df5f-5d3e-4733-acd7-b7984922d508"
+data "Damage Type" "Piercing"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);WeaponDamage(4d8, Radiant)"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_ConcussiveSmash_Deva)"
+data "Rarity" "Legendary"
+data "Unique" "1"
+
+new entry "BGW_MorningstarOfLathander"
+type "Weapon"
+using "CRE_BloodOfLathander"
+data "RootTemplate" "7c8fadef-1563-4a0e-ac29-a72765689607"
+data "Damage Type" "Piercing"
+
 
 
 

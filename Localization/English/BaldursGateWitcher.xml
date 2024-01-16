@@ -21,6 +21,12 @@
   <content contentuid="hd5dd37bbgc5dbg4b62g83deg5a74a2745771" version="1">Karlach unleases her infernal might. Let's party!</content>
   <content contentuid="h45058278g39b3g4ef6gb53dg8c4629ee23d9" version="1">Power of Avernus</content>
   <content contentuid="h68538eb1g37ffg4071gaa63g328d457371a0" version="1">+1d4 Attack Roll, +1d6 Fire damage to melee weapons. What's not to like?</content>
+  <content contentuid="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="1">Deathbringer Gauntlets</content>
+  <content contentuid="ha79d184dg98beg4809ga61eg16e3fd7f0cd0" version="1">These gauntlets whisper sweet temptations of blood. And they hunger...</content>
+  <content contentuid="h1a2daef0g7168g4fbbgbe0bgd3d5600f513c" version="1">Deathbringer Charge</content>
+  <content contentuid="h0b6c5b1agc2d1g4cdeg8a6fgb6002d2a47fa" version="1">On landing a killing blow, Gain Deathbringer:Active</content>
+  <content contentuid="h54bc3691g2019g45b1gb026gf5ccfe750528" version="1">Deathbringer:Active</content>
+  <content contentuid="h7efe4ec1g54f4g45d2gbb8fg6f764e560fa8" version="1">Unlocks Deathbringer. Lasts for one use per combat.</content>
   <content contentuid="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1">Astral Plate of the True Heir</content>
   <content contentuid="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1">A plate of astral silver, fit for the chosen warrior of the Comet, to aid in his or her liberation of Gith's children.</content>
   <content contentuid="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1">Legacy of the True Heir</content>
@@ -58,6 +64,10 @@
   <content contentuid="ha8aa4f71g76a3g4463g8354gace83f7c786c" version="1">Starting your turn on a Blood surface causes you to regain 1d4 hitpoints.</content>
   <content contentuid="h2c88f7f7gdc3fg4c1dg8521g6b37ea1c3236" version="1">Magnificent Slayer</content>
   <content contentuid="h49d2562bg4dd4g4f30g8092g41af5ae0906c" version="1">Weapon attacks deal additional Piercing damage equal to double your Proficiency Bonus.</content>
+  <content contentuid="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1">Avatar Plate</content>
+  <content contentuid="h7b74cc7cgfff8g49d3ga282g5d0a433d961f" version="1">Commander, I believe we are seeing something entirely new...an alien species that has so far managed to elude capture or observation by resistance forces. I strongly advise a cautious approach.</content>
+  <content contentuid="hde9174a5g5ca2g459dg9ce4gcb610e5f13c7" version="1">Null Lance</content>
+  <content contentuid="h3fd3ededg4f60g48cfgaa0eg1aa3d12eaeb1" version="1">Fires a beam of Psychic Damage.</content>
   <content contentuid="hc11558fagb09fg45dbg8796g5fe2101902fe" version="1">Manhunter's Pendant</content>
   <content contentuid="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1">A token worn by those of unquestionable loyalty to the Lord of Murder, to herald the coming of an unspeakable and inevitable fate for their victims.</content>
   -- WEAPONS --

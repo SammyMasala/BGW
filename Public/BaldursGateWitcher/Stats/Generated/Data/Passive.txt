@@ -238,7 +238,7 @@ type "PassiveData"
 data "DisplayName" "h5656bad1g1cb6g4febg920bg52eb34e8bf2d;1"
 data "Description" "h43fe44abg6824g40efga3a3g8ca117428071;1"
 data "Icon" "Status_Bleeding"
-data "Properties" "IsHidden"
+data "Properties" "Highlighted"
 data "Boosts" "IF(HasStatus('FLY', context.Source)):CharacterWeaponDamage(1d6,Psychic);"
 
 new entry "BGW_GithYouDare"
@@ -246,7 +246,7 @@ type "PassiveData"
 data "DisplayName" "h085c549egc260g4b8cg9b1cg3fb7f3c7370f;1"
 data "Description" "he2bf3139g5a4eg4bf2g812ag1e167860013b;1"
 data "Icon" "Status_Bleeding"
-data "Properties" "IsHidden"
+data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttacked"
 data "Conditions" "IsMiss()"
 data "StatsFunctors" "DealDamage(SWAP, 1d6,Psychic,Magical)"
@@ -278,6 +278,17 @@ data "DisplayName" "h2c88f7f7gdc3fg4c1dg8521g6b37ea1c3236;1"
 data "Description" "h49d2562bg4dd4g4f30g8092g41af5ae0906c;1"
 data "Properties" "Highlighted"
 data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(ProficiencyBonus*2)"
+
+new entry "BGW_DeathbringerCharge"
+type "PassiveData"
+data "DisplayName" "h1a2daef0g7168g4fbbgbe0bgd3d5600f513c;1"
+data "Description" "h0b6c5b1agc2d1g4cdeg8a6fgb6002d2a47fa;1"
+data "TooltipStatusApply" "ApplyStatus(STATUS_BGW_DEATHBRINGER,100,-1)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Enemy(context.Target) and IsKillingBlow()"
+data "StatsFunctors" "IF(not HasStatus('STATUS_BGW_DEATHBRINGER', context.Source)):ApplyStatus(SELF,STATUS_BGW_DEATHBRINGER,100,-1)"
+
+
 
 
 

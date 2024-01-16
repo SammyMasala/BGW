@@ -22,10 +22,10 @@
                     <attribute id="Tags" type="LSString" value=""/>
                     <attribute id="Type" type="FixedString" value="Add-on"/>
 					<attribute id="UUID" type="FixedString" value="f3e00b63-f4ba-4893-81c4-d982884118af"/> Generate new UUID
-					<attribute id="Version" type="int64" value="36028797018963968"/> Version number doesn't really matter.
+					<attribute id="Version" type="int64" value="36310274143158272"/> Version number doesn't really matter.
                     <children>
                         <node id="PublishVersion">
-                            <attribute id="Version" type="int64" value="36028797018963968"/> Version number doesn't really matter.
+                            <attribute id="Version" type="int64" value="36310274143158272"/> Version number doesn't really matter.
                         </node>
                         <node id="Scripts"/>
                         <node id="TargetModes">

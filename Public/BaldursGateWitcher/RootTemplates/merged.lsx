@@ -269,6 +269,113 @@
 					<attribute id="Stats" type="FixedString" value="BGW_OutrageousDagger" />
 					<attribute id="Type" type="FixedString" value="item" />
 				</node>
+				<node id="GameObjects"> Morningstar of Lathander
+					<attribute id="Description" type="TranslatedString" handle="h154a0aa1g9d59g4005gafdbg3302d627cd44" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7b812efdg0678g46dag8229g6d6bec2cd3c3" version="3" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Sun_Mace_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7c8fadef-1563-4a0e-ac29-a72765689607"/>
+					<attribute id="Name" type="LSString" value="BGW_MorningstarOfLathander" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7b961f08-46c1-46b1-99bc-c59283831a0b" />
+					<attribute id="Stats" type="FixedString" value="BGW_MorningstarOfLathander" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatusDuration" type="int32" value="0" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Deva Morningstar
+					<attribute id="MapKey" type="FixedString" value="a434df5f-5d3e-4733-acd7-b7984922d508" />
+					<attribute id="Name" type="LSString" value="BGW_DevaMorningstar" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="87a16db5-9a01-4053-a17d-a3d17a721db7" />
+					<attribute id="VisualTemplate" type="FixedString" value="091561d7-ce2c-fd14-e778-0eef9e8e0c0b" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="23d0f4cf-a18b-f3e8-0be6-1b75556fc361" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hba7fd2cfgc9e2g46f2gac2eg7088d54452a4" version="2" />
+					<attribute id="Stats" type="FixedString" value="BGW_DevaMorningstar" />
+					<attribute id="ExamineRotation" type="fvec3" value="0 25 0" />
+					<attribute id="Description" type="TranslatedString" handle="hf1d4f341gf315g467egb8a4gae4219ac2821" version="1" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="c29fc6ce-0482-420d-a839-41a0bab95c2d" />
+								</node>
+							</children>
+						</node>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Radius" type="float" value="0.0833395" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Radius" type="float" value="0.166679" />
+									<attribute id="Height" type="float" value="0.0374908" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects"> Deathbringer Gauntlets
+					<attribute id="Description" type="TranslatedString" handle="ha79d184dg98beg4809ga61eg16e3fd7f0cd0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="2" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="31f93393-9a46-44f8-a0a0-6a4fff28ce15" />
+					<attribute id="Name" type="LSString" value="BGW_DeathbringerGauntlets" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b109178d-5f3f-4aa0-b5b1-ef1bd8d2655b" />
+					<attribute id="Stats" type="FixedString" value="BGW_DeathbringerGauntlets" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
+				<node id="GameObjects"> Psionics Plate
+					<attribute id="Description" type="TranslatedString" handle="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="124a0862-6fae-48d7-a1e8-232c02a785a6" />
+					<attribute id="Name" type="LSString" value="BGW_TrueHeirPlate" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute id="VisualTemplate" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirPlate" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node>
 				<node id="GameObjects"> Robes of the Murderer
 					<attribute id="Description" type="TranslatedString" handle="hd37da82bge6dbg4a40g8d48g158226a7bb9e" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="he283851fg7fceg474bg8e4dge9d1aae21604" version="1" />
