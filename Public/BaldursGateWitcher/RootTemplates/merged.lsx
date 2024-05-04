@@ -366,14 +366,14 @@
 					<attribute id="Type" type="FixedString" value="item" />
 				</node>
 				<node id="GameObjects"> Psionics Plate
-					<attribute id="Description" type="TranslatedString" handle="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7b74cc7cgfff8g49d3ga282g5d0a433d961f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="124a0862-6fae-48d7-a1e8-232c02a785a6" />
-					<attribute id="Name" type="LSString" value="BGW_TrueHeirPlate" />
+					<attribute id="Name" type="LSString" value="BGW_AvatarPlate" />
 					<attribute id="ParentTemplateId" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
 					<attribute id="VisualTemplate" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
-					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirPlate" />
+					<attribute id="Stats" type="FixedString" value="BGW_AvatarPlate" />
 					<attribute id="Type" type="FixedString" value="item" />
 				</node>
 				<node id="GameObjects"> Robes of the Murderer
