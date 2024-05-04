@@ -60,6 +60,7 @@ data "Rarity" "Rare"
 data "WeaponFunctors" "IF(not SavingThrow(Ability.Constitution, 12)):ApplyStatus(SILENCED,100, 2)"
 data "PassivesOnEquip" "MAG_Spellbreaker_Battleaxe_Passive"
 data "Unique" "1"
+data "Rarity" "VeryRare"
 data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);"
 
 new entry "BGW_ZarielScythe"
