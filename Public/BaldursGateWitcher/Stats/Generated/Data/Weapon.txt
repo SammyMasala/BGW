@@ -117,6 +117,36 @@ using "CRE_BloodOfLathander"
 data "RootTemplate" "7c8fadef-1563-4a0e-ac29-a72765689607"
 data "Damage Type" "Piercing"
 
+new entry "BGW_SilverSword_1"
+type "Weapon"
+using "WPN_Longsword"
+data "RootTemplate" "70f8c449-6aa9-4a68-a422-2671d8f8f4a5"
+data "PassivesOnEquip" "BGW_SilverForMonsters_Passive;BGW_SilveredWeapon_Passive"
+data "Weapon Properties" "Versatile;Melee;Dippable;Magical"
+data "Proficiency Group" "Longswords;MartialWeapons"
+data "Rarity" "Uncommon"
+data "DefaultBoosts" "WeaponProperty(Magical);"
+
+new entry "BGW_SilverSword_2"
+type "Weapon"
+using "BGW_SilverSword_1"
+data "RootTemplate" "e0c4024a-cdaf-44f6-bfd2-17dadb634e4f"
+data "Rarity" "Rare"
+data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical);"
+
+new entry "BGW_SilverSword_3"
+type "Weapon"
+using "BGW_SilverSword_1"
+data "RootTemplate" "f455b847-5a3d-4ac5-8ec4-0c26414c5e33"
+data "Rarity" "VeryRare"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);"
+
+new entry "BGW_SilverSword_4"
+type "Weapon"
+using "BGW_SilverSword_1"
+data "RootTemplate" "cdd18154-ccc0-4658-a226-5129d4743204"
+data "Rarity" "Legendary"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical);"
 
 
 

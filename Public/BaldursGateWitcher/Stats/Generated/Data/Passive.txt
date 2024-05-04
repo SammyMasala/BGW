@@ -288,7 +288,20 @@ data "StatsFunctorContext" "OnDamage"
 data "Conditions" "Enemy(context.Target) and IsKillingBlow()"
 data "StatsFunctors" "IF(not HasStatus('STATUS_BGW_DEATHBRINGER', context.Source)):ApplyStatus(SELF,STATUS_BGW_DEATHBRINGER,100,-1)"
 
+new entry "BGW_SilverForMonsters_Passive"
+type "PassiveData"
+data "DisplayName" "hf4ad0fefg53a9g4009g95f2g7416e18e0198;1"
+data "Description" "h50cc15f1g3830g4feaga246gf007508ef5cd;2"
+data "DescriptionParams" "1d4"
+data "Boosts" "IF(not Tagged('HUMANOID',context.Target)):CharacterWeaponDamage(1d4);IF(not Tagged('HUMANOID',context.Target)):RollBonus(Attack, 1d4)"
 
+new entry "BGW_SilveredWeapon_Passive"
+type "PassiveData"
+data "DisplayName" "h8cdf77c5g5392g4a0ag99cdg809576df36f4;1"
+data "Description" "hbfa1f429gd9a8g43e3g8295g6b0c01bda359;2"
+data "Boosts" "IF(not Tagged('HUMANOID',context.Target)):IgnoreResistance(Slashing, Resistant)"
+
+ 
 
 
 

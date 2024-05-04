@@ -70,8 +70,13 @@
   <content contentuid="h3fd3ededg4f60g48cfgaa0eg1aa3d12eaeb1" version="1">Fires a beam of Psychic Damage.</content>
   <content contentuid="h400a6877gd95ag4ee8gae54ga458e2e91125" version="1">Inspire</content>
   <content contentuid="hc0f50118g38c6g429cg945eg4aa937f0b95c" version="1">Grants an Action to an ally.</content>
+  <content contentuid="hf4ad0fefg53a9g4009g95f2g7416e18e0198" version="1">Silver for Monsters</content>
+  <content contentuid="h50cc15f1g3830g4feaga246gf007508ef5cd" version="1">1d4 to Attack Rolls and Damage against non-humanoids.</content>
+  <content contentuid="h8cdf77c5g5392g4a0ag99cdg809576df36f4" version="1">Silvered Weapon</content>
+  <content contentuid="hbfa1f429gd9a8g43e3g8295g6b0c01bda359" version="1">Ignores Slashing Resistance when attacking non-humanoids.</content>
   <content contentuid="hc11558fagb09fg45dbg8796g5fe2101902fe" version="1">Manhunter's Pendant</content>
   <content contentuid="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1">A token worn by those of unquestionable loyalty to the Lord of Murder, to herald the coming of an unspeakable and inevitable fate for their victims.</content>
+
   -- WEAPONS --
 
   <content contentuid="h1995f182g101cg4a74g9cddgdbf037d09f79" version="1">Witcher's Silver Longsword</content> 
@@ -86,10 +91,19 @@
   <content contentuid="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1">Well then, I seem to recall a rather pleasant little restaurant not far from here. Care to see if it's still standing?.</content>
   <content contentuid="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1">Zariel's Tithe</content>
   <content contentuid="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65" version="1">Taken from the archdevil's own personal stash, this weapon was gift from Zariel after her champion completed her first skirmish in Avernus.</content>
+  <content contentuid="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1">Witcher's Silver Sword</content>
+  <content contentuid="h101957d2gec58g40dega645gefbda148fbee" version="1">The silver alloy seems to glow alight under the night sky...</content>
+  <content contentuid="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1">Enhanced Witcher's Silver Sword</content>
+  <content contentuid="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64" version="1">A fine edge that hardly seems to tarnish in spite of its use.</content>
+  <content contentuid="hff8b4212g237fg4f1cgb812g2f00ba893207" version="1">Superior Witcher's Silver Sword</content>
+  <content contentuid="hf363e774g3ba8g4702g979eg9dd7c2c40b6f" version="1">Such workmanship may only be matched by the finest smiths.</content>
+  <content contentuid="hb816b6f6g32b5g499dgaba4g63f8477a8dd8" version="1">Mastercrafted Witcher's Silver Sword</content>
+  <content contentuid="hed6e024egb64bg4458gb360gdf3e65a17590" version="1">A mastercrafted blade for the apex hunter.</content>
   <content contentuid="h9c206503gb682g4041gafecgc5e5552ea902" version="1">1/4 Scale Replica Scythe of Myrkul</content>
   <content contentuid="h6ba06087gd49fg409fgb9fcg0354d6b9ae55" version="1">D:"Are you sure about this, Karlach?" K:"Dead sure. What's there not to be sure about? 'Sides, it's cool." D:"If you say so..."</content>
   <content contentuid="h90598ed9g044fg4a95g8f1fgb9495fab7881" version="1">Infernal Slash</content>
   <content contentuid="hf6238717g9b04g4b36g869ege1ef1278b2ba" version="1">Massive roundhouse swing. Duck!</content>
+  
   -- WITCHER CLASS -- 
 
   <content contentuid="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1">Witcher</content> 

@@ -89,6 +89,50 @@
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
 				</node>
+				<node id="GameObjects"> Witcher's Silver Sword
+					<attribute id="Description" type="TranslatedString" handle="h101957d2gec58g40dega645gefbda148fbee" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="70f8c449-6aa9-4a68-a422-2671d8f8f4a5" />
+					<attribute id="Name" type="LSString" value="BGW_SilverSword_1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_1" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
+				</node>
+				<node id="GameObjects"> Enhanced Witcher's Silver Sword
+					<attribute id="Description" type="TranslatedString" handle="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e0c4024a-cdaf-44f6-bfd2-17dadb634e4f" />
+					<attribute id="Name" type="LSString" value="BGW_SilverSword_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+				</node>
+				<node id="GameObjects"> Superior Witcher's Silver Sword
+					<attribute id="Description" type="TranslatedString" handle="hf363e774g3ba8g4702g979eg9dd7c2c40b6f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hff8b4212g237fg4f1cgb812g2f00ba893207" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f455b847-5a3d-4ac5-8ec4-0c26414c5e33" />
+					<attribute id="Name" type="LSString" value="BGW_SilverSword_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_3" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="82a5ea8b-b67e-2575-b708-6b878e1650e4" />
+				</node>
+				<node id="GameObjects"> Mastercrafted Witcher's Silver Sword
+					<attribute id="Description" type="TranslatedString" handle="hed6e024egb64bg4458gb360gdf3e65a17590" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb816b6f6g32b5g499dgaba4g63f8477a8dd8" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cdd18154-ccc0-4658-a226-5129d4743204" />
+					<attribute id="Name" type="LSString" value="BGW_SilverSword_4" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_4" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
+				</node>
 				<node id="GameObjects"> Selune's Helm
 					<attribute id="Description" type="TranslatedString" handle="h884099fag346fg4b08ga0cbg62bf9b62929a" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1" />
