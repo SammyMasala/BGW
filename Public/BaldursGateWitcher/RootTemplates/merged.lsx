@@ -3,326 +3,588 @@
 	<version major="4" minor="0" revision="6" build="5" />
 	<region id="Templates">
 		<node id="Templates">
-			<children>	
+			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h98f492d8g393bg48adg9c7fgced38b9416c3" version="2" />
+					<attribute id="Description" type="TranslatedString"
+						handle="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h98f492d8g393bg48adg9c7fgced38b9416c3" version="2" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="fce7c35c-b4e1-47bd-aa50-9ef9a39ed932" />
+					<attribute id="MapKey" type="FixedString"
+						value="fce7c35c-b4e1-47bd-aa50-9ef9a39ed932" />
 					<attribute id="Name" type="LSString" value="BGW_DominateNecklace" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
+					<attribute id="ParentTemplateId" type="FixedString"
+						value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
 					<attribute id="Stats" type="FixedString" value="BGW_DominateNecklace" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+									<attribute id="Object" type="guid"
+										value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
 								</node>
 							</children>
 						</node>
 					</children>
-				</node>	
-				<node id="GameObjects"> Witcher's Silver Longsword
-					<attribute id="Description" type="TranslatedString" handle="h88756d94g5cfbg42f2g9851g627b64419034" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h1995f182g101cg4a74g9cddgdbf037d09f79" version="3" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="bc6f16b5-e0f4-4dbe-822f-5e2deba9d105" />
-					<attribute id="Name" type="LSString" value="BGW_WitchersSilverSword" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
-					<attribute id="Stats" type="FixedString" value="BGW_WitchersSilverSword" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
+				</node>
+				<node id="GameObjects"> Witcher's Silver Longsword <attribute id="Description"
+						type="TranslatedString" handle="h88756d94g5cfbg42f2g9851g627b64419034"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h1995f182g101cg4a74g9cddgdbf037d09f79" version="3" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="bc6f16b5-e0f4-4dbe-822f-5e2deba9d105" />
+					<attribute
+						id="Name" type="LSString" value="BGW_WitchersSilverSword" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_WitchersSilverSword" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
 					<children>
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="MAG_GITHYANKI_PSYCHIC_DAMAGE" />
+									<attribute id="Object" type="FixedString"
+										value="MAG_GITHYANKI_PSYCHIC_DAMAGE" />
 								</node>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="MAG_PLANE_SHIFTER_SLAYER_BLESS" />
+									<attribute id="Object" type="FixedString"
+										value="MAG_PLANE_SHIFTER_SLAYER_BLESS" />
 								</node>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="MAG_RADIANT_RADIANCE_WEAPON" />
+									<attribute id="Object" type="FixedString"
+										value="MAG_RADIANT_RADIANCE_WEAPON" />
 								</node>
 							</children>
 						</node>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+									<attribute id="Object" type="guid"
+										value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
 								</node>
 							</children>
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects"> Monster Slayer Longsword
-					<attribute id="Description" type="TranslatedString" handle="h7df25785g34f5g4076gbfccg9ab50ba4d8de" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="ed1f7f31-7cd8-4ace-8f7c-2d7e664027dc" />
-					<attribute id="Name" type="LSString" value="BGW_MonsterSlayerLongsword" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d4cb8410-096a-480e-88fb-7224c6b654f6" />
-					<attribute id="Stats" type="FixedString" value="BGW_MonsterSlayerLongsword" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
+				<node id="GameObjects"> Monster Slayer Longsword <attribute id="Description"
+						type="TranslatedString" handle="h7df25785g34f5g4076gbfccg9ab50ba4d8de"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="ed1f7f31-7cd8-4ace-8f7c-2d7e664027dc" />
+					<attribute
+						id="Name" type="LSString" value="BGW_MonsterSlayerLongsword" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="d4cb8410-096a-480e-88fb-7224c6b654f6" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_MonsterSlayerLongsword" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="98bf6432-b2e0-b163-cfe4-7c6d838e3d62" />
 				</node>
-				<node id="GameObjects"> Cunning Hand Crossbow
-					<attribute id="Description" type="TranslatedString" handle="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="fde7684a-3a46-482f-be17-4b12e85c657d"/>
-					<attribute id="Name" type="LSString" value="BGW_Cunning_HandCrossbow_1" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
-					<attribute id="Stats" type="FixedString" value="BGW_Cunning_HandCrossbow_1" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="79e935b4-9dca-7fdc-bc55-ba7e846909f9" />
+				<node id="GameObjects"> Cunning Hand Crossbow <attribute id="Description"
+						type="TranslatedString" handle="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="fde7684a-3a46-482f-be17-4b12e85c657d" />
+					<attribute
+						id="Name" type="LSString" value="BGW_Cunning_HandCrossbow_1" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_Cunning_HandCrossbow_1" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="79e935b4-9dca-7fdc-bc55-ba7e846909f9" />
 				</node>
-				<node id="GameObjects"> Dimeritium Longsword
-					<attribute id="Description" type="TranslatedString" handle="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="58ee0165-91ef-45d7-a495-a53e4daf7dfd" />
-					<attribute id="Name" type="LSString" value="BGW_Dimeritium_Longsword" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
-					<attribute id="Stats" type="FixedString" value="BGW_Dimeritium_Longsword" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
+				<node id="GameObjects"> Dimeritium Longsword <attribute id="Description"
+						type="TranslatedString" handle="ha13d3a2egf991g4c03gb35cg0d25a840c5d0"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="58ee0165-91ef-45d7-a495-a53e4daf7dfd" />
+					<attribute
+						id="Name" type="LSString" value="BGW_Dimeritium_Longsword" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_Dimeritium_Longsword" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
 				</node>
-				<node id="GameObjects"> Witcher's Silver Sword
-					<attribute id="Description" type="TranslatedString" handle="h101957d2gec58g40dega645gefbda148fbee" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="70f8c449-6aa9-4a68-a422-2671d8f8f4a5" />
-					<attribute id="Name" type="LSString" value="BGW_SilverSword_1" />
-					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
-					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_1" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
+				<node id="GameObjects"> Witcher's Silver Sword <attribute id="Description"
+						type="TranslatedString" handle="h101957d2gec58g40dega645gefbda148fbee"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="70f8c449-6aa9-4a68-a422-2671d8f8f4a5" />
+					<attribute
+						id="Name" type="LSString" value="BGW_SilverSword_1" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_SilverSword_1" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
 				</node>
-				<node id="GameObjects"> Enhanced Witcher's Silver Sword
-					<attribute id="Description" type="TranslatedString" handle="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="e0c4024a-cdaf-44f6-bfd2-17dadb634e4f" />
-					<attribute id="Name" type="LSString" value="BGW_SilverSword_2" />
-					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
-					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_2" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+				<node id="GameObjects"> Enhanced Witcher's Silver Sword <attribute id="Description"
+						type="TranslatedString" handle="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="e0c4024a-cdaf-44f6-bfd2-17dadb634e4f" />
+					<attribute
+						id="Name" type="LSString" value="BGW_SilverSword_2" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_SilverSword_2" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
 				</node>
-				<node id="GameObjects"> Superior Witcher's Silver Sword
-					<attribute id="Description" type="TranslatedString" handle="hf363e774g3ba8g4702g979eg9dd7c2c40b6f" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hff8b4212g237fg4f1cgb812g2f00ba893207" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="f455b847-5a3d-4ac5-8ec4-0c26414c5e33" />
-					<attribute id="Name" type="LSString" value="BGW_SilverSword_3" />
-					<attribute id="ParentTemplateId" type="FixedString" value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
-					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_3" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="82a5ea8b-b67e-2575-b708-6b878e1650e4" />
+				<node id="GameObjects"> Superior Witcher's Silver Sword <attribute id="Description"
+						type="TranslatedString" handle="hf363e774g3ba8g4702g979eg9dd7c2c40b6f"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hff8b4212g237fg4f1cgb812g2f00ba893207" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="f455b847-5a3d-4ac5-8ec4-0c26414c5e33" />
+					<attribute
+						id="Name" type="LSString" value="BGW_SilverSword_3" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="344ac552-11ff-4150-8bb4-7eed8fb78588" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_SilverSword_3" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="82a5ea8b-b67e-2575-b708-6b878e1650e4" />
 				</node>
-				<node id="GameObjects"> Mastercrafted Witcher's Silver Sword
-					<attribute id="Description" type="TranslatedString" handle="hed6e024egb64bg4458gb360gdf3e65a17590" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hb816b6f6g32b5g499dgaba4g63f8477a8dd8" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="cdd18154-ccc0-4658-a226-5129d4743204" />
-					<attribute id="Name" type="LSString" value="BGW_SilverSword_4" />
-					<attribute id="ParentTemplateId" type="FixedString" value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
-					<attribute id="Stats" type="FixedString" value="BGW_SilverSword_4" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
+				<node id="GameObjects"> Mastercrafted Witcher's Silver Sword <attribute
+						id="Description" type="TranslatedString"
+						handle="hed6e024egb64bg4458gb360gdf3e65a17590" version="1" />
+					<attribute
+						id="DisplayName" type="TranslatedString"
+						handle="hb816b6f6g32b5g499dgaba4g63f8477a8dd8" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="cdd18154-ccc0-4658-a226-5129d4743204" />
+					<attribute
+						id="Name" type="LSString" value="BGW_SilverSword_4" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="e3b2adb6-7493-466e-9c65-4281fb74e83f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_SilverSword_4" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="5f9832fa-7633-5e68-b69c-0156eda17471" />
 				</node>
-				<node id="GameObjects"> Selune's Helm
-					<attribute id="Description" type="TranslatedString" handle="h884099fag346fg4b08ga0cbg62bf9b62929a" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="e7c81efe-d4df-4035-a4e8-688b09f0b976" />
-					<attribute id="Name" type="LSString" value="BGW_SeluneMight" />
-					<attribute id="ParentTemplateId" type="FixedString" value="5af1725a-45f5-4f56-924a-76cd1dc1e50b" />
-					<attribute id="Stats" type="FixedString" value="BGW_SeluneMight" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Selune's Helm <attribute id="Description"
+						type="TranslatedString" handle="h884099fag346fg4b08ga0cbg62bf9b62929a"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="e7c81efe-d4df-4035-a4e8-688b09f0b976" />
+					<attribute
+						id="Name" type="LSString" value="BGW_SeluneMight" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="5af1725a-45f5-4f56-924a-76cd1dc1e50b" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_SeluneMight" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Gith Champion's WardPlate
-					<attribute id="Description" type="TranslatedString" handle="h62a85c9cge2e1g4ebbgbad6gb15829f2a158" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h35d15d21g4561g437fga568gc574395eac24" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="610a4e4f-ee16-4d10-91e6-6c5bacc4d647" />
-					<attribute id="Name" type="LSString" value="BGW_LegGithPlate" />
-					<attribute id="ParentTemplateId" type="FixedString" value="38c63f49-3c50-46d0-90d3-68b247542c36" />
-					<attribute id="Stats" type="FixedString" value="BGW_LegGithPlate" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Gith Champion's WardPlate <attribute id="Description"
+						type="TranslatedString" handle="h62a85c9cge2e1g4ebbgbad6gb15829f2a158"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h35d15d21g4561g437fga568gc574395eac24" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="610a4e4f-ee16-4d10-91e6-6c5bacc4d647" />
+					<attribute
+						id="Name" type="LSString" value="BGW_LegGithPlate" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="38c63f49-3c50-46d0-90d3-68b247542c36" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_LegGithPlate" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Karlach's Drip
-					<attribute id="Description" type="TranslatedString" handle="ha3a045e2g7331g4e9dgaa77gc2939bf34fd7" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hb0a3666age87eg4bfcgacbcg2e21ae506127" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="1b63819a-c653-4988-b184-ba171abad870" />
-					<attribute id="Name" type="LSString" value="BGW_KarlachsDrip" />
-					<attribute id="ParentTemplateId" type="FixedString" value="2e3a2651-18ce-44b0-b7bd-3e2565bf666c" />
-					<attribute id="VisualTemplate" type="FixedString" value="eec213cc-3484-4555-8ebe-bea181ecdb42" />
-					<attribute id="Stats" type="FixedString" value="BGW_KarlachsDrip" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Karlach's Drip <attribute id="Description"
+						type="TranslatedString" handle="ha3a045e2g7331g4e9dgaa77gc2939bf34fd7"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hb0a3666age87eg4bfcgacbcg2e21ae506127" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="1b63819a-c653-4988-b184-ba171abad870" />
+					<attribute
+						id="Name" type="LSString" value="BGW_KarlachsDrip" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="2e3a2651-18ce-44b0-b7bd-3e2565bf666c" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="eec213cc-3484-4555-8ebe-bea181ecdb42" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_KarlachsDrip" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Astral Plate of the True Heir
-					<attribute id="Description" type="TranslatedString" handle="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="d91a319c-03e3-425d-80d9-64920f6eaa67" />
-					<attribute id="Name" type="LSString" value="BGW_TrueHeirPlate" />
-					<attribute id="ParentTemplateId" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
-					<attribute id="VisualTemplate" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
-					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirPlate" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Astral Plate of the True Heir <attribute id="Description"
+						type="TranslatedString" handle="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="d91a319c-03e3-425d-80d9-64920f6eaa67" />
+					<attribute
+						id="Name" type="LSString" value="BGW_TrueHeirPlate" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_TrueHeirPlate" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Legacy of the True Heir
-					<attribute id="Description" type="TranslatedString" handle="hefbb1ec7g1756g4534gb993gd3a0e4a07a0a" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="7a5d59e9-340e-4b9c-acac-f6690bd54a0a" />
-					<attribute id="Name" type="LSString" value="BGW_TrueHeirGloves" />
-					<attribute id="ParentTemplateId" type="FixedString" value="30b19abd-fc49-4826-811f-9c4c556ae6f0" />
-					<attribute id="VisualTemplate" type="FixedString" value="30b19abd-fc49-4826-811f-9c4c556ae6f0" />
-					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirGloves" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Legacy of the True Heir <attribute id="Description"
+						type="TranslatedString" handle="hefbb1ec7g1756g4534gb993gd3a0e4a07a0a"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="7a5d59e9-340e-4b9c-acac-f6690bd54a0a" />
+					<attribute
+						id="Name" type="LSString" value="BGW_TrueHeirGloves" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="30b19abd-fc49-4826-811f-9c4c556ae6f0" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="30b19abd-fc49-4826-811f-9c4c556ae6f0" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_TrueHeirGloves" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Greaves of the True Heir
-					<attribute id="Description" type="TranslatedString" handle="h183fdb3bg5d9dg4c52g92dfg6bcdaed63e2c" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hffb29410g6436g4f32gb3bdg129565cdfe5b" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="a3f52e04-6a4b-4c71-869d-8f55f8193fd2" />
-					<attribute id="Name" type="LSString" value="BGW_TrueHeirBoots" />
-					<attribute id="ParentTemplateId" type="FixedString" value="319c625a-cfb7-4e44-ac3f-370a00c0d4ef" />
-					<attribute id="VisualTemplate" type="FixedString" value="319c625a-cfb7-4e44-ac3f-370a00c0d4ef" />
-					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirBoots" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Greaves of the True Heir <attribute id="Description"
+						type="TranslatedString" handle="h183fdb3bg5d9dg4c52g92dfg6bcdaed63e2c"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hffb29410g6436g4f32gb3bdg129565cdfe5b" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="a3f52e04-6a4b-4c71-869d-8f55f8193fd2" />
+					<attribute
+						id="Name" type="LSString" value="BGW_TrueHeirBoots" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="319c625a-cfb7-4e44-ac3f-370a00c0d4ef" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="319c625a-cfb7-4e44-ac3f-370a00c0d4ef" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_TrueHeirBoots" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Circlet of the True Heir
-					<attribute id="Description" type="TranslatedString" handle="h66a8dfd6g5b9cg472agb43cg37632c56035d" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h5291e989g4038g4f10g9b25ge5db3b3a2928" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="92826bdc-6b21-4f1b-b9d4-a8c6d6f81a11" />
-					<attribute id="Name" type="LSString" value="BGW_TrueHeirCirclet" />
-					<attribute id="ParentTemplateId" type="FixedString" value="8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f" />
-					<attribute id="VisualTemplate" type="FixedString" value="8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f" />
-					<attribute id="Stats" type="FixedString" value="BGW_TrueHeirCirclet" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Circlet of the True Heir <attribute id="Description"
+						type="TranslatedString" handle="h66a8dfd6g5b9cg472agb43cg37632c56035d"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h5291e989g4038g4f10g9b25ge5db3b3a2928" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="92826bdc-6b21-4f1b-b9d4-a8c6d6f81a11" />
+					<attribute
+						id="Name" type="LSString" value="BGW_TrueHeirCirclet" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="8a17f2b1-5c5d-4bb0-8b2e-408e837c4d1f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_TrueHeirCirclet" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Avernus Champion's Plate
-					<attribute id="Description" type="TranslatedString" handle="h7fe4c65ag3722g47a8g82c2g68432ed839c1" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h942d53adg635cg47b9gaf1bge6367c1aaeb4" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="a4c963c7-bfa8-46d6-9cb8-ec216aaef607" />
-					<attribute id="Name" type="LSString" value="BGW_AvernusPlate" />
-					<attribute id="ParentTemplateId" type="FixedString" value="5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7" />
-					<attribute id="VisualTemplate" type="FixedString" value="5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7" />
-					<attribute id="Stats" type="FixedString" value="BGW_AvernusPlate" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Avernus Champion's Plate <attribute id="Description"
+						type="TranslatedString" handle="h7fe4c65ag3722g47a8g82c2g68432ed839c1"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h942d53adg635cg47b9gaf1bge6367c1aaeb4" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="a4c963c7-bfa8-46d6-9cb8-ec216aaef607" />
+					<attribute
+						id="Name" type="LSString" value="BGW_AvernusPlate" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="5ff8df3a-6924-4eb4-9d1a-9e87bd644bf7" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_AvernusPlate" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Infernal Knuckle Dusters
-					<attribute id="Description" type="TranslatedString" handle="hd3372316g919dg485bg86c4g6319b53f26b2" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h43847d94g5544g4369gafe9gcfc5cf356ce0" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="8b7fbaef-f78a-4489-a965-5b4acf644964" />
-					<attribute id="Name" type="LSString" value="BGW_HellKnuckles" />
-					<attribute id="ParentTemplateId" type="FixedString" value="b337cd63-d206-4229-84fd-4b77809f7eb3" />
-					<attribute id="VisualTemplate" type="FixedString" value="b337cd63-d206-4229-84fd-4b77809f7eb3" />
-					<attribute id="Stats" type="FixedString" value="BGW_HellKnuckles" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Infernal Knuckle Dusters <attribute id="Description"
+						type="TranslatedString" handle="hd3372316g919dg485bg86c4g6319b53f26b2"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h43847d94g5544g4369gafe9gcfc5cf356ce0" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="8b7fbaef-f78a-4489-a965-5b4acf644964" />
+					<attribute
+						id="Name" type="LSString" value="BGW_HellKnuckles" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="b337cd63-d206-4229-84fd-4b77809f7eb3" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="b337cd63-d206-4229-84fd-4b77809f7eb3" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_HellKnuckles" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Flameward Boots
-					<attribute id="Description" type="TranslatedString" handle="h4f484bc5gf312g4816g932cg799733bd1fe5" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h852b1844g415fg4d9cga322g0e81d2b35e84" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="320db058-c8aa-4581-96e6-ee8d57d56550" />
-					<attribute id="Name" type="LSString" value="BGW_FlamewardBoots" />
-					<attribute id="ParentTemplateId" type="FixedString" value="df040e30-b424-4a89-be1b-83ffd57eb5a1" />
-					<attribute id="VisualTemplate" type="FixedString" value="df040e30-b424-4a89-be1b-83ffd57eb5a1" />
-					<attribute id="Stats" type="FixedString" value="BGW_FlamewardBoots" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Flameward Boots <attribute id="Description"
+						type="TranslatedString" handle="h4f484bc5gf312g4816g932cg799733bd1fe5"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h852b1844g415fg4d9cga322g0e81d2b35e84" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="320db058-c8aa-4581-96e6-ee8d57d56550" />
+					<attribute
+						id="Name" type="LSString" value="BGW_FlamewardBoots" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="df040e30-b424-4a89-be1b-83ffd57eb5a1" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="df040e30-b424-4a89-be1b-83ffd57eb5a1" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_FlamewardBoots" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Zariel's Tithe
-					<attribute id="Description" type="TranslatedString" handle="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="7a87f73d-6acb-44e3-9384-1a32ce51602f" />
-					<attribute id="Name" type="LSString" value="BGW_ZarielScythe" />
-					<attribute id="ParentTemplateId" type="FixedString" value="3112f0f5-4073-45d2-8e37-eeafa1558896" />
-					<attribute id="VisualTemplate" type="FixedString" value="3112f0f5-4073-45d2-8e37-eeafa1558896" />
-					<attribute id="Stats" type="FixedString" value="BGW_ZarielScythe" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Zariel's Tithe <attribute id="Description"
+						type="TranslatedString" handle="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="7a87f73d-6acb-44e3-9384-1a32ce51602f" />
+					<attribute
+						id="Name" type="LSString" value="BGW_ZarielScythe" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="3112f0f5-4073-45d2-8e37-eeafa1558896" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="3112f0f5-4073-45d2-8e37-eeafa1558896" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_ZarielScythe" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Barlgura Sneakers
-					<attribute id="Description" type="TranslatedString" handle="hf8ad97c2g43f4g407cgbdadgc7e65618620e" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h04cc1e9eg3941g4c68g981cg23ea7d4235a6" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="01741fec-c05e-4630-a879-9ccd8ee554be" />
-					<attribute id="Name" type="LSString" value="BGW_BarlguraSneakers" />
-					<attribute id="ParentTemplateId" type="FixedString" value="85d78eab-e4ad-4f56-bfb3-87c6368f5b17" />
-					<attribute id="VisualTemplate" type="FixedString" value="28efb600-a2e9-3cfa-ce83-323219ed6378" />
-					<attribute id="Stats" type="FixedString" value="BGW_BarlguraSneakers" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Barlgura Sneakers <attribute id="Description"
+						type="TranslatedString" handle="hf8ad97c2g43f4g407cgbdadgc7e65618620e"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h04cc1e9eg3941g4c68g981cg23ea7d4235a6" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="01741fec-c05e-4630-a879-9ccd8ee554be" />
+					<attribute
+						id="Name" type="LSString" value="BGW_BarlguraSneakers" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="85d78eab-e4ad-4f56-bfb3-87c6368f5b17" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="28efb600-a2e9-3cfa-ce83-323219ed6378" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_BarlguraSneakers" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Witcher's Hand Crossbow
-					<attribute id="Description" type="TranslatedString" handle="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="480bf864-0ee7-41a4-885a-8b8de5f40b67" />
-					<attribute id="Name" type="LSString" value="BGW_WitchersHandCrossbow" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
-					<attribute id="Stats" type="FixedString" value="BGW_WitchersHandCrossbow" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="bdff6721-7995-98d1-5b61-0152387e6d2f" />
+				<node id="GameObjects"> Witcher's Hand Crossbow <attribute id="Description"
+						type="TranslatedString" handle="hd53da196g0bccg4587gbc30g8a6c609d0322"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="480bf864-0ee7-41a4-885a-8b8de5f40b67" />
+					<attribute
+						id="Name" type="LSString" value="BGW_WitchersHandCrossbow" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="d2f396c2-9b1b-4eea-bf21-2f25934f092d" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_WitchersHandCrossbow" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
+					<attribute id="VisualTemplate"
+						type="FixedString" value="bdff6721-7995-98d1-5b61-0152387e6d2f" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+									<attribute id="Object" type="guid"
+										value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
 								</node>
 							</children>
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects"> Manhunter's Pendant
-					<attribute id="Description" type="TranslatedString" handle="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hc11558fagb09fg45dbg8796g5fe2101902fe" version="2" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="79d5a43c-5bdb-4b24-a2e3-66e944c1baaa" />
-					<attribute id="Name" type="LSString" value="BGW_OPNecklace" />
-					<attribute id="ParentTemplateId" type="FixedString" value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
-					<attribute id="Stats" type="FixedString" value="BGW_OPNecklace" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Manhunter's Pendant <attribute id="Description"
+						type="TranslatedString" handle="hee9ab04cg94c1g45c3gab2ag9ec99a104595"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hc11558fagb09fg45dbg8796g5fe2101902fe" version="2" />
+					<attribute
+						id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_of_Bhaal_A" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="79d5a43c-5bdb-4b24-a2e3-66e944c1baaa" />
+					<attribute
+						id="Name" type="LSString" value="BGW_OPNecklace" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_OPNecklace" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+									<attribute id="Object" type="guid"
+										value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
 								</node>
 							</children>
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects"> Bloodied Birthright
-					<attribute id="Description" type="TranslatedString" handle="hc0ea27adg9a24g412dgba7agef52622baaeb" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hfc3a2cc9gb828g4157g89a3gca303c48dd02" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="9a21a5dd-e99e-4f34-a59e-9cc863b5413b" />
-					<attribute id="Name" type="LSString" value="BGW_OutrageousDagger" />
-					<attribute id="ParentTemplateId" type="FixedString" value="ed1c6a67-7bf0-4cb8-8a53-f4ed7c5ecff0" />
-					<attribute id="VisualTemplate" type="FixedString" value="ec55b190-8d4c-1523-5d0c-f6b2450cf0a0" />
-					<attribute id="Stats" type="FixedString" value="BGW_OutrageousDagger" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Bloodied Birthright <attribute id="Description"
+						type="TranslatedString" handle="hc0ea27adg9a24g412dgba7agef52622baaeb"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hfc3a2cc9gb828g4157g89a3gca303c48dd02" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="9a21a5dd-e99e-4f34-a59e-9cc863b5413b" />
+					<attribute
+						id="Name" type="LSString" value="BGW_OutrageousDagger" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="ed1c6a67-7bf0-4cb8-8a53-f4ed7c5ecff0" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="ec55b190-8d4c-1523-5d0c-f6b2450cf0a0" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_OutrageousDagger" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Morningstar of Lathander
-					<attribute id="Description" type="TranslatedString" handle="h154a0aa1g9d59g4005gafdbg3302d627cd44" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h7b812efdg0678g46dag8229g6d6bec2cd3c3" version="3" />
-					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Sun_Mace_A" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="7c8fadef-1563-4a0e-ac29-a72765689607"/>
-					<attribute id="Name" type="LSString" value="BGW_MorningstarOfLathander" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7b961f08-46c1-46b1-99bc-c59283831a0b" />
-					<attribute id="Stats" type="FixedString" value="BGW_MorningstarOfLathander" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Morningstar of Lathander <attribute id="Description"
+						type="TranslatedString" handle="h154a0aa1g9d59g4005gafdbg3302d627cd44"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h7b812efdg0678g46dag8229g6d6bec2cd3c3" version="3" />
+					<attribute
+						id="Icon" type="FixedString" value="Item_WPN_HUM_Sun_Mace_A" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="7c8fadef-1563-4a0e-ac29-a72765689607" />
+					<attribute
+						id="Name" type="LSString" value="BGW_MorningstarOfLathander" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="7b961f08-46c1-46b1-99bc-c59283831a0b" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_MorningstarOfLathander" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 					<children>
 						<node id="OnUsePeaceActions">
 							<children>
@@ -330,10 +592,13 @@
 									<attribute id="ActionType" type="int32" value="7" />
 									<children>
 										<node id="Attributes">
-											<attribute id="Animation" type="FixedString" value="06346da5-2ed5-4af1-b803-4066a505e662" />
-											<attribute id="Conditions" type="LSString" value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
+											<attribute id="Animation" type="FixedString"
+												value="06346da5-2ed5-4af1-b803-4066a505e662" />
+											<attribute id="Conditions" type="LSString"
+												value="Tagged('REALLY_GALE', context.Source) and not Tagged('ORI_GALE_DONEWITHITEMS', context.Source)" />
 											<attribute id="Consume" type="bool" value="True" />
-											<attribute id="StatsId" type="FixedString" value="ORI_GALE_AVATAR_CONSUMEITEM" />
+											<attribute id="StatsId" type="FixedString"
+												value="ORI_GALE_AVATAR_CONSUMEITEM" />
 											<attribute id="StatusDuration" type="int32" value="0" />
 										</node>
 									</children>
@@ -343,29 +608,44 @@
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
+									<attribute id="Object" type="guid"
+										value="7b96246c-54ba-43ea-b01d-4e0b20ad35f1" />
 								</node>
 							</children>
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects"> Deva Morningstar
-					<attribute id="MapKey" type="FixedString" value="a434df5f-5d3e-4733-acd7-b7984922d508" />
-					<attribute id="Name" type="LSString" value="BGW_DevaMorningstar" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="87a16db5-9a01-4053-a17d-a3d17a721db7" />
-					<attribute id="VisualTemplate" type="FixedString" value="091561d7-ce2c-fd14-e778-0eef9e8e0c0b" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="23d0f4cf-a18b-f3e8-0be6-1b75556fc361" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hba7fd2cfgc9e2g46f2gac2eg7088d54452a4" version="2" />
-					<attribute id="Stats" type="FixedString" value="BGW_DevaMorningstar" />
-					<attribute id="ExamineRotation" type="fvec3" value="0 25 0" />
-					<attribute id="Description" type="TranslatedString" handle="hf1d4f341gf315g467egb8a4gae4219ac2821" version="1" />
+				<node id="GameObjects"> Deva Morningstar <attribute id="MapKey" type="FixedString"
+						value="a434df5f-5d3e-4733-acd7-b7984922d508" />
+					<attribute id="Name"
+						type="LSString" value="BGW_DevaMorningstar" />
+					<attribute id="LevelName"
+						type="FixedString" value="" />
+					<attribute id="Type" type="FixedString"
+						value="item" />
+					<attribute id="ParentTemplateId" type="FixedString"
+						value="87a16db5-9a01-4053-a17d-a3d17a721db7" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="091561d7-ce2c-fd14-e778-0eef9e8e0c0b" />
+					<attribute
+						id="PhysicsTemplate" type="FixedString"
+						value="23d0f4cf-a18b-f3e8-0be6-1b75556fc361" />
+					<attribute id="DisplayName"
+						type="TranslatedString" handle="hba7fd2cfgc9e2g46f2gac2eg7088d54452a4"
+						version="2" />
+					<attribute id="Stats" type="FixedString"
+						value="BGW_DevaMorningstar" />
+					<attribute id="ExamineRotation" type="fvec3"
+						value="0 25 0" />
+					<attribute id="Description" type="TranslatedString"
+						handle="hf1d4f341gf315g467egb8a4gae4219ac2821" version="1" />
 					<children>
 						<node id="Tags">
 							<children>
 								<node id="Tag">
-									<attribute id="Object" type="guid" value="c29fc6ce-0482-420d-a839-41a0bab95c2d" />
+									<attribute id="Object" type="guid"
+										value="c29fc6ce-0482-420d-a839-41a0bab95c2d" />
 								</node>
 							</children>
 						</node>
@@ -374,24 +654,30 @@
 								<node id="Bound">
 									<attribute id="Type" type="uint8" value="0" />
 									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
-									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Min" type="fvec3"
+										value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3"
+										value="0.106643 0.1544284 0.341881" />
 									<attribute id="Radius" type="float" value="0.0833395" />
 									<attribute id="Height" type="float" value="0.0374908" />
 								</node>
 								<node id="Bound">
 									<attribute id="Type" type="uint8" value="1" />
 									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
-									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Min" type="fvec3"
+										value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3"
+										value="0.106643 0.1544284 0.341881" />
 									<attribute id="Radius" type="float" value="0.166679" />
 									<attribute id="Height" type="float" value="0.0374908" />
 								</node>
 								<node id="Bound">
 									<attribute id="Type" type="uint8" value="2" />
 									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Min" type="fvec3" value="-0.1065712 -0.05934551 -0.7792928" />
-									<attribute id="Max" type="fvec3" value="0.106643 0.1544284 0.341881" />
+									<attribute id="Min" type="fvec3"
+										value="-0.1065712 -0.05934551 -0.7792928" />
+									<attribute id="Max" type="fvec3"
+										value="0.106643 0.1544284 0.341881" />
 									<attribute id="Radius" type="float" value="0.166679" />
 									<attribute id="Height" type="float" value="0.0374908" />
 								</node>
@@ -399,36 +685,65 @@
 						</node>
 					</children>
 				</node>
-				<node id="GameObjects"> Deathbringer Gauntlets
-					<attribute id="Description" type="TranslatedString" handle="ha79d184dg98beg4809ga61eg16e3fd7f0cd0" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="2" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="31f93393-9a46-44f8-a0a0-6a4fff28ce15" />
-					<attribute id="Name" type="LSString" value="BGW_DeathbringerGauntlets" />
-					<attribute id="ParentTemplateId" type="FixedString" value="b109178d-5f3f-4aa0-b5b1-ef1bd8d2655b" />
-					<attribute id="Stats" type="FixedString" value="BGW_DeathbringerGauntlets" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Deathbringer Gauntlets <attribute id="Description"
+						type="TranslatedString" handle="ha79d184dg98beg4809ga61eg16e3fd7f0cd0"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="2" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="31f93393-9a46-44f8-a0a0-6a4fff28ce15" />
+					<attribute
+						id="Name" type="LSString" value="BGW_DeathbringerGauntlets" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="b109178d-5f3f-4aa0-b5b1-ef1bd8d2655b" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_DeathbringerGauntlets" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Psionics Plate
-					<attribute id="Description" type="TranslatedString" handle="h7b74cc7cgfff8g49d3ga282g5d0a433d961f" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="124a0862-6fae-48d7-a1e8-232c02a785a6" />
-					<attribute id="Name" type="LSString" value="BGW_AvatarPlate" />
-					<attribute id="ParentTemplateId" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
-					<attribute id="VisualTemplate" type="FixedString" value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
-					<attribute id="Stats" type="FixedString" value="BGW_AvatarPlate" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Psionics Plate <attribute id="Description"
+						type="TranslatedString" handle="h7b74cc7cgfff8g49d3ga282g5d0a433d961f"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="124a0862-6fae-48d7-a1e8-232c02a785a6" />
+					<attribute
+						id="Name" type="LSString" value="BGW_AvatarPlate" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute
+						id="VisualTemplate" type="FixedString"
+						value="f601bac2-16a7-4da0-854a-ae4132ca448f" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_AvatarPlate" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 				</node>
-				<node id="GameObjects"> Robes of the Murderer
-					<attribute id="Description" type="TranslatedString" handle="hd37da82bge6dbg4a40g8d48g158226a7bb9e" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he283851fg7fceg474bg8e4dge9d1aae21604" version="1" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="89387852-d458-494b-9336-ad6d820892a5" />
-					<attribute id="Name" type="LSString" value="BGW_OPRobes" />
-					<attribute id="ParentTemplateId" type="FixedString" value="4ba55c6f-1302-4069-9e04-ff0bf2a7ede2" />
-					<attribute id="Stats" type="FixedString" value="BGW_OPRobes" />
-					<attribute id="Type" type="FixedString" value="item" />
+				<node id="GameObjects"> Robes of the Murderer <attribute id="Description"
+						type="TranslatedString" handle="hd37da82bge6dbg4a40g8d48g158226a7bb9e"
+						version="1" />
+					<attribute id="DisplayName" type="TranslatedString"
+						handle="he283851fg7fceg474bg8e4dge9d1aae21604" version="1" />
+					<attribute
+						id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey"
+						type="FixedString" value="89387852-d458-494b-9336-ad6d820892a5" />
+					<attribute
+						id="Name" type="LSString" value="BGW_OPRobes" />
+					<attribute
+						id="ParentTemplateId" type="FixedString"
+						value="4ba55c6f-1302-4069-9e04-ff0bf2a7ede2" />
+					<attribute id="Stats"
+						type="FixedString" value="BGW_OPRobes" />
+					<attribute id="Type"
+						type="FixedString" value="item" />
 					<children>
 						<node id="Equipment">
 							<children>
@@ -445,240 +760,310 @@
 								<node id="Visuals">
 									<children>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
+											<attribute id="MapKey" type="guid"
+												value="7d73f501-f65e-46af-a13b-2cacf3985d05" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="12097cbf-72cc-a21f-838a-afd02f146858" />
+													<attribute id="Object" type="FixedString"
+														value="12097cbf-72cc-a21f-838a-afd02f146858" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="61a0fc57-f54b-7594-bd96-82defde53193" />
+													<attribute id="Object" type="FixedString"
+														value="61a0fc57-f54b-7594-bd96-82defde53193" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="f0d258d2-e455-8c1e-cd8d-90e32862c559" />
+													<attribute id="Object" type="FixedString"
+														value="f0d258d2-e455-8c1e-cd8d-90e32862c559" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="bb3fea3d-2693-adc0-566d-88dd6fed8535" />
+													<attribute id="Object" type="FixedString"
+														value="bb3fea3d-2693-adc0-566d-88dd6fed8535" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="71180b76-5752-4a97-b71f-911a69197f58" />
+											<attribute id="MapKey" type="guid"
+												value="71180b76-5752-4a97-b71f-911a69197f58" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="55b92629-3026-3563-b3b5-df3d033efcb3" />
+													<attribute id="Object" type="FixedString"
+														value="55b92629-3026-3563-b3b5-df3d033efcb3" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="eed3cb7b-fa3c-a65f-f2d7-bf8d1b322e02" />
+													<attribute id="Object" type="FixedString"
+														value="eed3cb7b-fa3c-a65f-f2d7-bf8d1b322e02" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="4bf4a998-d2ae-a670-b31b-6efff35a28a4" />
+													<attribute id="Object" type="FixedString"
+														value="4bf4a998-d2ae-a670-b31b-6efff35a28a4" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="52495c86-346a-6954-b6f2-578208bd5637" />
+													<attribute id="Object" type="FixedString"
+														value="52495c86-346a-6954-b6f2-578208bd5637" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+											<attribute id="MapKey" type="guid"
+												value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="db52dade-8e5b-06c4-fb5d-3b0e8fbfffff" />
+													<attribute id="Object" type="FixedString"
+														value="db52dade-8e5b-06c4-fb5d-3b0e8fbfffff" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="c8004d33-e601-70a4-d719-eefdf562aca1" />
+													<attribute id="Object" type="FixedString"
+														value="c8004d33-e601-70a4-d719-eefdf562aca1" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="d9276782-08ff-2a8f-1e50-0e2626de64fd" />
+													<attribute id="Object" type="FixedString"
+														value="d9276782-08ff-2a8f-1e50-0e2626de64fd" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5a7a9879-847b-5346-ac57-61148b7693e9" />
+													<attribute id="Object" type="FixedString"
+														value="5a7a9879-847b-5346-ac57-61148b7693e9" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+											<attribute id="MapKey" type="guid"
+												value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5773313e-0a86-61dc-0862-5bb582a543af" />
+													<attribute id="Object" type="FixedString"
+														value="5773313e-0a86-61dc-0862-5bb582a543af" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="0f5101da-5bd6-a96b-5d26-e6e7b4c75124" />
+													<attribute id="Object" type="FixedString"
+														value="0f5101da-5bd6-a96b-5d26-e6e7b4c75124" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="323b9463-9c16-cd43-80a0-09266800fcb1" />
+													<attribute id="Object" type="FixedString"
+														value="323b9463-9c16-cd43-80a0-09266800fcb1" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="3d8eff79-ee47-7e44-7240-2df895632ada" />
+													<attribute id="Object" type="FixedString"
+														value="3d8eff79-ee47-7e44-7240-2df895632ada" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapKey" type="guid"
+												value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="cd54ff9e-8166-ed27-d017-36e5d6ce27cf" />
+													<attribute id="Object" type="FixedString"
+														value="cd54ff9e-8166-ed27-d017-36e5d6ce27cf" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="121436d3-52c5-a58c-3ef6-a692312d59f8" />
+													<attribute id="Object" type="FixedString"
+														value="121436d3-52c5-a58c-3ef6-a692312d59f8" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="d2622b23-26d0-7dca-42f9-b8e881e3b137" />
+													<attribute id="Object" type="FixedString"
+														value="d2622b23-26d0-7dca-42f9-b8e881e3b137" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="026c8fa2-28e9-7f51-8c36-3fcfbb3a06bf" />
+													<attribute id="Object" type="FixedString"
+														value="026c8fa2-28e9-7f51-8c36-3fcfbb3a06bf" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapKey" type="guid"
+												value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="148d1f59-e3b3-117c-22f1-a4a59da1b48b" />
+													<attribute id="Object" type="FixedString"
+														value="148d1f59-e3b3-117c-22f1-a4a59da1b48b" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="eed3cb7b-fa3c-a65f-f2d7-bf8d1b322e02" />
+													<attribute id="Object" type="FixedString"
+														value="eed3cb7b-fa3c-a65f-f2d7-bf8d1b322e02" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="90a6a486-b231-b722-6c3c-ab2fe12498f4" />
+													<attribute id="Object" type="FixedString"
+														value="90a6a486-b231-b722-6c3c-ab2fe12498f4" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="027cd1a1-4dd2-d4f5-bfcf-25c05b437908" />
+													<attribute id="Object" type="FixedString"
+														value="027cd1a1-4dd2-d4f5-bfcf-25c05b437908" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
+											<attribute id="MapKey" type="guid"
+												value="abf674d2-2ea4-4a74-ade0-125429f69f83" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="4b5734be-35e4-dc89-26dc-3772d542bc45" />
+													<attribute id="Object" type="FixedString"
+														value="4b5734be-35e4-dc89-26dc-3772d542bc45" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="c9d8a2af-26a2-769e-7a0f-d7ac21a7d23d" />
+													<attribute id="Object" type="FixedString"
+														value="c9d8a2af-26a2-769e-7a0f-d7ac21a7d23d" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="64ab37be-810e-79c7-d54c-a3cb3add0ba8" />
+													<attribute id="Object" type="FixedString"
+														value="64ab37be-810e-79c7-d54c-a3cb3add0ba8" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="3bc681b4-bb66-7564-c6ef-66f094acd396" />
+													<attribute id="Object" type="FixedString"
+														value="3bc681b4-bb66-7564-c6ef-66f094acd396" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="b4a34ce7-41be-44d9-8486-938fe1472149" />
+											<attribute id="MapKey" type="guid"
+												value="b4a34ce7-41be-44d9-8486-938fe1472149" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="0891cd6c-46ba-9caa-57c0-9e92aafec0bd" />
+													<attribute id="Object" type="FixedString"
+														value="0891cd6c-46ba-9caa-57c0-9e92aafec0bd" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="02abf669-34d3-d1f2-57ba-f1e68ff8e453" />
+													<attribute id="Object" type="FixedString"
+														value="02abf669-34d3-d1f2-57ba-f1e68ff8e453" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="4312f271-9552-f7de-0af4-00de6a2b9c15" />
+													<attribute id="Object" type="FixedString"
+														value="4312f271-9552-f7de-0af4-00de6a2b9c15" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="6581b632-6289-08b9-4ead-8612de1b1687" />
+													<attribute id="Object" type="FixedString"
+														value="6581b632-6289-08b9-4ead-8612de1b1687" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
+											<attribute id="MapKey" type="guid"
+												value="a933e2a8-aee1-4ecb-80d2-8f47b706f024" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="033fb971-c52a-0536-3f3e-de85c9efeca5" />
+													<attribute id="Object" type="FixedString"
+														value="033fb971-c52a-0536-3f3e-de85c9efeca5" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="e1784d80-7998-d96d-4afe-7d7bb28c8872" />
+													<attribute id="Object" type="FixedString"
+														value="e1784d80-7998-d96d-4afe-7d7bb28c8872" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="6a1cb1aa-7b57-19f4-9713-56ec168f5cc9" />
+													<attribute id="Object" type="FixedString"
+														value="6a1cb1aa-7b57-19f4-9713-56ec168f5cc9" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="2403a22b-d5ba-76bf-f804-0c829d8ef88c" />
+													<attribute id="Object" type="FixedString"
+														value="2403a22b-d5ba-76bf-f804-0c829d8ef88c" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
+											<attribute id="MapKey" type="guid"
+												value="8f00cf38-4588-433a-8175-8acdbbf33f33" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="87e3d4c9-f59c-3f47-8577-9ab6bb920222" />
+													<attribute id="Object" type="FixedString"
+														value="87e3d4c9-f59c-3f47-8577-9ab6bb920222" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="2ac1615f-d0c2-c9b7-7cbb-24909cb39d39" />
+													<attribute id="Object" type="FixedString"
+														value="2ac1615f-d0c2-c9b7-7cbb-24909cb39d39" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5740797e-fbe3-3506-caa4-6c9c9a401563" />
+													<attribute id="Object" type="FixedString"
+														value="5740797e-fbe3-3506-caa4-6c9c9a401563" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5b200092-aa72-f56f-7bcf-788e52d4c8af" />
+													<attribute id="Object" type="FixedString"
+														value="5b200092-aa72-f56f-7bcf-788e52d4c8af" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
+											<attribute id="MapKey" type="guid"
+												value="5640e766-aa53-428d-815b-6a0b4ef95aca" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="c4f44e8d-a87d-9257-a711-8dbe0cd99b35" />
+													<attribute id="Object" type="FixedString"
+														value="c4f44e8d-a87d-9257-a711-8dbe0cd99b35" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="f0a66318-32c5-9591-ed36-6faa32862634" />
+													<attribute id="Object" type="FixedString"
+														value="f0a66318-32c5-9591-ed36-6faa32862634" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="99b450a6-b540-600a-8ead-4e10984f3b4b" />
+													<attribute id="Object" type="FixedString"
+														value="99b450a6-b540-600a-8ead-4e10984f3b4b" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="7fb0622e-8173-0789-298a-9cd7595c4020" />
+													<attribute id="Object" type="FixedString"
+														value="7fb0622e-8173-0789-298a-9cd7595c4020" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="c491d027-4332-4fda-948f-4a3df6772baa" />
+											<attribute id="MapKey" type="guid"
+												value="c491d027-4332-4fda-948f-4a3df6772baa" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="fa990fc4-87b5-1971-ebf9-efadb5307120" />
+													<attribute id="Object" type="FixedString"
+														value="fa990fc4-87b5-1971-ebf9-efadb5307120" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="394c70a9-9463-d501-9a06-1ae2b8c4d0fe" />
+													<attribute id="Object" type="FixedString"
+														value="394c70a9-9463-d501-9a06-1ae2b8c4d0fe" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5ecd3d6c-af20-464e-5921-a483cc534ee3" />
+													<attribute id="Object" type="FixedString"
+														value="5ecd3d6c-af20-464e-5921-a483cc534ee3" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="86cbb677-4fc6-302a-3912-9a17fb2e28f5" />
+													<attribute id="Object" type="FixedString"
+														value="86cbb677-4fc6-302a-3912-9a17fb2e28f5" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<attribute id="MapKey" type="guid"
+												value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="9d59c45a-a615-5509-9b58-85c4806f3b0b" />
+													<attribute id="Object" type="FixedString"
+														value="9d59c45a-a615-5509-9b58-85c4806f3b0b" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="1fb84cd9-25dd-1c09-872b-a87ac614d69a" />
+													<attribute id="Object" type="FixedString"
+														value="1fb84cd9-25dd-1c09-872b-a87ac614d69a" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="98172885-6c60-6b42-32c8-a44e4a592a0e" />
+													<attribute id="Object" type="FixedString"
+														value="98172885-6c60-6b42-32c8-a44e4a592a0e" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="bcf250ef-aafd-d2cc-741a-e675b47dcdc5" />
+													<attribute id="Object" type="FixedString"
+														value="bcf250ef-aafd-d2cc-741a-e675b47dcdc5" />
 												</node>
 											</children>
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<attribute id="MapKey" type="guid"
+												value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
 											<children>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="5cf56b92-a3a4-a89e-7b31-af8d50358318" />
+													<attribute id="Object" type="FixedString"
+														value="5cf56b92-a3a4-a89e-7b31-af8d50358318" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="d3d9077b-2f03-35d3-8668-a93fffd774ab" />
+													<attribute id="Object" type="FixedString"
+														value="d3d9077b-2f03-35d3-8668-a93fffd774ab" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="eabf53a8-409d-727c-0378-7fd83883c917" />
+													<attribute id="Object" type="FixedString"
+														value="eabf53a8-409d-727c-0378-7fd83883c917" />
 												</node>
 												<node id="MapValue">
-													<attribute id="Object" type="FixedString" value="d21e3575-6e32-57c4-f8f9-2019bd4bec11" />
+													<attribute id="Object" type="FixedString"
+														value="d21e3575-6e32-57c4-f8f9-2019bd4bec11" />
 												</node>
 											</children>
 										</node>
@@ -690,20 +1075,28 @@
 								<node id="ParentRace">
 									<children>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
-											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="MapKey" type="guid"
+												value="f07faafa-0c6f-4f79-a049-70e96b23d51b" />
+											<attribute id="MapValue" type="guid"
+												value="00000000-0000-0000-0000-000000000000" />
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
-											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="MapKey" type="guid"
+												value="06aaae02-bb9e-4fa3-ac00-b08e13a5b0fa" />
+											<attribute id="MapValue" type="guid"
+												value="00000000-0000-0000-0000-000000000000" />
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
-											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="MapKey" type="guid"
+												value="9a8bbeba-850c-402f-bac5-ff15696e6497" />
+											<attribute id="MapValue" type="guid"
+												value="00000000-0000-0000-0000-000000000000" />
 										</node>
 										<node id="Object">
-											<attribute id="MapKey" type="guid" value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
-											<attribute id="MapValue" type="guid" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="MapKey" type="guid"
+												value="6d38f246-15cb-48b5-9b85-378016a7a78e" />
+											<attribute id="MapValue" type="guid"
+												value="00000000-0000-0000-0000-000000000000" />
 										</node>
 									</children>
 								</node>
@@ -712,32 +1105,41 @@
 									<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
 									<children>
 										<node id="MaterialOverrides">
-											<attribute id="MaterialResource" type="FixedString" value="" />
+											<attribute id="MaterialResource" type="FixedString"
+												value="" />
 											<children>
 												<node id="Vector3Parameters">
-													<attribute id="Parameter" type="FixedString" value="Cloth_Primary" />
-													<attribute id="Value" type="fvec3" value="0.09920496 0.09865315 0.103205" />
+													<attribute id="Parameter" type="FixedString"
+														value="Cloth_Primary" />
+													<attribute id="Value" type="fvec3"
+														value="0.09920496 0.09865315 0.103205" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Color" type="bool" value="False" />
 													<attribute id="Custom" type="bool" value="True" />
 												</node>
 												<node id="Vector3Parameters">
-													<attribute id="Parameter" type="FixedString" value="Cloth_Secondary" />
-													<attribute id="Value" type="fvec3" value="0.277017 0.2943252 0.2943252" />
+													<attribute id="Parameter" type="FixedString"
+														value="Cloth_Secondary" />
+													<attribute id="Value" type="fvec3"
+														value="0.277017 0.2943252 0.2943252" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Color" type="bool" value="False" />
 													<attribute id="Custom" type="bool" value="True" />
 												</node>
 												<node id="Vector3Parameters">
-													<attribute id="Parameter" type="FixedString" value="Cloth_Tertiary" />
-													<attribute id="Value" type="fvec3" value="0.06259032 0.0876283 0.1142311" />
+													<attribute id="Parameter" type="FixedString"
+														value="Cloth_Tertiary" />
+													<attribute id="Value" type="fvec3"
+														value="0.06259032 0.0876283 0.1142311" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Color" type="bool" value="False" />
 													<attribute id="Custom" type="bool" value="True" />
 												</node>
 												<node id="Vector3Parameters">
-													<attribute id="Parameter" type="FixedString" value="Leather_Primary" />
-													<attribute id="Value" type="fvec3" value="0.07380182 0.07380182 0.07380182" />
+													<attribute id="Parameter" type="FixedString"
+														value="Leather_Primary" />
+													<attribute id="Value" type="fvec3"
+														value="0.07380182 0.07380182 0.07380182" />
 													<attribute id="Enabled" type="bool" value="True" />
 													<attribute id="Color" type="bool" value="False" />
 													<attribute id="Custom" type="bool" value="True" />
@@ -745,10 +1147,15 @@
 												<node id="MaterialPresets">
 													<children>
 														<node id="Object">
-															<attribute id="MapKey" type="FixedString" value="02 Colour" />
-															<attribute id="ForcePresetValues" type="bool" value="False" />
-															<attribute id="MaterialPresetResource" type="FixedString" value="1144aef6-52b4-c8f5-0bb1-8f7bada44f1b" />
-															<attribute id="GroupName" type="FixedString" value="02 Colour" />
+															<attribute id="MapKey"
+																type="FixedString" value="02 Colour" />
+															<attribute id="ForcePresetValues"
+																type="bool" value="False" />
+															<attribute id="MaterialPresetResource"
+																type="FixedString"
+																value="1144aef6-52b4-c8f5-0bb1-8f7bada44f1b" />
+															<attribute id="GroupName"
+																type="FixedString" value="02 Colour" />
 														</node>
 													</children>
 												</node>
