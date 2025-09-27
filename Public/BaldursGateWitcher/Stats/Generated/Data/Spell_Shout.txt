@@ -351,6 +351,3 @@ data "Cooldown" "OncePerCombat"
 data "TargetConditions" "Self()"
 data "UseCosts" "BonusActionPoint:1"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful"
-
-
-
