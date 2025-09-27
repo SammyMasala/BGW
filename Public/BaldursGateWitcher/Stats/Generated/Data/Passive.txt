@@ -87,13 +87,13 @@ data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SE
 new entry "BGW_Quen_2"
 type "PassiveData"
 using "BGW_Quen"
-data "DescriptionParams" "DealDamage(2d4+(ProficiencyBonus+SpellCastingAbilityModifier*2), Force)"
+data "DescriptionParams" "DealDamage(2d4+((ProficiencyBonus+SpellCastingAbilityModifier)*2), Force)"
 data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2)"
 
 new entry "BGW_Quen_3"
 type "PassiveData"
 using "BGW_Quen"
-data "DescriptionParams" "DealDamage(3d4+(ProficiencyBonus+SpellCastingAbilityModifier*3),Force)"
+data "DescriptionParams" "DealDamage(3d4+((ProficiencyBonus+SpellCastingAbilityModifier)*3),Force)"
 data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3)"
 
 new entry "BGW_QuenAlt"
@@ -107,14 +107,14 @@ data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SE
 new entry "BGW_QuenAlt_2"
 type "PassiveData"
 using "BGW_QuenAlt"
-data "DescriptionParams" "DealDamage(2d4+(ProficiencyBonus+SpellCastingAbilityModifier*2), Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints((ProficiencyBonus+SpellCastingAbilityModifier*2))"
+data "DescriptionParams" "DealDamage(2d4+((ProficiencyBonus+SpellCastingAbilityModifier)*2), Force)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints(((ProficiencyBonus+SpellCastingAbilityModifier)*2))"
 
 new entry "BGW_QuenAlt_3
 type "PassiveData"
 using "BGW_QuenAlt"
-data "DescriptionParams" "DealDamage(3d4+(ProficiencyBonus+SpellCastingAbilityModifier*3),Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints((ProficiencyBonus+SpellCastingAbilityModifier*3))"
+data "DescriptionParams" "DealDamage(3d4+((ProficiencyBonus+SpellCastingAbilityModifier)*3),Force)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints(((ProficiencyBonus+SpellCastingAbilityModifier)*3))"
 
 new entry "BGW_LethalPrecision"
 type "PassiveData"
