@@ -1,212 +1,465 @@
 <?xml version="1.0" encoding="utf-8"?>
-<contentList>
-  -- MISC --
-
-  <content contentuid="h98f492d8g393bg48adg9c7fgced38b9416c3" version="1">Sam's Misread Charm Necklace</content> 
-  <content contentuid="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1">When the Dungeon Master didn't know what the "Charm Person" spell did....</content>
-  <content contentuid="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1">Helm of Selûne</content> 
-  <content contentuid="h884099fag346fg4b08ga0cbg62bf9b62929a" version="1">And they smote the enemies of the faith with a righteous fury, for they knew they were doing Her work.</content>
-  <content contentuid="hae827209gfe8bg48c0g94dagfe4dc2bbb8c7" version="1">Radiant Dive</content> 
-  <content contentuid="ha0bdcae1g8b12g498eg8541g0588ade98a3f" version="1">Selûne's Wrath</content>
-  <content contentuid="h9095feacg1e6fg4a0agb910g5a62322fa48c" version="1">Selûne's fury is as great as her mercy. Become an aspect of Selûne, strengthening all abilities.</content>
-  <content contentuid="h35d15d21g4561g437fga568gc574395eac24" version="1">Gith Champion's WardPlate</content>
-  <content contentuid="h62a85c9cge2e1g4ebbgbad6gb15829f2a158" version="1">An artisan chestpiece for the chosen champion of Gith. Offers unparalleled protection aginst foes of the regime.</content>
-  <content contentuid="h44a1f059g6110g4669gb36dgc95293740a0b" version="1">Reactive Ward</content>
-  <content contentuid="hab3252feg8de0g4faegb7abg2fbf5fd4bf28" version="1">Blurs the wearer upon receiving an attack.</content>
-  <content contentuid="h02bf92a9gd736g4cbcga907gb4924152fb5b" version="1">Gith Step</content>
-  <content contentuid="hce6c2b0cg6dc5g45fag9119gbe94f4b24597" version="1">Gith's chosen are akin to a tempest: The only mark of their presence are the shattered remains they leave behind.</content>
-  <content contentuid="hb0a3666age87eg4bfcgacbcg2e21ae506127" version="1">Karlach's REAL Clothes</content>
-  <content contentuid="ha3a045e2g7331g4e9dgaa77gc2939bf34fd7" version="1">This girl doesn't have a fuck to give to you.</content>
-  <content contentuid="h33d86e83g0517g4eacgb01fgbdc3d7e95029" version="1">Rage of Avernus</content>
-  <content contentuid="hd5dd37bbgc5dbg4b62g83deg5a74a2745771" version="1">Karlach unleases her infernal might. Let's party!</content>
-  <content contentuid="h45058278g39b3g4ef6gb53dg8c4629ee23d9" version="1">Power of Avernus</content>
-  <content contentuid="h68538eb1g37ffg4071gaa63g328d457371a0" version="1">+1d4 Attack Roll, +1d6 Fire damage to melee weapons. What's not to like?</content>
-  <content contentuid="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="1">Deathbringer Gauntlets</content>
-  <content contentuid="ha79d184dg98beg4809ga61eg16e3fd7f0cd0" version="1">These gauntlets whisper sweet temptations of blood. And they hunger...</content>
-  <content contentuid="h1a2daef0g7168g4fbbgbe0bgd3d5600f513c" version="1">Deathbringer Charge</content>
-  <content contentuid="h0b6c5b1agc2d1g4cdeg8a6fgb6002d2a47fa" version="1">On landing a killing blow, Gain Deathbringer:Active</content>
-  <content contentuid="h54bc3691g2019g45b1gb026gf5ccfe750528" version="1">Deathbringer:Active</content>
-  <content contentuid="h7efe4ec1g54f4g45d2gbb8fg6f764e560fa8" version="1">Unlocks Deathbringer. Lasts for one use per combat.</content>
-  <content contentuid="ha7d60e7dg60e0g4e5ega428g342535f6a678" version="1">Astral Plate of the True Heir</content>
-  <content contentuid="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1">A plate of astral silver, fit for the chosen warrior of the Comet, to aid in his or her liberation of Gith's children.</content>
-  <content contentuid="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1">Legacy of the True Heir</content>
-  <content contentuid="hefbb1ec7g1756g4534gb993gd3a0e4a07a0a" version="1">Ancient illithid blood still stains these battered silver bracers, from the time the children of Gith rose up against the Illithid Empire.</content>
-  <content contentuid="hffb29410g6436g4f32gb3bdg129565cdfe5b" version="1">Greaves of the True Heir</content>
-  <content contentuid="h183fdb3bg5d9dg4c52g92dfg6bcdaed63e2c" version="1">Psionic enchantments allow the wearer of these boots to take to the skies as their Illithid masters once did, allowing them to chase their quarry.</content>
-  <content contentuid="h77cd5d16g8822g4cfbga56dgd1b5aced4b5a" version="1">Pursuit</content>
-  <content contentuid="h5656bad1g1cb6g4febg920bg52eb34e8bf2d" version="1">No Escape</content>
-  <content contentuid="h43fe44abg6824g40efga3a3g8ca117428071" version="1">While affected by Fly, deal additional 1d6 psychic damage.</content>
-  <content contentuid="h085c549egc260g4b8cg9b1cg3fb7f3c7370f" version="1">You Dare</content>
-  <content contentuid="he2bf3139g5a4eg4bf2g812ag1e167860013b" version="1">Missed attacks deal 1d6 Psychic damage to the attacker.</content>
-  <content contentuid="h5291e989g4038g4f10g9b25ge5db3b3a2928" version="1">Circlet of the True Heir</content>
-  <content contentuid="h66a8dfd6g5b9cg472agb43cg37632c56035d" version="1">A gift from the Prince of the Comet, bestowing the gifts of Mother Gith upon her children, and her wrath upon her enemies.</content>
-  <content contentuid="h043e0215g30b4g464fgb702g9d658afa79e3" version="1">Rise/Kneel</content>
-  <content contentuid="h61113b00g0966g4157g92feg87f2ca62ec71" version="1">Gith's will manifestes as a periodic pulse of energy, damaging enemies and healing allies.</content>
-  <content contentuid="h942d53adg635cg47b9gaf1bge6367c1aaeb4" version="1">Avernus Champion's Plate</content>
-  <content contentuid="h7fe4c65ag3722g47a8g82c2g68432ed839c1" version="1">The archdevil Zariel commissioned this piece herself. Forged with infernal iron and tempered in hellfire, the perfect armor for her favoured champion.</content>
-  <content contentuid="h43847d94g5544g4369gafe9gcfc5cf356ce0" version="1">Infernal Knuckle Dusters</content>
-  <content contentuid="hd3372316g919dg485bg86c4g6319b53f26b2" version="1">A set of chipped dusters, roughly hewn from infernal essense. Letters are inscribed onto each knuckle, spelling aloud: NGRY BTCH.</content>
-  <content contentuid="h852b1844g415fg4d9cga322g0e81d2b35e84" version="1">Flameward Boots</content>
-  <content contentuid="h4f484bc5gf312g4816g932cg799733bd1fe5" version="1">These infernal boots project the flames of hell about the wearer. Its thick demon hide soles also protect the feet on the many long marches to war.</content>
-  <content contentuid="h04cc1e9eg3941g4c68g981cg23ea7d4235a6" version="1">Barlgura Sneakers</content>
-  <content contentuid="hf8ad97c2g43f4g407cgbdadgc7e65618620e" version="1">One unfortunate tanar'ri was to catch Avernus' champion on a bad day...</content>
-  <content contentuid="hfbfa6e03g5bd2g4a58g8051g2e45bb6b887f" version="1">Sneaky Ape</content>
-  <content contentuid="h4af18548g11fag4286g8eb9gfbac65a958eb" version="1">While raging, gain Invisibility at the start of your turn...</content>
-  <content contentuid="hd36569a3g80d1g4b11ga760gf5bc5d8ec15d" version="1">Jump Boost</content>
-  <content contentuid="hf2d57f2fgf03ag4c41ga18dga841aa192189" version="1">+4.5m Jump Distance...Ooo Ooo Aaa Aaa!</content>
-  <content contentuid="hecff1cd0gc68bg444eg9580g7c7632d2b0e6" version="1">Flame Ward</content>
-  <content contentuid="hbf2e89f6ge06eg47a2gbdfagfcb6f5ab718f" version="1">REQUIRES RAGE OF AVERNUS! When Raging, receive the effects of Fire Shield (Warm)</content>
-  <content contentuid="hfc3a2cc9gb828g4157g89a3gca303c48dd02" version="1">Bloodied Birthright</content>
-  <content contentuid="hc0ea27adg9a24g412dgba7agef52622baaeb" version="1">A gift from your father, use it to reap the world...</content>
-  <content contentuid="he283851fg7fceg474bg8e4dge9d1aae21604" version="1">Robes of the Murderer</content>
-  <content contentuid="hd37da82bge6dbg4a40g8d48g158226a7bb9e" version="1">These bloodied robes tell the tale of a seasoned killer, making his way through the world...</content>
-  <content contentuid="h181d67d7gb0c9g4136g969egb1cbde6f4483" version="1">Blood Regeneration</content>
-  <content contentuid="ha8aa4f71g76a3g4463g8354gace83f7c786c" version="1">Starting your turn on a Blood surface causes you to regain 1d4 hitpoints.</content>
-  <content contentuid="h2c88f7f7gdc3fg4c1dg8521g6b37ea1c3236" version="1">Magnificent Slayer</content>
-  <content contentuid="h49d2562bg4dd4g4f30g8092g41af5ae0906c" version="1">Weapon attacks deal additional Piercing damage equal to double your Proficiency Bonus.</content>
-  <content contentuid="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1">Avatar Plate</content>
-  <content contentuid="h7b74cc7cgfff8g49d3ga282g5d0a433d961f" version="1">Commander, I believe we are seeing something entirely new...an alien species that has so far managed to elude capture or observation by resistance forces. I strongly advise a cautious approach.</content>
-  <content contentuid="hde9174a5g5ca2g459dg9ce4gcb610e5f13c7" version="1">Null Lance</content>
-  <content contentuid="h3fd3ededg4f60g48cfgaa0eg1aa3d12eaeb1" version="1">Fires a beam of Psychic Damage.</content>
-  <content contentuid="h400a6877gd95ag4ee8gae54ga458e2e91125" version="1">Inspire</content>
-  <content contentuid="hc0f50118g38c6g429cg945eg4aa937f0b95c" version="1">Grants an Action to an ally.</content>
-  <content contentuid="hf4ad0fefg53a9g4009g95f2g7416e18e0198" version="1">Silver for Monsters</content>
-  <content contentuid="h50cc15f1g3830g4feaga246gf007508ef5cd" version="1">1d4 to Attack Rolls and Damage against non-humanoids.</content>
-  <content contentuid="h8cdf77c5g5392g4a0ag99cdg809576df36f4" version="1">Silvered Weapon</content>
-  <content contentuid="hbfa1f429gd9a8g43e3g8295g6b0c01bda359" version="1">Ignores Slashing Resistance when attacking non-humanoids.</content>
-  <content contentuid="hc11558fagb09fg45dbg8796g5fe2101902fe" version="1">Manhunter's Pendant</content>
-  <content contentuid="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1">A token worn by those of unquestionable loyalty to the Lord of Murder, to herald the coming of an unspeakable and inevitable fate for their victims.</content>
-
-  -- WEAPONS --
-
-  <content contentuid="h1995f182g101cg4a74g9cddgdbf037d09f79" version="1">Witcher's Silver Longsword</content> 
-  <content contentuid="h88756d94g5cfbg42f2g9851g627b64419034" version="1">Forged with silver from a falling star, a silver blade is an indispensable part of a witcher's monster slaying arsenal.</content>
-  <content contentuid="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1">Monster Slayer Longsword</content> 
-  <content contentuid="h7df25785g34f5g4076gbfccg9ab50ba4d8de" version="1">The blade reverberates with the muted cries of beasts that fell to its edge.</content>
-  <content contentuid="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1">Cunning Hand Crossbow</content> 
-  <content contentuid="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1">Restored from oblivion, the bow sings with eagerness to leap into battle.</content>
-  <content contentuid="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1">Dimeritium Longsword</content> 
-  <content contentuid="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1">Terranova cried out, struggled, bent over and retched and Geralt realised what the handcuffs were made of. It was an alloy of iron and dimeritium, a rare metal characterised by its inhibition of magical powers.</content>
-  <content contentuid="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1">Witcher's Hand Crossbow</content> 
-  <content contentuid="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1">Well then, I seem to recall a rather pleasant little restaurant not far from here. Care to see if it's still standing?.</content>
-  <content contentuid="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1">Zariel's Tithe</content>
-  <content contentuid="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65" version="1">Taken from the archdevil's own personal stash, this weapon was gift from Zariel after her champion completed her first skirmish in Avernus.</content>
-  <content contentuid="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1">Witcher's Silver Sword</content>
-  <content contentuid="h101957d2gec58g40dega645gefbda148fbee" version="1">The silver alloy seems to glow alight under the night sky...</content>
-  <content contentuid="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1">Enhanced Witcher's Silver Sword</content>
-  <content contentuid="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64" version="1">A fine edge that hardly seems to tarnish in spite of its use.</content>
-  <content contentuid="hff8b4212g237fg4f1cgb812g2f00ba893207" version="1">Superior Witcher's Silver Sword</content>
-  <content contentuid="hf363e774g3ba8g4702g979eg9dd7c2c40b6f" version="1">Such workmanship may only be matched by the finest smiths.</content>
-  <content contentuid="hb816b6f6g32b5g499dgaba4g63f8477a8dd8" version="1">Mastercrafted Witcher's Silver Sword</content>
-  <content contentuid="hed6e024egb64bg4458gb360gdf3e65a17590" version="1">A mastercrafted blade for the apex hunter.</content>
-  <content contentuid="h9c206503gb682g4041gafecgc5e5552ea902" version="1">1/4 Scale Replica Scythe of Myrkul</content>
-  <content contentuid="h6ba06087gd49fg409fgb9fcg0354d6b9ae55" version="1">D:"Are you sure about this, Karlach?" K:"Dead sure. What's there not to be sure about? 'Sides, it's cool." D:"If you say so..."</content>
-  <content contentuid="h90598ed9g044fg4a95g8f1fgb9495fab7881" version="1">Infernal Slash</content>
-  <content contentuid="hf6238717g9b04g4b36g869ege1ef1278b2ba" version="1">Massive roundhouse swing. Duck!</content>
-  
-  -- WITCHER CLASS -- 
-
-  <content contentuid="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1">Witcher</content> 
-  <content contentuid="h7165401ag0611g462ag8e13g94bf728bdd89" version="1">Born of mutation and martial training, witchers are mysterious master hunters of beasts, spoken about in hushed tones by the common folk.</content>
-  <content contentuid="hc7ca3767gae03g4c6agb8b9gdc676bfb7713" version="1">Mutant Enhancements</content> 
-  <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The Trials have enhanced your capabilities:</content>
-  <content contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
-  <content contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance and Immunity to various debilitating potion effects (Poisoned, Lethargy).</content>
-  <content contentuid="h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c" version="1">Prone Execution</content> 
-  <content contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
-  <content contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Focus</content> 
-  <content contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Enter a state of utter focus. Able to parry incoming attacks and deal felling blows.</content> 
-  <content contentuid="hd7de5597g744bg4a9bg8f33g992389177ab9" version="1">Crippling Strikes</content> 
-  <content contentuid="h0fcc9a98ga99cg41efg868bg912dd578093f" version="1">Attacks have a High Chance to apply Bleed on targets.</content> 
-  <content contentuid="ha7144b83g52d6g4ae2gafaag3ff7d0432084" version="1">Rend</content> 
-  <content contentuid="h051efc4dg344cg41c9ga16cgdc08bfed00e1" version="1">A concentrated strike that consumes all charges of Focus to deal monstrous damage.</content> 
-
-  // Elixir Bonus
-  <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
-  <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain one of the following additional effects while under the influence of an Elixir.</content>
-  <content contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 
-  <content contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with Proficient weapons.</content>
-  <content contentuid="hdadb4cb8g1db1g4e32gb3c7g51baf5a9adc8" version="1">Sign Intensity</content> 
-  <content contentuid="h6aa39bf5g51feg478bgaba9ga37665b4993a" version="1">+2 to Spell Save DC.</content>
-  //Witcher Expertise
-  <content contentuid="hd71570f8g8b66g4c47g9983gf07e8fc6e63b" version="1">Witcher Expertise</content> 
-  <content contentuid="h16d6d37cge75cg40b4g9695g86bbecf9108f" version="1">Gain Expertise and Proficiency in two of the following Skills.</content>
-  <content contentuid="h062748e7g6ae1g40b0ga842g215a9154e517" version="1">Witcher Expertise: Arcana</content> 
-  <content contentuid="h1d227bdcg2bbag4e44gbe9fgb1a6aae0d8fd" version="1">Proficiency and Expertise in Arcana.</content>
-  <content contentuid="h71a4a6f5g2547g4c9dg8c7fgec017127b738" version="1">Witcher Expertise: Investigation</content> 
-  <content contentuid="h80d2aa2agdd46g4399g98d6gb37e1208ebff" version="1">Proficiency and Expertise in Investigation.</content>
-  <content contentuid="h0db1edfbg5b14g4ba5gb657g045087d12890" version="1">Witcher Expertise: Nature</content> 
-  <content contentuid="h099b5310gf994g4ec8gaac4gdc4626b4dee2" version="1">Proficiency and Expertise in Nature.</content>
-  <content contentuid="h07431404g31c1g49e3gbb02ga5a313f15508" version="1">Witcher Expertise: Medicine</content> 
-  <content contentuid="h2f031d46g1cb9g41deg8aa2g638ef03c66e1" version="1">Proficiency and Expertise in Medicine.</content>
-  //Mutant Enhancements
-  <content contentuid="h9b120b98g6bc6g4f34ga45ag2373ed5fdeec" version="1">Aggravating Wounds</content> 
-  <content contentuid="ha3bda703gfbe3g440ega5d6gd43c0c1bb076" version="1">Deal 1d8 additional damage to Bleeding and Poisoned targets.</content>
-  <content contentuid="he82887bdg2a6bg4c04gb76fg750556784fb9" version="1">Sunder Armor</content> 
-  <content contentuid="hbf70b199gc305g4073ga272gce93a848d635" version="1">Your weapon attacks apply Sunder Armor for 2 turns.</content>
-  <content contentuid="hee62585fg70cdg4309g9fd7gd7e0be22e34f" version="1">AC reduced by 1.</content>
-  <content contentuid="h9d7c7777g6f14g49c7gafafged9f3734fd70" version="1">Persuasive Presence</content> 
-  <content contentuid="h0a49a7eegec8cg4b5ega794g64ea88a686d9" version="1">Learn the Charm Person spell.</content>
-  <content contentuid="h2049a99cg617cg4a41ga345geb65c09e01b2" version="1">Intimidating Presence</content> 
-  <content contentuid="hcd301082g5c66g41acgbd19g2ac8d58fd4b5" version="1">Learn the Thaumaturgy spell.</content>
-  <content contentuid="h49fed922gb767g4b63g945ag04bc49424621" version="1">Maiming Strike</content> 
-  <content contentuid="h857f534ege331g40bega55agc334d0032cab" version="1">Your ranged weapon attacks have a high chance to apply Crippled.</content>
-  <content contentuid="h6216895bgcfd3g4777g9366gd65ef6c25f26" version="1">Melt Armor</content> 
-  <content contentuid="h9a2ea0d2gbbd5g44f8g8210gb84abb04afa7" version="1">Enhanced Movement</content> 
-  <content contentuid="h8e795467ga99bg4f26gaf8dg5570dc77808f" version="1">+3m movement speed</content> 
-  <content contentuid="hb0b39cbdg8cd3g44c6g8e86gd1eff5087383" version="1">Enhanced Reflexes</content> 
-  <content contentuid="hfc11c512gc3d2g4299ga26bg64a00c63d0c3" version="1">+2 Initiative</content>
-  <content contentuid="h38c74cacg9241g4fddgb8beg535428cf26d0" version="1">Intimidating Presence</content> 
-  <content contentuid="hfe0385cdgc21ag4b23ga9ddg2150fd3f5fd9" version="1">Gain Proficiency and Expertise in Intimidation.</content>
-  <content contentuid="h6fda31ceg4eb7g4864g91f9g7ae86792622d" version="1">Iron Flesh</content> 
-  <content contentuid="h5763cf6eg81b5g471fgb70bg9673bb19283c" version="1">Take less damage from all sources equal to your Constitution modifier.</content>
-  <content contentuid="hf89f2747gca4dg4ed4gaffbg67e8861fb6b1" version="1">Unbreakable Mind</content> 
-  <content contentuid="h3a20c4begd949g4c4dg90d8g332fd4e72854" version="1">Advantage on Constitution and Wisdom Saving Throws.</content>
-  <content contentuid="hbff5d6d4gc89dg41f0g8c2eg99b4ab6bc59f" version="1">Murderous Surge</content> 
-  <content contentuid="h27d5916fg4305g40a8g8eb3g7fea4df0ead7" version="1">Once per turn, recover 6m movement speed on kills.</content>
-  <content contentuid="h48f3283fg93f1g44b7gace4g4d549f9c8aba" version="1">+6m movement speed.</content>
-
-  -- SIGNS --
-
-  <content contentuid="h61435b3egf9fbg4251g8eafg24b94b5406f9" version="1">Witcher Signs I</content> 
-  <content contentuid="h443ff662g423cg4436gb1e3gbc37874f8111" version="1">Unlocks the basic form of Witcher signs</content>
-  <content contentuid="h4f19322cg4232g47dfga70fge828647d9b41" version="1">Witcher Signs II</content> 
-  <content contentuid="hc99f78e6g0349g4a26gb006g3d799ba4fa99" version="1">Unlocks the improved form of Witcher signs</content>
-  <content contentuid="h83d427d2g282bg448bga7d2gf057813a706e" version="1">Witcher Signs III</content> 
-  <content contentuid="h3c4ab1d9ga001g4f40g9615g71c6297eefd3" version="1">Unlocks the final form of Witcher signs</content>
+<contentList> -- MISC -- <content contentuid="h98f492d8g393bg48adg9c7fgced38b9416c3" version="1">Sam's
+  Misread Charm Necklace</content> 
+  <content contentuid="h996611a6g19ecg46bcgbf0fg3c714e75483d"
+    version="1">When the Dungeon Master didn't know what the "Charm Person" spell did....</content>
+  <content
+    contentuid="h791d7252g22e8g4a61gaf65g9a2324ccdf6e" version="1">Helm of Selûne</content> 
+  <content
+    contentuid="h884099fag346fg4b08ga0cbg62bf9b62929a" version="1">And they smote the enemies of the
+  faith with a righteous fury, for they knew they were doing Her work.</content>
+  <content
+    contentuid="hae827209gfe8bg48c0g94dagfe4dc2bbb8c7" version="1">Radiant Dive</content> 
+  <content
+    contentuid="ha0bdcae1g8b12g498eg8541g0588ade98a3f" version="1">Selûne's Wrath</content>
+  <content
+    contentuid="h9095feacg1e6fg4a0agb910g5a62322fa48c" version="1">Selûne's fury is as great as her
+  mercy. Become an aspect of Selûne, strengthening all abilities.</content>
+  <content
+    contentuid="h35d15d21g4561g437fga568gc574395eac24" version="1">Gith Champion's WardPlate</content>
+  <content
+    contentuid="h62a85c9cge2e1g4ebbgbad6gb15829f2a158" version="1">An artisan chestpiece for the
+  chosen champion of Gith. Offers unparalleled protection aginst foes of the regime.</content>
+  <content
+    contentuid="h44a1f059g6110g4669gb36dgc95293740a0b" version="1">Reactive Ward</content>
+  <content
+    contentuid="hab3252feg8de0g4faegb7abg2fbf5fd4bf28" version="1">Blurs the wearer upon receiving
+    an attack.</content>
+  <content contentuid="h02bf92a9gd736g4cbcga907gb4924152fb5b" version="1">Gith
+  Step</content>
+  <content contentuid="hce6c2b0cg6dc5g45fag9119gbe94f4b24597" version="1">Gith's
+    chosen are akin to a tempest: The only mark of their presence are the shattered remains they
+  leave
+    behind.</content>
+  <content contentuid="hb0a3666age87eg4bfcgacbcg2e21ae506127" version="1">Karlach's
+  REAL Clothes</content>
+  <content contentuid="ha3a045e2g7331g4e9dgaa77gc2939bf34fd7" version="1">This
+  girl doesn't have a fuck to give to you.</content>
+  <content
+    contentuid="h33d86e83g0517g4eacgb01fgbdc3d7e95029" version="1">Rage of Avernus</content>
+  <content
+    contentuid="hd5dd37bbgc5dbg4b62g83deg5a74a2745771" version="1">Karlach unleases her infernal
+  might. Let's party!</content>
+  <content contentuid="h45058278g39b3g4ef6gb53dg8c4629ee23d9"
+    version="1">Power of Avernus</content>
+  <content
+    contentuid="h68538eb1g37ffg4071gaa63g328d457371a0" version="1">+1d4 Attack Roll, +1d6 Fire
+    damage to melee weapons. What's not to like?</content>
+  <content
+    contentuid="hd0699c12g3ba0g41fbg877ag22f5f42c96cc" version="1">Deathbringer Gauntlets</content>
+  <content
+    contentuid="ha79d184dg98beg4809ga61eg16e3fd7f0cd0" version="1">These gauntlets whisper sweet
+  temptations of blood. And they hunger...</content>
+  <content
+    contentuid="h1a2daef0g7168g4fbbgbe0bgd3d5600f513c" version="1">Deathbringer Charge</content>
+  <content
+    contentuid="h0b6c5b1agc2d1g4cdeg8a6fgb6002d2a47fa" version="1">On landing a killing blow, Gain
+  Deathbringer:Active</content>
+  <content contentuid="h54bc3691g2019g45b1gb026gf5ccfe750528"
+    version="1">Deathbringer:Active</content>
+  <content
+    contentuid="h7efe4ec1g54f4g45d2gbb8fg6f764e560fa8" version="1">Unlocks Deathbringer. Lasts for
+  one use per combat.</content>
+  <content contentuid="ha7d60e7dg60e0g4e5ega428g342535f6a678"
+    version="1">Astral Plate of the True Heir</content>
+  <content
+    contentuid="hfec0c8dag4c6cg4a5ega437g1ff4034f7f6f" version="1">A plate of astral silver, fit for
+  the chosen warrior of the Comet, to aid in his or her liberation of Gith's children.</content>
+  <content
+    contentuid="h0916597fgabc4g4f1cgb723g1411d5b8f72d" version="1">Legacy of the True Heir</content>
+  <content
+    contentuid="hefbb1ec7g1756g4534gb993gd3a0e4a07a0a" version="1">Ancient illithid blood still
+  stains these battered silver bracers, from the time the children of Gith rose up against the
+  Illithid Empire.</content>
+  <content contentuid="hffb29410g6436g4f32gb3bdg129565cdfe5b" version="1">Greaves
+  of the True Heir</content>
+  <content contentuid="h183fdb3bg5d9dg4c52g92dfg6bcdaed63e2c" version="1">Psionic
+  enchantments allow the wearer of these boots to take to the skies as their Illithid masters once
+  did, allowing them to chase their quarry.</content>
+  <content
+    contentuid="h77cd5d16g8822g4cfbga56dgd1b5aced4b5a" version="1">Pursuit</content>
+  <content
+    contentuid="h5656bad1g1cb6g4febg920bg52eb34e8bf2d" version="1">No Escape</content>
+  <content
+    contentuid="h43fe44abg6824g40efga3a3g8ca117428071" version="1">While affected by Fly, deal
+  additional 1d6 psychic damage.</content>
+  <content
+    contentuid="h085c549egc260g4b8cg9b1cg3fb7f3c7370f" version="1">You Dare</content>
+  <content
+    contentuid="he2bf3139g5a4eg4bf2g812ag1e167860013b" version="1">Missed attacks deal 1d6 Psychic
+  damage to the attacker.</content>
+  <content contentuid="h5291e989g4038g4f10g9b25ge5db3b3a2928"
+    version="1">Circlet of the True Heir</content>
+  <content
+    contentuid="h66a8dfd6g5b9cg472agb43cg37632c56035d" version="1">A gift from the Prince of the
+  Comet, bestowing the gifts of Mother Gith upon her children, and her wrath upon her enemies.</content>
+  <content
+    contentuid="h043e0215g30b4g464fgb702g9d658afa79e3" version="1">Rise/Kneel</content>
+  <content
+    contentuid="h61113b00g0966g4157g92feg87f2ca62ec71" version="1">Gith's will manifestes as a
+  periodic pulse of energy, damaging enemies and healing allies.</content>
+  <content
+    contentuid="h942d53adg635cg47b9gaf1bge6367c1aaeb4" version="1">Avernus Champion's Plate</content>
+  <content
+    contentuid="h7fe4c65ag3722g47a8g82c2g68432ed839c1" version="1">The archdevil Zariel commissioned
+  this piece herself. Forged with infernal iron and tempered in hellfire, the perfect armor for her
+  favoured champion.</content>
+  <content contentuid="h43847d94g5544g4369gafe9gcfc5cf356ce0"
+    version="1">Infernal Knuckle Dusters</content>
+  <content
+    contentuid="hd3372316g919dg485bg86c4g6319b53f26b2" version="1">A set of chipped dusters, roughly
+  hewn from infernal essense. Letters are inscribed onto each knuckle, spelling aloud: NGRY BTCH.</content>
+  <content
+    contentuid="h852b1844g415fg4d9cga322g0e81d2b35e84" version="1">Flameward Boots</content>
+  <content
+    contentuid="h4f484bc5gf312g4816g932cg799733bd1fe5" version="1">These infernal boots project the
+  flames of hell about the wearer. Its thick demon hide soles also protect the feet on the many long
+  marches to war.</content>
+  <content contentuid="h04cc1e9eg3941g4c68g981cg23ea7d4235a6" version="1">Barlgura
+  Sneakers</content>
+  <content contentuid="hf8ad97c2g43f4g407cgbdadgc7e65618620e" version="1">One
+  unfortunate tanar'ri was to catch Avernus' champion on a bad day...</content>
+  <content
+    contentuid="hfbfa6e03g5bd2g4a58g8051g2e45bb6b887f" version="1">Sneaky Ape</content>
+  <content
+    contentuid="h4af18548g11fag4286g8eb9gfbac65a958eb" version="1">While raging, gain Invisibility
+    at the start of your turn...</content>
+  <content
+    contentuid="hd36569a3g80d1g4b11ga760gf5bc5d8ec15d"
+    version="1">Jump Boost</content>
+  <content contentuid="hf2d57f2fgf03ag4c41ga18dga841aa192189"
+    version="1">+4.5m Jump Distance...Ooo Ooo Aaa Aaa!</content>
+  <content
+    contentuid="hecff1cd0gc68bg444eg9580g7c7632d2b0e6" version="1">Flame Ward</content>
+  <content
+    contentuid="hbf2e89f6ge06eg47a2gbdfagfcb6f5ab718f" version="1">REQUIRES RAGE OF AVERNUS! When
+  Raging, receive the effects of Fire Shield (Warm)</content>
+  <content
+    contentuid="hfc3a2cc9gb828g4157g89a3gca303c48dd02" version="1">Bloodied Birthright</content>
+  <content
+    contentuid="hc0ea27adg9a24g412dgba7agef52622baaeb" version="1">A gift from your father, use it
+    to reap the world...</content>
+  <content contentuid="he283851fg7fceg474bg8e4dge9d1aae21604"
+    version="1">Robes of the Murderer</content>
+  <content
+    contentuid="hd37da82bge6dbg4a40g8d48g158226a7bb9e" version="1">These bloodied robes tell the
+    tale of a seasoned killer, making his way through the world...</content>
+  <content
+    contentuid="h181d67d7gb0c9g4136g969egb1cbde6f4483" version="1">Blood Regeneration</content>
+  <content
+    contentuid="ha8aa4f71g76a3g4463g8354gace83f7c786c" version="1">Starting your turn on a Blood
+  surface causes you to regain 1d4 hitpoints.</content>
+  <content
+    contentuid="h2c88f7f7gdc3fg4c1dg8521g6b37ea1c3236" version="1">Magnificent Slayer</content>
+  <content
+    contentuid="h49d2562bg4dd4g4f30g8092g41af5ae0906c" version="1">Weapon attacks deal additional
+  Piercing damage equal to double your Proficiency Bonus.</content>
+  <content
+    contentuid="h1a7096f6g3a9eg4a8ag9e13g9fcaaae7531e" version="1">Avatar Plate</content>
+  <content
+    contentuid="h7b74cc7cgfff8g49d3ga282g5d0a433d961f" version="1">Commander, I believe we are
+    seeing something entirely new...an alien species that has so far managed to elude capture or
+  observation by resistance forces. I strongly advise a cautious approach.</content>
+  <content
+    contentuid="hde9174a5g5ca2g459dg9ce4gcb610e5f13c7" version="1">Null Lance</content>
+  <content
+    contentuid="h3fd3ededg4f60g48cfgaa0eg1aa3d12eaeb1" version="1">Fires a beam of Psychic Damage.</content>
+  <content
+    contentuid="h400a6877gd95ag4ee8gae54ga458e2e91125" version="1">Inspire</content>
+  <content
+    contentuid="hc0f50118g38c6g429cg945eg4aa937f0b95c" version="1">Grants an Action to an ally.</content>
+  <content
+    contentuid="hf4ad0fefg53a9g4009g95f2g7416e18e0198" version="1">Silver for Monsters</content>
+  <content
+    contentuid="h50cc15f1g3830g4feaga246gf007508ef5cd" version="1">1d4 to Attack Rolls and Damage
+  against non-humanoids.</content>
+  <content contentuid="h8cdf77c5g5392g4a0ag99cdg809576df36f4"
+    version="1">Silvered Weapon</content>
+  <content contentuid="hbfa1f429gd9a8g43e3g8295g6b0c01bda359"
+    version="1">Ignores Slashing Resistance when attacking non-humanoids.</content>
+  <content
+    contentuid="hc11558fagb09fg45dbg8796g5fe2101902fe" version="1">Manhunter's Pendant</content>
+  <content
+    contentuid="hee9ab04cg94c1g45c3gab2ag9ec99a104595" version="1">A token worn by those of
+  unquestionable loyalty to the Lord of Murder, to herald the coming of an unspeakable and
+    inevitable fate for their victims.</content> -- WEAPONS -- <content
+    contentuid="h1995f182g101cg4a74g9cddgdbf037d09f79" version="1">Witcher's Silver Longsword</content> 
+  <content
+    contentuid="h88756d94g5cfbg42f2g9851g627b64419034" version="1">Forged with silver from a falling
+  star, a silver blade is an indispensable part of a witcher's monster slaying arsenal.</content>
+  <content
+    contentuid="h393cc8f0g2393g4b05g9bc9g871f95dbfb74" version="1">Monster Slayer Longsword</content> 
+  <content
+    contentuid="h7df25785g34f5g4076gbfccg9ab50ba4d8de" version="1">The blade reverberates with the
+  muted cries of beasts that fell to its edge.</content>
+  <content
+    contentuid="h35bdfaefg7245g4795g92c2g6cc7cd296c91" version="1">Cunning Hand Crossbow</content> 
+  <content
+    contentuid="hf4f5ceb3gba8bg4bdbga757ge44aaecc05d4" version="1">Restored from oblivion, the bow
+  sings with eagerness to leap into battle.</content>
+  <content
+    contentuid="h6d586c1cg863bg4c8egb470g10b6012cbc04" version="1">Dimeritium Longsword</content> 
+  <content
+    contentuid="ha13d3a2egf991g4c03gb35cg0d25a840c5d0" version="1">Terranova cried out, struggled,
+  bent over and retched and Geralt realised what the handcuffs were made of. It was an alloy of iron
+  and dimeritium, a rare metal characterised by its inhibition of magical powers.</content>
+  <content
+    contentuid="h9ecf974fga795g4e77gbab5gfa74574196c5" version="1">Witcher's Hand Crossbow</content> 
+  <content
+    contentuid="hd53da196g0bccg4587gbc30g8a6c609d0322" version="1">Well then, I seem to recall a
+  rather pleasant little restaurant not far from here. Care to see if it's still standing?.</content>
+  <content
+    contentuid="he52ecc38g94eag4aa2gadf9ge9239c2fadd9" version="1">Zariel's Tithe</content>
+  <content
+    contentuid="hed21c2d2g7a23g45a2gabd7gb80d05fd1b65" version="1">Taken from the archdevil's own
+  personal stash, this weapon was gift from Zariel after her champion completed her first skirmish
+    in Avernus.</content>
+  <content contentuid="h8d0ae725g92f3g49d3ga076g0d33369a7100" version="1">Witcher's
+  Silver Sword</content>
+  <content contentuid="h101957d2gec58g40dega645gefbda148fbee" version="1">The
+  silver alloy seems to glow alight under the night sky...</content>
+  <content
+    contentuid="h46d19091g32c6g4b92g9778g3d3c5dc5652d" version="1">Enhanced Witcher's Silver Sword</content>
+  <content
+    contentuid="h3e0fbbc9g9ae2g4ddbg9b73g5cfefb191a64" version="1">A fine edge that hardly seems to
+  tarnish in spite of its use.</content>
+  <content contentuid="hff8b4212g237fg4f1cgb812g2f00ba893207"
+    version="1">Superior Witcher's Silver Sword</content>
+  <content
+    contentuid="hf363e774g3ba8g4702g979eg9dd7c2c40b6f" version="1">Such workmanship may only be
+  matched by the finest smiths.</content>
+  <content contentuid="hb816b6f6g32b5g499dgaba4g63f8477a8dd8"
+    version="1">Mastercrafted Witcher's Silver Sword</content>
+  <content
+    contentuid="hed6e024egb64bg4458gb360gdf3e65a17590" version="1">A mastercrafted blade for the
+    apex hunter.</content>
+  <content contentuid="h9c206503gb682g4041gafecgc5e5552ea902" version="1">1/4
+  Scale Replica Scythe of Myrkul</content>
+  <content
+    contentuid="h6ba06087gd49fg409fgb9fcg0354d6b9ae55" version="1">D:"Are you sure about this,
+  Karlach?" K:"Dead sure. What's there not to be sure about? 'Sides, it's cool." D:"If you say
+    so..."</content>
+  <content contentuid="h90598ed9g044fg4a95g8f1fgb9495fab7881" version="1">Infernal
+  Slash</content>
+  <content contentuid="hf6238717g9b04g4b36g869ege1ef1278b2ba" version="1">Massive
+  roundhouse swing. Duck!</content> -- WITCHER CLASS -- <content
+    contentuid="h9893eeaagea76g4a95g950ag9ee5480f6be5" version="1">Witcher</content> 
+  <content
+    contentuid="h7165401ag0611g462ag8e13g94bf728bdd89" version="1">Born of mutation and martial
+  training, witchers are mysterious master hunters of beasts, spoken about in hushed tones by the
+  common folk.</content>
+  <content contentuid="hc7ca3767gae03g4c6agb8b9gdc676bfb7713" version="1">Mutant
+  Enhancements</content> 
+  <content contentuid="h0c1bca67gb536g44fag8863gec36c9fd8710" version="1">The
+  Trials have enhanced your capabilities:</content>
+  <content
+    contentuid="h20240b4ag8b16g4e8eg8879g43fcc0919943" version="1">Toxic Tolerance</content> 
+  <content
+    contentuid="h52d26518ge540g4c1ag8ca6gedbad4fa3a57" version="1">Gain Poison Resistance and
+  Immunity to various debilitating potion effects (Poisoned, Lethargy).</content>
+  <content
+    contentuid="h71b1e7c9gbeb1g4a01ga385gf7f4f0e11a8c" version="1">Prone Execution</content> 
+  <content
+    contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone
+  enemies. Increased by Proficiency Bonus</content> 
+  <content
+    contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Focus</content> 
+  <content
+    contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Enter a state of utter focus.
+    Able to parry incoming attacks and deal felling blows.</content> 
+  <content
+    contentuid="hd7de5597g744bg4a9bg8f33g992389177ab9" version="1">Crippling Strikes</content> 
+  <content
+    contentuid="h0fcc9a98ga99cg41efg868bg912dd578093f" version="1">Attacks have a High Chance to
+  apply Bleed on targets.</content> 
+  <content contentuid="ha7144b83g52d6g4ae2gafaag3ff7d0432084"
+    version="1">Rend</content> 
+  <content contentuid="h051efc4dg344cg41c9ga16cgdc08bfed00e1"
+    version="1">A concentrated strike that consumes all charges of Focus to deal monstrous damage.</content>
+  // Elixir Bonus <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization:
+  Elixir Bonus</content> 
+  <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain
+  one of the following additional effects while under the influence of an Elixir.</content>
+  <content
+    contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 
+  <content
+    contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with
+    Proficient weapons.</content>
+  <content contentuid="hdadb4cb8g1db1g4e32gb3c7g51baf5a9adc8"
+    version="1">Sign Intensity</content> 
+  <content contentuid="h6aa39bf5g51feg478bgaba9ga37665b4993a"
+    version="1">+2 to Spell Save DC.</content> //Witcher Expertise <content
+    contentuid="hd71570f8g8b66g4c47g9983gf07e8fc6e63b" version="1">Witcher Expertise</content> 
+  <content
+    contentuid="h16d6d37cge75cg40b4g9695g86bbecf9108f" version="1">Gain Expertise and Proficiency in
+  two of the following Skills.</content>
+  <content contentuid="h062748e7g6ae1g40b0ga842g215a9154e517"
+    version="1">Witcher Expertise: Arcana</content> 
+  <content
+    contentuid="h1d227bdcg2bbag4e44gbe9fgb1a6aae0d8fd" version="1">Proficiency and Expertise in
+  Arcana.</content>
+  <content contentuid="h71a4a6f5g2547g4c9dg8c7fgec017127b738" version="1">Witcher
+  Expertise: Investigation</content> 
+  <content contentuid="h80d2aa2agdd46g4399g98d6gb37e1208ebff"
+    version="1">Proficiency and Expertise in Investigation.</content>
+  <content
+    contentuid="h0db1edfbg5b14g4ba5gb657g045087d12890" version="1">Witcher Expertise: Nature</content> 
+  <content
+    contentuid="h099b5310gf994g4ec8gaac4gdc4626b4dee2" version="1">Proficiency and Expertise in
+  Nature.</content>
+  <content contentuid="h07431404g31c1g49e3gbb02ga5a313f15508" version="1">Witcher
+  Expertise: Medicine</content> 
+  <content contentuid="h2f031d46g1cb9g41deg8aa2g638ef03c66e1"
+    version="1">Proficiency and Expertise in Medicine.</content> //Mutant Enhancements <content
+    contentuid="h9b120b98g6bc6g4f34ga45ag2373ed5fdeec" version="1">Aggravating Wounds</content> 
+  <content
+    contentuid="ha3bda703gfbe3g440ega5d6gd43c0c1bb076" version="1">Deal 1d8 additional damage to
+  Bleeding and Poisoned targets.</content>
+  <content
+    contentuid="he82887bdg2a6bg4c04gb76fg750556784fb9" version="1">Sunder Armor</content> 
+  <content
+    contentuid="hbf70b199gc305g4073ga272gce93a848d635" version="1">Your weapon attacks apply Sunder
+  Armor for 2 turns.</content>
+  <content contentuid="hee62585fg70cdg4309g9fd7gd7e0be22e34f"
+    version="1">AC reduced by 1.</content>
+  <content
+    contentuid="h9d7c7777g6f14g49c7gafafged9f3734fd70" version="1">Persuasive Presence</content> 
+  <content
+    contentuid="h0a49a7eegec8cg4b5ega794g64ea88a686d9" version="1">Learn the Charm Person spell.</content>
+  <content
+    contentuid="h2049a99cg617cg4a41ga345geb65c09e01b2" version="1">Intimidating Presence</content> 
+  <content
+    contentuid="hcd301082g5c66g41acgbd19g2ac8d58fd4b5" version="1">Learn the Thaumaturgy spell.</content>
+  <content
+    contentuid="h49fed922gb767g4b63g945ag04bc49424621" version="1">Maiming Strike</content> 
+  <content
+    contentuid="h857f534ege331g40bega55agc334d0032cab" version="1">Your ranged weapon attacks have a
+  high chance to apply Crippled.</content>
+  <content
+    contentuid="h6216895bgcfd3g4777g9366gd65ef6c25f26" version="1">Melt Armor</content> 
+  <content
+    contentuid="h9a2ea0d2gbbd5g44f8g8210gb84abb04afa7" version="1">Enhanced Movement</content> 
+  <content
+    contentuid="h8e795467ga99bg4f26gaf8dg5570dc77808f" version="1">+3m movement speed</content> 
+  <content
+    contentuid="hb0b39cbdg8cd3g44c6g8e86gd1eff5087383" version="1">Enhanced Reflexes</content> 
+  <content
+    contentuid="hfc11c512gc3d2g4299ga26bg64a00c63d0c3" version="1">+2 Initiative</content>
+  <content
+    contentuid="h38c74cacg9241g4fddgb8beg535428cf26d0" version="1">Intimidating Presence</content> 
+  <content
+    contentuid="hfe0385cdgc21ag4b23ga9ddg2150fd3f5fd9" version="1">Gain Proficiency and Expertise in
+  Intimidation.</content>
+  <content contentuid="h6fda31ceg4eb7g4864g91f9g7ae86792622d" version="1">Iron
+  Flesh</content> 
+  <content contentuid="h5763cf6eg81b5g471fgb70bg9673bb19283c" version="1">Take less
+  damage from all sources equal to your Constitution modifier.</content>
+  <content
+    contentuid="hf89f2747gca4dg4ed4gaffbg67e8861fb6b1" version="1">Unbreakable Mind</content> 
+  <content
+    contentuid="h3a20c4begd949g4c4dg90d8g332fd4e72854" version="1">Advantage on Constitution and
+  Wisdom Saving Throws.</content>
+  <content contentuid="hbff5d6d4gc89dg41f0g8c2eg99b4ab6bc59f"
+    version="1">Murderous Surge</content> 
+  <content contentuid="h27d5916fg4305g40a8g8eb3g7fea4df0ead7"
+    version="1">Once per turn, recover 6m movement speed on kills.</content>
+  <content
+    contentuid="h48f3283fg93f1g44b7gace4g4d549f9c8aba" version="1">+6m movement speed.</content> --
+  SIGNS -- <content contentuid="h61435b3egf9fbg4251g8eafg24b94b5406f9" version="1">Witcher Signs I</content> 
+  <content
+    contentuid="h443ff662g423cg4436gb1e3gbc37874f8111" version="1">Unlocks the basic form of Witcher
+  signs</content>
+  <content contentuid="h4f19322cg4232g47dfga70fge828647d9b41" version="1">Witcher
+  Signs II</content> 
+  <content contentuid="hc99f78e6g0349g4a26gb006g3d799ba4fa99" version="1">Unlocks
+  the improved form of Witcher signs</content>
+  <content
+    contentuid="h83d427d2g282bg448bga7d2gf057813a706e" version="1">Witcher Signs III</content> 
+  <content
+    contentuid="h3c4ab1d9ga001g4f40g9615g71c6297eefd3" version="1">Unlocks the final form of Witcher
+  signs</content>
   <content contentuid="h38223a72g2cdfg45c2ga952g8eb3d216ed57" version="1">Aard</content> 
-  <content contentuid="hc917f757ge2d3g4236g8f5bg14aefa140abc" version="1">A cone of concussive force explodes from your palm, throwing opponents back.</content>
-  <content contentuid="hdd9f7ea3gd1e5g4467g9152gf0274feffdbe" version="1">Aard:Alt</content> 
-  <content contentuid="hf06aaa8fg25d3g475bga322g5b7dd0fa7a25" version="1">Alternate:You unleash a weaker wave of force around yourself, throwing opponents back.</content>
-  <content contentuid="h3dfdfb66gcb9ag42f8g9618ge82293589c7b" version="1">Igni</content> 
-  <content contentuid="h2a7538edg1a17g4c84g9239g1346996c0797" version="1">A cone of searing flame shoots from your fingers, stinging nearby opponents</content>
-  <content contentuid="h3ac9d4c5g706cg489bgaf74g8112a7e29e04" version="1">Igni:Alt</content> 
-  <content contentuid="hf51475e1g4de7g436cgaf8cgefc2658c4c3f" version="1">Alternate:A concentrated beam of fire shoots from your fingers, scorching targets further away</content>
-  <content contentuid="h087cdc2bg6b86g4748gb793g37246d45b067" version="1">Quen</content> 
-  <content contentuid="hdfa95f30gb7b6g4b1bg863ag9e8800cb987e" version="1">A protective shield envelops you, absorbing incoming damage.</content>
-  <content contentuid="h382d9f84g50fdg47c6gbc5dg8c819660d331" version="1">Quen:Alt</content> 
-  <content contentuid="h04286783g538fg4243ga909g7b290dcb0c2c" version="1">Alternate:A stronger shield takes your full effort to create, shielding and healing you for incoming damage</content>
-  <content contentuid="ha53a0850gb2eag4496g802dgce7b9c204737" version="1">Axii</content> 
-  <content contentuid="h3d9c0a7cgcb76g4df1g922eg3e6f0afd2ef7" version="1">Stuns your target.</content>
-  <content contentuid="h524cf6fegac9dg411bgb85fga6b702286c94" version="1">Axii:Alt</content> 
-  <content contentuid="h6e7abcc7g3795g4d86gbd1agd4d8bcdb28b1" version="1">[EASIER SAVING THROW]Alternate: Dominates an enemy to fight for you.</content>
-  <content contentuid="ha9b0b436ga467g47abgbeb4gaeb8b3e9c728" version="1">Yrden</content> 
-  <content contentuid="had0ae984g55cdg4999g9ee6gdf5aa75782b7" version="1">Creates a ward on the ground before you that slowing enemies that wander in its proximity</content>
-  <content contentuid="hacbe188fgcf5cg4f2fg880eg493df4337c85" version="1">Yrden Aura</content> 
-  <content contentuid="hda40bb61g0c19g4101gb306gceaf213c582f" version="1">Enemies within the aura are Slowed and Revealed</content>
-  <content contentuid="hda40bb61g0c19g4101gb306gceaf213c582f" version="1">Slowed and Revealed</content>
-  <content contentuid="h70c6a837g93a1g490bgba88g26c19b35f3e8" version="1">Yrden:Alt</content> 
-  <content contentuid="hc9c43271gf9dbg4c12ga67ege85467bf39ae" version="1">Alternate:Creates a damaging ward on the that deals Lightning damage to enemies in the area</content>
-  <content contentuid="hacca9127gbbb9g42e1g8bd9g4109ee2e2557" version="1">Yrden:Alt Aura</content> 
-  <content contentuid="h5fc1afa6g9d10g4589g8d33g2df56622582f" version="1">Take Lightning damage at the start of every turn</content>
-  <content contentuid="h04f56fa6g7a77g4bb7gba9eg7a066d39bdc4" version="1">Heliotrope</content> 
-  <content contentuid="hbff30102ge075g4751gbf1dg7d9cf23faaf3" version="1">Gain an Action and Bonus Action.</content>
-  <content contentuid="hf22859abg3ca6g44a2g9ff0g1ab0c70fb0ba" version="1">BALANCED Heliotrope</content> 
-  <content contentuid="h3236b7d5g077bg42e3g994agfe03a7ea2cad" version="1">Gain an Action and Bonus Action. Enemies are fucked.</content>
-  <content contentuid="h8574d051g4a17g4c9cga6c1gd56351cd6a20" version="1">BALANCED Heliotrope Aura</content> 
-  <content contentuid="h601ae09cgac07g4540g9e8bg3c426c424245" version="1">You're fucked.</content>
-  <content contentuid="h4cefac30g2a61g43e3g8655g7d0877deb1c3" version="1">Quen:Shield</content> 
-  <content contentuid="h32374a92gd34dg4e3agb9e6g890a1ae23ed7" version="1">Gain Temporary HP. Enemy attacks release a retaliating blast that deals Force damage</content>
-  <content contentuid="hc64ae53eg99deg41a2gb8ebge08234d23be7" version="1">Quen:Alt Enhanced Shield</content> 
-  <content contentuid="ha3f881fcg14cbg41f0g897bga9d765895dc4" version="1">Gain Effects of Quen Aura. Gain additional Temporary HP, and enemy attacks heal you.</content>
+  <content
+    contentuid="hc917f757ge2d3g4236g8f5bg14aefa140abc" version="1">A cone of concussive force
+  explodes from your palm, throwing opponents back.</content>
+  <content
+    contentuid="hdd9f7ea3gd1e5g4467g9152gf0274feffdbe" version="1">Aard:Alt</content> 
+  <content
+    contentuid="hf06aaa8fg25d3g475bga322g5b7dd0fa7a25" version="1">Alternate:You unleash a weaker
+  wave of force around yourself, throwing opponents back.</content>
+  <content
+    contentuid="h3dfdfb66gcb9ag42f8g9618ge82293589c7b" version="1">Igni</content> 
+  <content
+    contentuid="h2a7538edg1a17g4c84g9239g1346996c0797" version="1">A cone of searing flame shoots
+  from your fingers, stinging nearby opponents</content>
+  <content
+    contentuid="h3ac9d4c5g706cg489bgaf74g8112a7e29e04" version="1">Igni:Alt</content> 
+  <content
+    contentuid="hf51475e1g4de7g436cgaf8cgefc2658c4c3f" version="1">Alternate:A concentrated beam of
+  fire shoots from your fingers, scorching targets further away</content>
+  <content
+    contentuid="h087cdc2bg6b86g4748gb793g37246d45b067" version="1">Quen</content> 
+  <content
+    contentuid="hdfa95f30gb7b6g4b1bg863ag9e8800cb987e" version="1">A protective shield envelops you,
+  absorbing incoming damage.</content>
+  <content contentuid="h382d9f84g50fdg47c6gbc5dg8c819660d331"
+    version="1">Quen:Alt</content> 
+  <content contentuid="h04286783g538fg4243ga909g7b290dcb0c2c"
+    version="1">Alternate:A stronger shield takes your full effort to create, shielding and healing
+  you for incoming damage</content>
+  <content contentuid="ha53a0850gb2eag4496g802dgce7b9c204737"
+    version="1">Axii</content> 
+  <content contentuid="h3d9c0a7cgcb76g4df1g922eg3e6f0afd2ef7"
+    version="1">Stuns your target.</content>
+  <content
+    contentuid="h524cf6fegac9dg411bgb85fga6b702286c94" version="1">Axii:Alt</content> 
+  <content
+    contentuid="h6e7abcc7g3795g4d86gbd1agd4d8bcdb28b1" version="1">[EASIER SAVING THROW]Alternate:
+  Dominates an enemy to fight for you.</content>
+  <content
+    contentuid="ha9b0b436ga467g47abgbeb4gaeb8b3e9c728" version="1">Yrden</content> 
+  <content
+    contentuid="had0ae984g55cdg4999g9ee6gdf5aa75782b7" version="1">Creates a ward on the ground
+  before you that slowing enemies that wander in its proximity</content>
+  <content
+    contentuid="hacbe188fgcf5cg4f2fg880eg493df4337c85" version="1">Yrden Aura</content> 
+  <content
+    contentuid="hda40bb61g0c19g4101gb306gceaf213c582f" version="1">Enemies within the aura are
+    Slowed and Revealed</content>
+  <content contentuid="hda40bb61g0c19g4101gb306gceaf213c582f"
+    version="1">Slowed and Revealed</content>
+  <content
+    contentuid="h70c6a837g93a1g490bgba88g26c19b35f3e8" version="1">Yrden:Alt</content> 
+  <content
+    contentuid="hc9c43271gf9dbg4c12ga67ege85467bf39ae" version="1">Alternate:Creates a damaging ward
+  on the that deals Lightning damage to enemies in the area</content>
+  <content
+    contentuid="hacca9127gbbb9g42e1g8bd9g4109ee2e2557" version="1">Yrden:Alt Aura</content> 
+  <content
+    contentuid="h5fc1afa6g9d10g4589g8d33g2df56622582f" version="1">Take Lightning damage at the
+    start of every turn</content>
+  <content contentuid="h04f56fa6g7a77g4bb7gba9eg7a066d39bdc4"
+    version="1">Heliotrope</content> 
+  <content contentuid="hbff30102ge075g4751gbf1dg7d9cf23faaf3"
+    version="1">Banana Tiger. Restore all resources, gain advantage on Attack Rolls and
+    reduced Critical Threshold</content>
+  <content contentuid="hf22859abg3ca6g44a2g9ff0g1ab0c70fb0ba"
+    version="1">BALANCED
+    Heliotrope</content> 
+  <content contentuid="h3236b7d5g077bg42e3g994agfe03a7ea2cad" version="1">Time
+  Stop. Enemies are fucked.</content>
+  <content
+    contentuid="h8574d051g4a17g4c9cga6c1gd56351cd6a20" version="1">BALANCED Heliotrope Aura</content> 
+  <content
+    contentuid="h601ae09cgac07g4540g9e8bg3c426c424245" version="1">You're fucked.</content>
+  <content
+    contentuid="h4cefac30g2a61g43e3g8655g7d0877deb1c3" version="1">Quen:Shield</content> 
+  <content
+    contentuid="h32374a92gd34dg4e3agb9e6g890a1ae23ed7" version="1">Gain Temporary HP. Enemy attacks
+  release a retaliating blast that deals Force damage</content>
+  <content
+    contentuid="hc64ae53eg99deg41a2gb8ebge08234d23be7" version="1">Quen:Alt Enhanced Shield</content> 
+  <content
+    contentuid="ha3f881fcg14cbg41f0g897bga9d765895dc4" version="1">Gain Effects of Quen Aura. Gain
+  additional Temporary HP, and enemy attacks heal you.</content>
 </contentList>
