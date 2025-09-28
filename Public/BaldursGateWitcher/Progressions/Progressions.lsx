@@ -48,7 +48,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString"
-                        value="BGW_HelioUnlock_1;BGW_UltimateAttack_Passive" />
+                        value="BGW_HelioUnlock_1;BGW_Focus_Passive_Unlock" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f" />

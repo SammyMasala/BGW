@@ -352,5 +352,22 @@ data "TargetConditions" "Self()"
 data "UseCosts" "BonusActionPoint:1"
 data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;IsHarmful"
 
+new entry "Shout_BGW_Focus"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ActionSurge"
+data "Cooldown" ""
+data "SpellProperties" "SetStatusDuration(SELF, STATUS_BGW_FOCUSED,1,Add); IF(not HasStatus('STATUS_BGW_FOCUSED', context.Source)):ApplyStatus(SELF,STATUS_BGW_FOCUSED,1);ApplyStatus(SELF,STATUS_BGW_FOCUSED_DURATION_TECHNICAL,100, 2)"
+data "UseCosts" "BonusActionPoint:1"
+
+new entry "Shout_BGW_Rend"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ActionSurge"
+data "Icon" "Action_Wolf_Bite"
+data "Cooldown" ""
+data "RequirementConditions" "HasStatus('STATUS_BGW_FOCUSED') and StatusDurationEqualOrMoreThan(context.Target, 'STATUS_BGW_FOCUSED', 3)"
+data "SpellProperties" "ApplyStatus(SELF, STATUS_BGW_REND_CRITICAL, 100, 1)"
+data "UseCosts" ""
 
 

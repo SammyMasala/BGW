@@ -31,6 +31,11 @@ type "PassiveData"
 using "BGW_HelioUnlock_1"
 data "Boosts" "UnlockSpell(Shout_BGW_HELIOTROPE_2)"
 
+new entry "BGW_Focus_Passive_Unlock"
+type "PassiveData"
+data "Icon" "statIcons_Violence"
+data "Boosts" "UnlockSpell(Shout_BGW_Focus);UnlockSpell(Zone_BGW_Whirl);UnlockSpell(Shout_BGW_Rend);UnlockSpell(Zone_BGW_Rend)"
+
 new entry "BGW_MutantEnhancement_IntimidatingPresence"
 type "PassiveData"
 data "DisplayName" "h2049a99cg617cg4a41ga345geb65c09e01b2;1"
