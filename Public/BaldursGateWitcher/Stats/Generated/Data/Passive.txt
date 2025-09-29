@@ -102,19 +102,19 @@ using "BGW_Quen"
 data "DisplayName" "hc64ae53eg99deg41a2gb8ebge08234d23be7;1"
 data "Description" "ha3f881fcg14cbg41f0g897bga9d765895dc4;1"
 data "DescriptionParams" "DealDamage(2d4+2,Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast);RegainHitPoints(2d4+2)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast);RegainHitPoints(1d4+1)"
 
 new entry "BGW_QuenAlt_2"
 type "PassiveData"
 using "BGW_QuenAlt"
 data "DescriptionParams" "DealDamage(3d4+3, Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints(3d4+3)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints(2d4+2)"
 
 new entry "BGW_QuenAlt_3
 type "PassiveData"
 using "BGW_QuenAlt"
 data "DescriptionParams" "DealDamage(4d4+4,Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints(4d4+4)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints(3d4+3)"
 
 new entry "BGW_LethalPrecision"
 type "PassiveData"
