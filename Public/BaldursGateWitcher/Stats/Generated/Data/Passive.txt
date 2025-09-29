@@ -87,13 +87,13 @@ data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SE
 new entry "BGW_Quen_2"
 type "PassiveData"
 using "BGW_Quen"
-data "DescriptionParams" "DealDamage(4d4+4, Force)"
+data "DescriptionParams" "DealDamage(3d4+3, Force)"
 data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2)"
 
 new entry "BGW_Quen_3"
 type "PassiveData"
 using "BGW_Quen"
-data "DescriptionParams" "DealDamage(6d4+6,Force)"
+data "DescriptionParams" "DealDamage(4d4+4,Force)"
 data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3)"
 
 new entry "BGW_QuenAlt"
@@ -107,14 +107,14 @@ data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SE
 new entry "BGW_QuenAlt_2"
 type "PassiveData"
 using "BGW_QuenAlt"
-data "DescriptionParams" "DealDamage(4d4+4, Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints(4d4+4)"
+data "DescriptionParams" "DealDamage(3d4+3, Force)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_2);RegainHitPoints(3d4+3)"
 
 new entry "BGW_QuenAlt_3
 type "PassiveData"
 using "BGW_QuenAlt"
-data "DescriptionParams" "DealDamage(6d4+6,Force)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints(6d4+6)"
+data "DescriptionParams" "DealDamage(4d4+4,Force)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);CreateExplosion(Projectile_BGW_QuenBlast_3);RegainHitPoints(4d4+4)"
 
 new entry "BGW_LethalPrecision"
 type "PassiveData"
