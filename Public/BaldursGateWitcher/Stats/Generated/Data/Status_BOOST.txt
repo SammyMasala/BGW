@@ -360,5 +360,40 @@ data "DisplayName" "h54bc3691g2019g45b1gb026gf5ccfe750528;1"
 data "Description" "h7efe4ec1g54f4g45d2gbb8fg6f764e560fa8;1"
 data "Boosts" "UnlockSpell(Target_BGW_Deathbringer)"
 
+new entry "STATUS_BGW_FOCUSED"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackPriority" "1"
+data "Icon" "statIcons_Violence"
+data "StackId" "STATUS_BGW_FOCUSED"
+data "StackType" "Additive"
+data "Boosts" "IF(IsMeleeWeaponAttack()):CharacterWeaponDamage(2d6)"
+data "StatusPropertyFlags" "MultiplyEffectsByDuration;FreezeDuration"
+data "RemoveConditions" "IsAttack()"
+data "RemoveEvents" "OnAttack"
+data "TickType" ""
+data "ApplyEffect" "6757b0ff-7bc8-489b-b474-e6c7b867cef3"
+data "StatusEffect" "2dfef979-a542-4b9e-8854-436216f2836b"
+
+new entry "STATUS_BGW_FOCUSED_DURATION_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h7ec0047fg9ebbg473dga434g8b0397402b6f;1"
+data "StackId" "STATUS_BGW_FOCUSED_DURATION_TECHNICAL"
+data "StackType" "Overwrite"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnApplyFunctors" "IF(MaximumHighStackableStatus(context.Target, 'STATUS_BGW_FOCUSED')):SetStatusDuration(STATUS_BGW_FOCUSED, 5, ForceSet)"
+
+new entry "STATUS_BGW_REND_CRITICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Boosts" "CriticalHit(AttackRoll,Success,ForcedAlways);"
+data "RemoveConditions" "IsCritical()"
+
+
+
+
+
+
 
 
