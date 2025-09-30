@@ -34,7 +34,7 @@ data "Boosts" "UnlockSpell(Shout_BGW_HELIOTROPE_2)"
 new entry "BGW_Focus_Passive_Unlock"
 type "PassiveData"
 data "Icon" "statIcons_Violence"
-data "Boosts" "UnlockSpell(Shout_BGW_Focus);UnlockSpell(Zone_BGW_Whirl);UnlockSpell(Shout_BGW_Rend);UnlockSpell(Zone_BGW_Rend)"
+data "Boosts" "UnlockSpell(Shout_BGW_Focus);UnlockSpell(Zone_BGW_Whirl);UnlockSpell(Zone_BGW_Rend)"
 
 new entry "BGW_MutantEnhancement_IntimidatingPresence"
 type "PassiveData"
@@ -305,13 +305,6 @@ type "PassiveData"
 data "DisplayName" "h8cdf77c5g5392g4a0ag99cdg809576df36f4;1"
 data "Description" "hbfa1f429gd9a8g43e3g8295g6b0c01bda359;2"
 data "Boosts" "IF(not Tagged('HUMANOID',context.Target)):IgnoreResistance(Slashing, Resistant)"
-
-new entry "BGW_UltimateAttack_Passive"
-type "PassiveData"
-data "DisplayName" "h61435b3egf9fbg4251g8eafg24b94b5406f9;1"
-data "Description" "h443ff662g423cg4436gb1e3gbc37874f8111;1"
-data "Icon" "Action_Mag_SpellSlotRestoration_1"
-data "Boosts" "UnlockSpell(Zone_BGW_Whirl)"
 
 
 
