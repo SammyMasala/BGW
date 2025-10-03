@@ -1,0 +1,7 @@
+new entry "BGW_OBJ_Stuff_Backpack"
+type "Object"
+using "_Container"
+data "RootTemplate" "23bef5cb-a2d7-4122-bc89-1c2f7d7fe284"
+data "ValueOverride" "7"
+data "Weight" "0.1"
+data "Rarity" "VeryRare"

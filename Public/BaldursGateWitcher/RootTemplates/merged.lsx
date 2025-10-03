@@ -5,6 +5,32 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h8887b782gd21fg4a12g933eg88ab1d9e250d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h831b521ag8e43g4472g86b5g06366fea142d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Backpack_C_Posed_A" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="23bef5cb-a2d7-4122-bc89-1c2f7d7fe284" />
+					<attribute id="Name" type="LSString" value="BGW_OBJ_Stuff_Backpack" />
+					<attribute id="ParentTemplateId" type="FixedString" value="aebf62bd-e68d-4e14-9ed7-1d51289a3e4e" />
+					<attribute id="Scale" type="float" value="0.85" />
+					<attribute id="Stats" type="FixedString" value="BGW_OBJ_Stuff_Backpack" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<children>
+						<node id="GameMaster" />
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="BGW_OBJ_Stuff_Backpack_TT" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString"
 						handle="h996611a6g19ecg46bcgbf0fg3c714e75483d" version="1" />
 					<attribute id="DisplayName" type="TranslatedString"

@@ -1,0 +1,34 @@
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_BGW_OBJ_Stuff_Backpack",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_BGW_OBJ_Stuff_Backpack",1,0,0,0,0,0,0,0
+
+new treasuretable "BGW_OBJ_Stuff_Backpack_TT"
+CanMerge 1
+new subtable "1,1"
+object category "I_BGW_SilverSword_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_SeluneMight",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_KarlachsDrip",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_TrueHeirPlate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_TrueHeirGloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_TrueHeirBoots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_TrueHeirCirclet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_WitchersHandCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_DeathbringerGauntlets",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BGW_BarlguraSneakers",1,0,0,0,0,0,0,0
+
