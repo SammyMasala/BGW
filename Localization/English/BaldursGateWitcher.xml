@@ -195,7 +195,7 @@
   <content
     contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
   <content
-    contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Focus</content> 
+    contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Stamina</content> 
   <content
     contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Enter a state of utter focus. Able to parry incoming attacks and deal felling blows.</content> 
   <content
@@ -210,11 +210,11 @@
   <content
     contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 
   <content
-    contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with Proficient weapons.</content>
+    contentuid="h669c4a2cgdf3dg4e1bg9171gb76ea9557a68" version="1">+2 to Attack Rolls with Proficient weapons while under the influence of an Elixir.</content>
   <content contentuid="hdadb4cb8g1db1g4e32gb3c7g51baf5a9adc8"
     version="1">Sign Intensity</content> 
   <content contentuid="h6aa39bf5g51feg478bgaba9ga37665b4993a"
-    version="1">+2 to Spell Save DC.</content> //Witcher Expertise <content
+    version="1">+2 to Spell Save DC while under the influence of an Elixir.</content> //Witcher Expertise <content
     contentuid="hd71570f8g8b66g4c47g9983gf07e8fc6e63b" version="1">Witcher Expertise</content> 
   <content
     contentuid="h16d6d37cge75cg40b4g9695g86bbecf9108f" version="1">Gain Expertise and Proficiency in two of the following Skills.</content>
