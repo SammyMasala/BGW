@@ -120,7 +120,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString"
-                        value="ExtraAttack_2;BGW_CripplingStrikes;BGW_Focus_Passive_Unlock" />
+                        value="ExtraAttack_2;BGW_CripplingStrikes" />
                     <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
