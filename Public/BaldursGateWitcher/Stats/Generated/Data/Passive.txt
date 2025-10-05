@@ -311,7 +311,7 @@ data "Description" "hfe1defe8gb391g4223g94b9gb6dd1c65352d"
 data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "Combat() and IsWeaponAttack() and not IsMiss()"
-data "StatsFunctors" "SetStatusDuration(SELF, STATUS_BGW_ADRENALINE,1,Add); IF(not HasStatus('STATUS_BGW_ADRENALINE', context.Source)):ApplyStatus(SELF,STATUS_BGW_ADRENALINE,100,1)"
+data "StatsFunctors" "IF(StatusDurationLessThan(context.Source, 'STATUS_BGW_ADRENALINE', 3)):SetStatusDuration(SELF, STATUS_BGW_ADRENALINE,1,Add); IF(not HasStatus('STATUS_BGW_ADRENALINE', context.Source)):ApplyStatus(SELF,STATUS_BGW_ADRENALINE,100,1)"
 
 new entry "BGW_Adrenaline_Loss_Passive"
 type "PassiveData"
@@ -319,7 +319,7 @@ data "DisplayName" "h70a1b451gee3dg4ef9g8649ge8f65cb770e1;1"
 data "Description" "hfe1defe8gb391g4223g94b9gb6dd1c65352d"
 data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnDamaged"
-data "StatsFunctors" "SetStatusDuration(SELF, STATUS_BGW_ADRENALINE,-2,Add)"
+data "StatsFunctors" "SetStatusDuration(STATUS_BGW_ADRENALINE,-2,Add)"
 
 
 

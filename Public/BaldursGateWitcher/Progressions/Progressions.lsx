@@ -45,7 +45,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString"
-                        value="BGW_HelioUnlock_1;BGW_Adrenaline_Gain_Passive;BGW_Adrenaline_Loss_Passive" />
+                        value="BGW_HelioUnlock_1" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f" />
@@ -53,7 +53,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="5" />
                     <attribute id="Name" type="LSString" value="Witcher" />
-                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack" />
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;BGW_Adrenaline_Gain_Passive;BGW_Adrenaline_Loss_Passive" />
                     <attribute id="Selectors" type="LSString"
                         value="SelectPassives(db928125-746e-48ac-b6b3-d75aa9a35278,2,MutantEnhancement)" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -62,6 +62,7 @@
                     <attribute id="UUID" type="guid" value="468b5fc1-f396-42e4-892f-94a158caf05f" />
                 </node>
                 <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
