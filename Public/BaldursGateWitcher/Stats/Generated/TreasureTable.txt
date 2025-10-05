@@ -3,12 +3,6 @@ CanMerge 1
 new subtable "1,1"
 object category "I_BGW_OBJ_Stuff_Backpack",1,0,0,0,0,0,0,0
 
-
-new treasuretable "HAV_HarperQuarterMaster"
-CanMerge 1
-new subtable "1,1"
-object category "I_BGW_OBJ_Stuff_Backpack",1,0,0,0,0,0,0,0
-
 new treasuretable "BGW_OBJ_Stuff_Backpack_TT"
 CanMerge 1
 new subtable "1,1"
