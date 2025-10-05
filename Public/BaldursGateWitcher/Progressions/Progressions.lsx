@@ -5,7 +5,6 @@
         <node id="root">
             <children>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -19,7 +18,6 @@
                     <attribute id="UUID" type="guid" value="ed7b629c-01e1-488d-88db-61851c63da27" />
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="2" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -32,7 +30,6 @@
                     <attribute id="UUID" type="guid" value="2c44cc2b-d52f-4363-a057-c9ae19825d29" />
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -54,7 +51,6 @@
                     <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f" />
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="5" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack" />
@@ -66,7 +62,6 @@
                     <attribute id="UUID" type="guid" value="468b5fc1-f396-42e4-892f-94a158caf05f" />
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -110,7 +105,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesRemoved" type="LSString" value="BGW_HelioUnlock_1" />
-                    <attribute id="PassivesAdded" type="LSString" value="BGW_HelioUnlock_2" />
+                    <attribute id="PassivesAdded" type="LSString" value="BGW_HelioUnlock_2;BGW_Focus_Passive_Unlock" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="583e9731-c4d0-4f96-a094-ca8bbd721c62" />
@@ -120,7 +115,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString"
-                        value="ExtraAttack_2;BGW_CripplingStrikes;BGW_Focus_Passive_Unlock;BGW_Combat_Mastery" />
+                        value="ExtraAttack_2;BGW_CripplingStrikes" />
                     <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
@@ -131,12 +126,13 @@
                     <attribute id="Level" type="uint8" value="12" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="PassivesAdded" type="LSString"
+                        value="BGW_Combat_Mastery" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="531a00c9-d0c0-4522-9ebd-bfd93528186e" />
                 </node>
                 <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="Level" type="uint8" value="13" />
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
