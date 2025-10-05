@@ -195,9 +195,9 @@
   <content
     contentuid="h9eca98c1ga661g48e4gb340ge5af7bd40a0b" version="1">Chance to instantly execute Prone enemies. Increased by Proficiency Bonus</content> 
   <content
-    contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Witcher's Stamina</content> 
+    contentuid="h70a1b451gee3dg4ef9g8649ge8f65cb770e1" version="1">Adrenaline</content> 
   <content
-    contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Enter a state of utter focus. Able to parry incoming attacks and deal felling blows.</content> 
+    contentuid="hfe1defe8gb391g4223g94b9gb6dd1c65352d" version="1">Deal increased damage per stack of adrenaline. Landing successful attacks increases stacks. Taking damage reduces stacks</content> 
   <content
     contentuid="hd7de5597g744bg4a9bg8f33g992389177ab9" version="1">Crippling Strikes</content> 
   <content
@@ -205,7 +205,11 @@
   <content contentuid="ha7144b83g52d6g4ae2gafaag3ff7d0432084"
     version="1">Rend</content> 
   <content contentuid="h051efc4dg344cg41c9ga16cgdc08bfed00e1"
-    version="1">A concentrated strike that consumes all charges of Focus to deal monstrous damage.</content> // Elixir Bonus <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
+    version="1">A concentrated strike that consumes all charges of Adrenaline to deal monstrous damage.</content> 
+      <content contentuid="h799659d9g011ag4f2eg8c0dgeaeeef4f2d75"
+    version="1">Combat Mastery</content> 
+  <content contentuid="h1d9b671bg54f6g4222g8043g6780aa915838"
+    version="1">OVERPOWERED Ultimate attacks</content> // Elixir Bonus <content contentuid="h269331a4g5124g491cg8e4bg6cb3e462f2ec" version="1">Specialization: Elixir Bonus</content> 
   <content contentuid="ha6a8e7d0ge7dcg475agbbb8g047045e32e9d" version="1">Gain one of the following additional effects while under the influence of an Elixir.</content>
   <content
     contentuid="h382cc05fg3a59g45efgbd4ag9177bb738d37" version="1">Lethal Precision</content> 

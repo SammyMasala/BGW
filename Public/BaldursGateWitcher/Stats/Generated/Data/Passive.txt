@@ -31,8 +31,10 @@ type "PassiveData"
 using "BGW_HelioUnlock_1"
 data "Boosts" "UnlockSpell(Shout_BGW_HELIOTROPE_2)"
 
-new entry "BGW_Focus_Passive_Unlock"
+new entry "BGW_Combat_Mastery"
 type "PassiveData"
+data "DisplayName" "h799659d9g011ag4f2eg8c0dgeaeeef4f2d75;1"
+data "Description" "h1d9b671bg54f6g4222g8043g6780aa915838;1"
 data "Icon" "statIcons_Violence"
 data "Boosts" "UnlockSpell(Zone_BGW_Whirl);UnlockSpell(Zone_BGW_Rend)"
 
@@ -302,14 +304,22 @@ data "DisplayName" "h8cdf77c5g5392g4a0ag99cdg809576df36f4;1"
 data "Description" "hbfa1f429gd9a8g43e3g8295g6b0c01bda359;2"
 data "Boosts" "IF(not Tagged('HUMANOID',context.Target)):IgnoreResistance(Slashing, Resistant)"
 
-new entry "BGW_Combat_Mastery"
+new entry "BGW_Adrenaline_Gain_Passive"
 type "PassiveData"
 data "DisplayName" "h70a1b451gee3dg4ef9g8649ge8f65cb770e1;1"
 data "Description" "hfe1defe8gb391g4223g94b9gb6dd1c65352d"
 data "Properties" "IsHidden"
-data "StatsFunctorContext" "OnCreate;OnTurn"
-data "Conditions" "Combat()"
-data "StatsFunctors" "SetStatusDuration(SELF, STATUS_BGW_STAMINA,1,Add); IF(not HasStatus('STATUS_BGW_STAMINA', context.Source)):ApplyStatus(SELF,STATUS_BGW_STAMINA,100,1);ApplyStatus(SELF,STATUS_BGW_STAMINA_DURATION_TECHNICAL,100, 1)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "Combat() and IsWeaponAttack() and not IsMiss()"
+data "StatsFunctors" "SetStatusDuration(SELF, STATUS_BGW_ADRENALINE,1,Add); IF(not HasStatus('STATUS_BGW_ADRENALINE', context.Source)):ApplyStatus(SELF,STATUS_BGW_ADRENALINE,100,1)"
+
+new entry "BGW_Adrenaline_Loss_Passive"
+type "PassiveData"
+data "DisplayName" "h70a1b451gee3dg4ef9g8649ge8f65cb770e1;1"
+data "Description" "hfe1defe8gb391g4223g94b9gb6dd1c65352d"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamaged"
+data "StatsFunctors" "SetStatusDuration(SELF, STATUS_BGW_ADRENALINE,-2,Add)"
 
 
 

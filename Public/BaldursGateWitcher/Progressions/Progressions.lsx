@@ -45,7 +45,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString"
-                        value="BGW_HelioUnlock_1" />
+                        value="BGW_HelioUnlock_1;BGW_Adrenaline_Gain_Passive;BGW_Adrenaline_Loss_Passive" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="530bc4e1-048c-47ef-91ab-ae63e70a5b7f" />
@@ -105,7 +105,7 @@
                     <attribute id="Name" type="LSString" value="Witcher" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesRemoved" type="LSString" value="BGW_HelioUnlock_1" />
-                    <attribute id="PassivesAdded" type="LSString" value="BGW_HelioUnlock_2;BGW_Focus_Passive_Unlock" />
+                    <attribute id="PassivesAdded" type="LSString" value="BGW_HelioUnlock_2;" />
                     <attribute id="TableUUID" type="guid"
                         value="5bea0634-9e49-409b-8597-e47bd46514a0" />
                     <attribute id="UUID" type="guid" value="583e9731-c4d0-4f96-a094-ca8bbd721c62" />
